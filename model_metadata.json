@@ -1,0 +1,19 @@
+{
+  "best_model": "Gradient Boosting",
+  "target": "Calories_Burned_kcal",
+  "features": [
+    "Gender",
+    "Age_years",
+    "Height_cm",
+    "Weight_kg",
+    "Duration_min",
+    "Heart_Rate_bpm",
+    "Body_Temp_C",
+    "BMI"
+  ],
+  "test_MAE": 20.45302958412881,
+  "test_RMSE": 25.51005787007748,
+  "test_R2": 0.971130450999109,
+  "random_state": 42,
+  "test_size": 0.2
+}
