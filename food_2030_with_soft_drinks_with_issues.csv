@@ -1,0 +1,2036 @@
+Food_ID,Food_Name,Category,Calories_kcal_per_100g,Protein_g_per_100g,Carbohydrates_g_per_100g,Fat_g_per_100g,Fiber_g_per_100g
+F0001,"Rice, cooked",Rice & Grains,130.0,2.7,28.2,0.3,0.4
+F0002,"Brown rice, cooked",Rice & Grains,123.0,2.7,25.6,1.0,1.6
+F0003,"Roti, whole wheat",Grains & Bread,297.0,9.6,55.0,4.5,9.0
+F0004,Chapati,Grains & Bread,297.0,9.6,55.0,4.5,9.0
+F0005,Naan,Grains & Bread,310.0,8.7,50.0,8.0,2.0
+F0006,Poha,Other Foods,158.0,2.8,27.5,3.5,2.5
+F0007,Upma,Other Foods,150.0,3.5,22.0,5.0,2.0
+F0008,Idli,Other Foods,146.0,5.0,28.0,1.0,1.5
+F0009,Dosa,Other Foods,168.0,4.0,29.0,3.5,1.0
+F0010,Masala dosa,Other Foods,180.0,4.5,28.0,5.0,2.0
+F0011,Besan chilla,Other Foods,170.0,7.0,20.0,6.5,4.0
+F0012,Paratha,Grains & Bread,320.0,7.5,45.0,12.0,5.0
+F0013,Aloo paratha,Grains & Bread,260.0,6.0,35.0,10.0,4.0
+F0014,"Dal, cooked",Pulses & Protein,116.0,9.0,20.0,0.4,7.9
+F0015,"Toor dal, cooked",Pulses & Protein,125.0,7.5,20.0,2.0,6.0
+F0016,"Moong dal, cooked",Pulses & Protein,105.0,7.0,19.0,0.4,7.6
+F0017,"Rajma, cooked",Pulses & Protein,127.0,8.7,22.8,0.5,6.4
+F0018,"Chana, cooked",Pulses & Protein,164.0,8.9,27.4,2.6,7.6
+F0019,"Chole, cooked",Other Foods,164.0,8.9,27.4,2.6,7.6
+F0020,Paneer,Dairy,265.0,18.3,6.1,20.8,0.0
+F0021,Low-fat paneer,Dairy,150.0,18.0,5.0,7.0,0.0
+F0022,"Milk, whole",Dairy,61.0,3.2,4.8,3.3,0.0
+F0023,"Milk, low-fat",Dairy,50.0,3.4,5.0,2.0,0.0
+F0024,Curd,Dairy,61.0,3.5,4.7,3.3,0.0
+F0025,Buttermilk,Dairy,40.0,3.0,4.0,1.0,0.0
+F0026,"Egg, boiled",Animal Protein,155.0,12.6,1.1,10.6,0.0
+F0027,"Chicken breast, cooked",Animal Protein,165.0,31.0,0.0,3.6,0.0
+F0028,Chicken curry,Animal Protein,180.0,15.0,5.0,11.0,1.0
+F0029,Fish curry,Animal Protein,160.0,18.0,4.0,8.0,0.5
+F0030,Grilled fish,Animal Protein,150.0,26.0,0.0,5.0,0.0
+F0031,"Soya chunks, cooked",Pulses & Protein,172.0,16.0,10.0,7.0,5.0
+F0032,Tofu,Pulses & Protein,76.0,8.0,1.9,4.8,0.3
+F0033,Palak paneer,Dairy,160.0,8.0,7.0,11.0,3.0
+F0034,Mixed vegetable curry,Vegetables,120.0,3.0,12.0,7.0,4.0
+F0035,Aloo sabzi,Other Foods,130.0,2.5,18.0,5.0,2.5
+F0036,Bhindi,Other Foods,33.0,1.9,7.5,0.2,3.2
+F0037,Baingan bharta,Other Foods,90.0,2.0,10.0,5.0,4.0
+F0038,Dal makhani,Pulses & Protein,150.0,6.0,18.0,6.0,5.0
+F0039,Vegetable pulao,Rice & Grains,170.0,4.0,25.0,6.0,2.5
+F0040,"Biryani, chicken",Rice & Grains,200.0,10.0,25.0,7.0,1.5
+F0041,"Biryani, vegetable",Rice & Grains,180.0,4.0,27.0,6.0,2.5
+F0042,Khichdi,Rice & Grains,140.0,4.5,23.0,3.0,3.0
+F0043,Sambar,Other Foods,75.0,3.5,11.0,2.0,3.0
+F0044,Rasam,Other Foods,40.0,2.0,6.0,1.0,1.0
+F0045,Vada,Other Foods,290.0,7.0,32.0,15.0,4.0
+F0046,Pav bhaji,Other Foods,180.0,4.0,24.0,7.0,4.0
+F0047,Samosa,Other Foods,262.0,5.0,32.0,13.0,3.0
+F0048,Kachori,Other Foods,330.0,7.0,35.0,18.0,3.0
+F0049,Dhokla,Other Foods,160.0,6.0,25.0,3.5,2.0
+F0050,Thepla,Other Foods,290.0,8.0,45.0,8.0,5.0
+F0051,Sprouts,Other Foods,85.0,8.0,14.0,1.0,5.0
+F0052,Peanuts,Pulses & Protein,567.0,25.8,16.1,49.2,8.5
+F0053,Almonds,Nuts & Seeds,579.0,21.2,21.6,49.9,12.5
+F0054,Cashews,Nuts & Seeds,553.0,18.2,30.2,43.9,3.3
+F0055,Walnuts,Nuts & Seeds,654.0,15.2,13.7,65.2,6.7
+F0056,Banana,Fruits,89.0,1.1,22.8,0.3,2.6
+F0057,Apple,Fruits,52.0,0.3,13.8,0.2,2.4
+F0058,Mango,Fruits,60.0,0.8,15.0,0.4,1.6
+F0059,Orange,Fruits,47.0,0.9,11.8,0.1,2.4
+F0060,Papaya,Fruits,43.0,0.5,10.8,0.3,1.7
+F0061,Guava,Fruits,68.0,2.6,14.3,1.0,5.4
+F0062,Watermelon,Fruits,30.0,0.6,7.6,0.2,0.4
+F0063,Pomegranate,Other Foods,83.0,1.7,18.7,1.2,4.0
+F0064,Dates,Other Foods,282.0,2.5,75.0,0.4,8.0
+F0065,"Coconut, fresh",Nuts & Seeds,354.0,3.3,15.2,33.5,9.0
+F0066,"Potato, boiled",Vegetables,87.0,1.9,20.1,0.1,1.8
+F0067,"Sweet potato, boiled",Vegetables,76.0,1.4,17.7,0.1,2.5
+F0068,Carrot,Vegetables,41.0,0.9,9.6,0.2,2.8
+F0069,Cucumber,Vegetables,15.0,0.7,3.6,0.1,0.5
+F0070,Tomato,Vegetables,18.0,0.9,3.9,0.2,1.2
+F0071,Spinach,Vegetables,23.0,2.9,3.6,0.4,2.2
+F0072,Broccoli,Vegetables,34.0,2.8,6.6,0.4,2.6
+F0073,Cauliflower,Vegetables,25.0,1.9,5.0,0.3,2.0
+F0074,Green peas,Pulses & Protein,81.0,5.4,14.5,0.4,5.7
+F0075,"Lassi, plain",Other Foods,70.0,3.5,6.0,3.0,0.0
+F0076,Tea with milk,Dairy,45.0,1.5,6.0,1.5,0.0
+F0077,Coffee with milk,Dairy,55.0,2.0,6.0,2.0,0.0
+F0078,Fruit juice,Fruits,50.0,0.5,12.0,0.1,0.2
+F0079,Roasted makhana,Other Foods,350.0,9.7,77.0,0.1,7.0
+F0080,"Popcorn, air-popped",Other Foods,387.0,12.9,77.8,4.5,14.5
+F0081,Dark chocolate,Sweets & Desserts,598.0,7.8,45.9,42.6,10.9
+F0082,Gulab jamun,Other Foods,320.0,4.0,45.0,14.0,1.0
+F0083,Jalebi,Other Foods,370.0,2.0,70.0,10.0,1.0
+F0084,Kheer,Other Foods,150.0,3.5,22.0,5.0,0.5
+F0085,Ice cream,Dairy,207.0,3.5,24.0,11.0,0.0
+F0086,"Biscuits, plain",Sweets & Desserts,480.0,6.0,68.0,20.0,3.0
+F0087,"Bread, white",Grains & Bread,266.0,8.9,49.0,3.2,2.7
+F0088,"Oats, dry",Grains & Bread,389.0,16.9,66.3,6.9,10.6
+F0089,Cornflakes,Other Foods,357.0,7.5,84.0,0.4,3.0
+F0090,Muesli,Other Foods,350.0,10.0,65.0,7.0,8.0
+F0091,Greek yogurt,Dairy,97.0,9.0,3.9,5.0,0.0
+F0092,Hummus,Other Foods,166.0,7.9,14.3,9.6,6.0
+F0093,Peanut butter,Pulses & Protein,588.0,25.1,20.0,50.0,6.0
+F0094,Olive oil,Other Foods,884.0,0.0,0.0,100.0,0.0
+F0095,,Dairy,900.0,0.0,0.0,100.0,0.0
+F0096,Butter,Dairy,717.0,0.9,0.1,81.1,0.0
+F0097,Cheese,Dairy,402.0,25.0,1.3,33.0,0.0
+F0098,Soy milk,Pulses & Protein,33.0,2.9,0.7,1.6,0.6
+F0099,Protein shake,Other Foods,80.0,10.0,6.0,1.5,1.0
+F0100,Vegetable soup,Vegetables,45.0,2.0,7.0,1.0,2.0
+F0101,Chicken soup,Animal Protein,60.0,6.0,3.0,2.5,0.5
+F0102,"Rice, cooked - plain",Rice & Grains,130.7,2.7,28.2,0.3,0.4
+F0103,"Rice, cooked - homemade style",Rice & Grains,129.8,2.7,28.2,0.3,0.4
+F0104,"Rice, cooked - boiled",Rice & Grains,125.7,2.7,28.2,0.3,0.4
+F0105,"Rice, cooked - steamed",Rice & Grains,126.6,2.7,28.2,0.3,0.4
+F0106,"Rice, cooked - roasted",Rice & Grains,132.8,2.7,28.2,0.3,0.4
+F0107,"Rice, cooked - grilled",Rice & Grains,133.9,2.7,28.2,0.3,0.4
+F0108,"Rice, cooked - baked",Rice & Grains,134.6,2.7,28.2,0.3,0.4
+F0109,"Rice, cooked - lightly seasoned",Rice & Grains,132.1,2.7,28.2,0.3,0.4
+F0110,"Rice, cooked - without added oil",Rice & Grains,121.3,2.7,28.2,0.3,0.4
+F0111,"Rice, cooked - with herbs",Rice & Grains,129.9,2.7,28.2,0.3,0.4
+F0112,"Rice, cooked - traditional style",Rice & Grains,132.3,2.7,28.2,0.3,0.4
+F0113,"Brown rice, cooked - plain",Rice & Grains,124.0,2.7,25.6,1.0,1.6
+F0114,"Brown rice, cooked - homemade style",Rice & Grains,123.4,2.7,25.6,1.0,1.6
+F0115,"Brown rice, cooked - boiled",Rice & Grains,118.8,2.7,25.6,0.9,1.6
+F0116,"Brown rice, cooked - steamed",Rice & Grains,119.2,2.7,25.6,1.0,1.6
+F0117,"Brown rice, cooked - roasted",Rice & Grains,126.0,2.7,25.6,1.1,1.6
+F0118,"Brown rice, cooked - grilled",Rice & Grains,125.6,2.7,25.6,1.0,1.6
+F0119,"Brown rice, cooked - baked",Rice & Grains,125.6,2.7,25.6,1.0,1.6
+F0120,"Brown rice, cooked - lightly seasoned",Rice & Grains,125.0,2.7,25.6,1.0,1.6
+F0121,"Brown rice, cooked - without added oil",Rice & Grains,115.9,2.7,25.6,0.8,1.6
+F0122,"Brown rice, cooked - with herbs",Rice & Grains,123.6,2.7,25.6,1.0,1.6
+F0123,"Brown rice, cooked - traditional style",Rice & Grains,125.1,2.7,25.6,1.0,1.6
+F0124,"Roti, whole wheat - plain",Grains & Bread,299.8,9.6,55.0,4.5,9.0
+F0125,"Roti, whole wheat - homemade style",Grains & Bread,299.3,9.6,55.0,4.5,9.0
+F0126,"Roti, whole wheat - boiled",Grains & Bread,286.7,9.6,55.0,4.3,9.0
+F0127,"Roti, whole wheat - steamed",Grains & Bread,286.3,9.6,55.0,4.4,9.0
+F0128,"Roti, whole wheat - roasted",Grains & Bread,305.7,9.6,55.0,4.7,9.0
+F0129,"Roti, whole wheat - grilled",Grains & Bread,300.2,9.6,55.0,4.7,9.0
+F0130,"Roti, whole wheat - baked",Grains & Bread,303.8,9.6,55.0,4.6,9.0
+F0131,"Roti, whole wheat - lightly seasoned",Grains & Bread,301.1,9.6,55.0,4.6,9.0
+F0132,"Roti, whole wheat - without added oil",Grains & Bread,280.5,9.6,55.0,3.8,9.0
+F0133,"Roti, whole wheat - with herbs",Grains & Bread,299.8,9.6,55.0,4.5,9.0
+F0134,"Roti, whole wheat - traditional style",Grains & Bread,301.9,9.6,55.0,4.6,9.0
+F0135,Chapati - plain,Grains & Bread,296.2,9.6,55.0,4.5,9.0
+F0136,Chapati - homemade style,Grains & Bread,296.8,9.6,55.0,4.5,9.0
+F0137,Chapati - boiled,Grains & Bread,283.3,9.6,55.0,4.3,9.0
+F0138,Chapati - steamed,Grains & Bread,286.0,9.6,55.0,4.4,9.0
+F0139,Chapati - roasted,Grains & Bread,305.8,9.6,55.0,4.7,9.0
+F0140,Chapati - grilled,Grains & Bread,301.3,9.6,55.0,4.7,9.0
+F0141,Chapati - baked,Grains & Bread,306.9,9.6,55.0,4.6,9.0
+F0142,Chapati - lightly seasoned,Grains & Bread,299.6,9.6,55.0,4.6,9.0
+F0143,Chapati - without added oil,Grains & Bread,281.0,9.6,55.0,3.8,9.0
+F0144,Chapati - with herbs,Grains & Bread,298.2,9.6,55.0,4.5,9.0
+F0145,Chapati - traditional style,Grains & Bread,301.8,9.6,55.0,4.6,9.0
+F0146,Naan - plain,Grains & Bread,312.1,8.7,50.0,8.0,2.0
+F0147,Naan - homemade style,Grains & Bread,311.9,8.7,50.0,8.0,2.0
+F0148,Naan - boiled,Grains & Bread,296.9,8.7,50.0,7.6,2.0
+F0149,Naan - steamed,Grains & Bread,299.4,8.7,50.0,7.8,2.0
+F0150,Naan - roasted,Grains & Bread,320.5,8.7,50.0,8.4,2.0
+F0151,Naan - grilled,Grains & Bread,313.9,8.7,50.0,8.3,2.0
+F0152,Naan - baked,Grains & Bread,317.4,8.7,50.0,8.2,2.0
+F0153,Naan - lightly seasoned,Grains & Bread,310.0,8.7,50.0,8.2,2.0
+F0154,Naan - without added oil,Grains & Bread,293.1,8.7,50.0,6.8,2.0
+F0155,Naan - with herbs,Grains & Bread,311.0,8.7,50.0,8.0,2.0
+F0156,Naan - traditional style,Grains & Bread,317.5,8.7,50.0,8.2,2.0
+F0157,Poha - plain,Other Foods,158.9,2.8,27.5,3.5,2.5
+F0158,Poha - homemade style,Other Foods,157.9,2.8,27.5,3.5,2.5
+F0159,Poha - boiled,Other Foods,151.9,2.8,27.5,3.3,2.5
+F0160,Poha - steamed,Other Foods,152.2,2.8,27.5,3.4,2.5
+F0161,Poha - roasted,Other Foods,161.5,2.8,27.5,3.7,2.5
+F0162,Poha - grilled,Other Foods,161.7,2.8,27.5,3.6,2.5
+F0163,Poha - baked,Other Foods,162.6,2.8,27.5,3.6,2.5
+F0164,Poha - lightly seasoned,Other Foods,159.8,2.8,27.5,3.6,2.5
+F0165,Poha - without added oil,Other Foods,149.3,2.8,27.5,3.0,2.5
+F0166,Poha - with herbs,Other Foods,158.4,2.8,27.5,3.5,2.5
+F0167,Poha - traditional style,Other Foods,161.3,2.8,27.5,3.6,2.5
+F0168,Upma - plain,Other Foods,150.2,3.5,22.0,5.0,2.0
+F0169,Upma - homemade style,Other Foods,149.4,3.5,22.0,5.0,2.0
+F0170,Upma - boiled,Other Foods,142.6,3.5,22.0,4.8,2.0
+F0171,Upma - steamed,Other Foods,145.3,3.5,22.0,4.9,2.0
+F0172,Upma - roasted,Other Foods,153.6,3.5,22.0,5.2,2.0
+F0173,Upma - grilled,Other Foods,152.7,3.5,22.0,5.2,2.0
+F0174,Upma - baked,Other Foods,155.6,3.5,22.0,5.2,2.0
+F0175,Upma - lightly seasoned,Other Foods,150.7,3.5,22.0,5.1,2.0
+F0176,Upma - without added oil,Other Foods,139.8,3.5,22.0,4.2,2.0
+F0177,Upma - with herbs,Other Foods,149.3,3.5,22.0,5.0,2.0
+F0178,Upma - traditional style,Other Foods,152.4,3.5,22.0,5.2,2.0
+F0179,Idli - plain,Other Foods,146.5,5.0,28.0,1.0,1.5
+F0180,Idli - homemade style,Other Foods,146.2,5.0,28.0,1.0,1.5
+F0181,Idli - boiled,Other Foods,141.0,5.0,28.0,0.9,1.5
+F0182,Idli - steamed,Other Foods,142.1,5.0,28.0,1.0,1.5
+F0183,Idli - roasted,Other Foods,150.1,5.0,28.0,1.1,1.5
+F0184,Idli - grilled,Other Foods,149.9,5.0,28.0,1.0,1.5
+F0185,Idli - baked,Other Foods,149.4,5.0,28.0,1.0,1.5
+F0186,Idli - lightly seasoned,Other Foods,146.1,5.0,28.0,1.0,1.5
+F0187,Idli - without added oil,Other Foods,136.1,5.0,28.0,0.8,1.5
+F0188,Idli - with herbs,Other Foods,146.6,5.0,28.0,1.0,1.5
+F0189,Idli - traditional style,Other Foods,148.8,5.0,28.0,1.0,1.5
+F0190,Dosa - plain,Other Foods,166.9,4.0,29.0,3.5,1.0
+F0191,Dosa - homemade style,Other Foods,168.0,4.0,29.0,3.5,1.0
+F0192,Dosa - boiled,Other Foods,160.2,4.0,29.0,3.3,1.0
+F0193,Dosa - steamed,Other Foods,163.6,4.0,29.0,3.4,1.0
+F0194,Dosa - roasted,Other Foods,172.9,4.0,29.0,3.7,1.0
+F0195,Dosa - grilled,Other Foods,171.0,4.0,29.0,3.6,1.0
+F0196,Dosa - baked,Other Foods,172.4,4.0,29.0,3.6,1.0
+F0197,Dosa - lightly seasoned,Other Foods,170.1,4.0,29.0,3.6,1.0
+F0198,Dosa - without added oil,Other Foods,157.5,4.0,29.0,3.0,1.0
+F0199,Dosa - with herbs,Other Foods,166.6,4.0,29.0,3.5,1.0
+F0200,Dosa - traditional style,Other Foods,170.1,4.0,29.0,3.6,1.0
+F0201,Masala dosa - plain,Other Foods,181.7,4.5,28.0,5.0,2.0
+F0202,Masala dosa - homemade style,Other Foods,181.5,4.5,28.0,5.0,2.0
+F0203,Masala dosa - boiled,Other Foods,173.5,4.5,28.0,4.8,2.0
+F0204,Masala dosa - steamed,Other Foods,173.8,4.5,28.0,4.9,2.0
+F0205,Masala dosa - roasted,Other Foods,187.1,4.5,28.0,5.2,2.0
+F0206,Masala dosa - grilled,Other Foods,184.6,4.5,28.0,5.2,2.0
+F0207,Masala dosa - baked,Other Foods,186.2,4.5,28.0,5.2,2.0
+F0208,Masala dosa - lightly seasoned,Other Foods,181.6,4.5,28.0,5.1,2.0
+F0209,Masala dosa - without added oil,Other Foods,168.4,4.5,28.0,4.2,2.0
+F0210,Masala dosa - with herbs,Other Foods,178.5,4.5,28.0,5.0,2.0
+F0211,Masala dosa - traditional style,Other Foods,185.1,4.5,28.0,5.2,2.0
+F0212,Besan chilla - plain,Other Foods,169.8,7.0,20.0,6.5,4.0
+F0213,Besan chilla - homemade style,Other Foods,169.0,7.0,20.0,6.5,4.0
+F0214,Besan chilla - boiled,Other Foods,162.6,7.0,20.0,6.2,4.0
+F0215,Besan chilla - steamed,Other Foods,165.2,7.0,20.0,6.4,4.0
+F0216,Besan chilla - roasted,Other Foods,174.0,7.0,20.0,6.8,4.0
+F0217,Besan chilla - grilled,Other Foods,174.6,7.0,20.0,6.8,4.0
+F0218,Besan chilla - baked,Other Foods,176.0,7.0,20.0,6.7,4.0
+F0219,Besan chilla - lightly seasoned,Other Foods,172.5,7.0,20.0,6.6,4.0
+F0220,Besan chilla - without added oil,Other Foods,159.6,7.0,20.0,5.5,4.0
+F0221,Besan chilla - with herbs,Other Foods,170.4,7.0,20.0,6.5,4.0
+F0222,Besan chilla - traditional style,Other Foods,173.7,7.0,20.0,6.7,4.0
+F0223,Paratha - plain,Grains & Bread,321.0,7.5,45.0,12.0,5.0
+F0224,Paratha - homemade style,Grains & Bread,317.3,7.5,45.0,12.0,5.0
+F0225,Paratha - boiled,Grains & Bread,306.7,7.5,45.0,11.4,5.0
+F0226,Paratha - steamed,Grains & Bread,307.6,7.5,45.0,11.8,5.0
+F0227,Paratha - roasted,Grains & Bread,329.6,7.5,45.0,12.6,5.0
+F0228,Paratha - grilled,Grains & Bread,325.3,7.5,45.0,12.5,5.0
+F0229,Paratha - baked,Grains & Bread,327.3,7.5,45.0,12.4,5.0
+F0230,Paratha - lightly seasoned,Grains & Bread,320.6,7.5,45.0,12.2,5.0
+F0231,Paratha - without added oil,Grains & Bread,301.3,7.5,45.0,10.2,5.0
+F0232,Paratha - with herbs,Grains & Bread,317.9,7.5,45.0,12.0,5.0
+F0233,Paratha - traditional style,Grains & Bread,329.2,7.5,45.0,12.4,5.0
+F0234,Aloo paratha - plain,Grains & Bread,260.4,6.0,35.0,10.0,4.0
+F0235,Aloo paratha - homemade style,Grains & Bread,259.2,6.0,35.0,10.0,4.0
+F0236,Aloo paratha - boiled,Grains & Bread,250.1,6.0,35.0,9.5,4.0
+F0237,Aloo paratha - steamed,Grains & Bread,249.8,6.0,35.0,9.8,4.0
+F0238,Aloo paratha - roasted,Grains & Bread,270.3,6.0,35.0,10.5,4.0
+F0239,Aloo paratha - grilled,Grains & Bread,265.1,6.0,35.0,10.4,4.0
+F0240,Aloo paratha - baked,Grains & Bread,269.3,6.0,35.0,10.3,4.0
+F0241,Aloo paratha - lightly seasoned,Grains & Bread,260.4,6.0,35.0,10.2,4.0
+F0242,Aloo paratha - without added oil,Grains & Bread,244.3,6.0,35.0,8.5,4.0
+F0243,Aloo paratha - with herbs,Grains & Bread,260.0,6.0,35.0,10.0,4.0
+F0244,Aloo paratha - traditional style,Grains & Bread,267.5,6.0,35.0,10.3,4.0
+F0245,"Dal, cooked - plain",Pulses & Protein,116.2,9.0,20.0,0.4,7.9
+F0246,"Dal, cooked - homemade style",Pulses & Protein,115.9,9.0,20.0,0.4,7.9
+F0247,"Dal, cooked - boiled",Pulses & Protein,110.8,9.0,20.0,0.4,7.9
+F0248,"Dal, cooked - steamed",Pulses & Protein,112.1,9.0,20.0,0.4,7.9
+F0249,"Dal, cooked - roasted",Pulses & Protein,119.5,9.0,20.0,0.4,7.9
+F0250,"Dal, cooked - grilled",Pulses & Protein,118.2,9.0,20.0,0.4,7.9
+F0251,"Dal, cooked - baked",Pulses & Protein,118.3,9.0,20.0,0.4,7.9
+F0252,"Dal, cooked - lightly seasoned",Pulses & Protein,117.9,9.0,20.0,0.4,7.9
+F0253,"Dal, cooked - without added oil",Pulses & Protein,109.9,9.0,20.0,0.3,7.9
+F0254,"Dal, cooked - with herbs",Pulses & Protein,115.2,9.0,20.0,0.4,7.9
+F0255,"Dal, cooked - traditional style",Pulses & Protein,118.4,9.0,20.0,0.4,7.9
+F0256,"Toor dal, cooked - plain",Pulses & Protein,124.0,7.5,20.0,2.0,6.0
+F0257,"Toor dal, cooked - homemade style",Pulses & Protein,125.4,7.5,20.0,2.0,6.0
+F0258,"Toor dal, cooked - boiled",Pulses & Protein,119.5,7.5,20.0,1.9,6.0
+F0259,"Toor dal, cooked - steamed",Pulses & Protein,121.6,7.5,20.0,2.0,6.0
+F0260,"Toor dal, cooked - roasted",Pulses & Protein,129.3,7.5,20.0,2.1,6.0
+F0261,"Toor dal, cooked - grilled",Pulses & Protein,128.2,7.5,20.0,2.1,6.0
+F0262,"Toor dal, cooked - baked",Pulses & Protein,127.7,7.5,20.0,2.1,6.0
+F0263,"Toor dal, cooked - lightly seasoned",Pulses & Protein,127.3,7.5,20.0,2.0,6.0
+F0264,"Toor dal, cooked - without added oil",Pulses & Protein,116.9,7.5,20.0,1.7,6.0
+F0265,"Toor dal, cooked - with herbs",Pulses & Protein,123.8,7.5,20.0,2.0,6.0
+F0266,"Toor dal, cooked - traditional style",Pulses & Protein,127.6,7.5,20.0,2.1,6.0
+F0267,"Moong dal, cooked - plain",Pulses & Protein,104.7,7.0,19.0,0.4,7.6
+F0268,"Moong dal, cooked - homemade style",Pulses & Protein,105.7,7.0,19.0,0.4,7.6
+F0269,"Moong dal, cooked - boiled",Pulses & Protein,101.4,7.0,19.0,0.4,7.6
+F0270,"Moong dal, cooked - steamed",Pulses & Protein,101.5,7.0,19.0,0.4,7.6
+F0271,"Moong dal, cooked - roasted",Pulses & Protein,109.1,7.0,19.0,0.4,7.6
+F0272,"Moong dal, cooked - grilled",Pulses & Protein,106.7,7.0,19.0,0.4,7.6
+F0273,"Moong dal, cooked - baked",Pulses & Protein,108.2,7.0,19.0,0.4,7.6
+F0274,"Moong dal, cooked - lightly seasoned",Pulses & Protein,105.5,7.0,19.0,0.4,7.6
+F0275,"Moong dal, cooked - without added oil",Pulses & Protein,99.6,7.0,19.0,0.3,7.6
+F0276,"Moong dal, cooked - with herbs",Pulses & Protein,104.3,7.0,19.0,0.4,7.6
+F0277,"Moong dal, cooked - traditional style",Pulses & Protein,106.1,7.0,19.0,0.4,7.6
+F0278,"Rajma, cooked - plain",Pulses & Protein,126.8,8.7,22.8,0.5,6.4
+F0279,"Rajma, cooked - homemade style",Pulses & Protein,128.3,8.7,22.8,0.5,6.4
+F0280,"Rajma, cooked - boiled",Pulses & Protein,122.9,8.7,22.8,0.5,6.4
+F0281,"Rajma, cooked - steamed",Pulses & Protein,123.8,8.7,22.8,0.5,6.4
+F0282,"Rajma, cooked - roasted",Pulses & Protein,131.8,8.7,22.8,0.5,6.4
+F0283,"Rajma, cooked - grilled",Pulses & Protein,130.6,8.7,22.8,0.5,6.4
+F0284,"Rajma, cooked - baked",Pulses & Protein,130.9,8.7,22.8,0.5,6.4
+F0285,"Rajma, cooked - lightly seasoned",Pulses & Protein,127.8,8.7,22.8,0.5,6.4
+F0286,"Rajma, cooked - without added oil",Pulses & Protein,120.0,8.7,22.8,0.4,6.4
+F0287,"Rajma, cooked - with herbs",Pulses & Protein,127.4,8.7,22.8,0.5,6.4
+F0288,"Rajma, cooked - traditional style",Pulses & Protein,129.2,8.7,22.8,0.5,6.4
+F0289,"Chana, cooked - plain",Pulses & Protein,162.7,8.9,27.4,2.6,7.6
+F0290,"Chana, cooked - homemade style",Pulses & Protein,164.8,8.9,27.4,2.6,7.6
+F0291,"Chana, cooked - boiled",Pulses & Protein,156.7,8.9,27.4,2.5,7.6
+F0292,"Chana, cooked - steamed",Pulses & Protein,160.5,8.9,27.4,2.5,7.6
+F0293,"Chana, cooked - roasted",Pulses & Protein,168.0,8.9,27.4,2.7,7.6
+F0294,"Chana, cooked - grilled",Pulses & Protein,166.0,8.9,27.4,2.7,7.6
+F0295,"Chana, cooked - baked",Pulses & Protein,170.0,8.9,27.4,2.7,7.6
+F0296,"Chana, cooked - lightly seasoned",Pulses & Protein,164.5,8.9,27.4,2.7,7.6
+F0297,"Chana, cooked - without added oil",Pulses & Protein,153.2,8.9,27.4,2.2,7.6
+F0298,"Chana, cooked - with herbs",Pulses & Protein,164.3,8.9,27.4,2.6,7.6
+F0299,"Chana, cooked - traditional style",Pulses & Protein,168.5,8.9,27.4,2.7,7.6
+F0300,"Chole, cooked - plain",Other Foods,163.0,8.9,27.4,2.6,7.6
+F0301,"Chole, cooked - homemade style",Other Foods,163.4,8.9,27.4,2.6,7.6
+F0302,"Chole, cooked - boiled",Other Foods,158.3,8.9,27.4,2.5,7.6
+F0303,"Chole, cooked - steamed",Other Foods,160.6,8.9,27.4,2.5,7.6
+F0304,"Chole, cooked - roasted",Other Foods,168.9,8.9,27.4,2.7,7.6
+F0305,"Chole, cooked - grilled",Other Foods,166.1,8.9,27.4,2.7,7.6
+F0306,"Chole, cooked - baked",Other Foods,167.3,,27.4,2.7,7.6
+F0307,"Chole, cooked - lightly seasoned",Other Foods,164.7,8.9,27.4,2.7,7.6
+F0308,"Chole, cooked - without added oil",Other Foods,153.0,8.9,27.4,2.2,7.6
+F0309,"Chole, cooked - with herbs",Other Foods,164.6,8.9,27.4,2.6,7.6
+F0310,"Chole, cooked - traditional style",Other Foods,166.0,8.9,27.4,2.7,7.6
+F0311,Paneer - plain,Dairy,265.0,18.3,6.1,20.8,0.0
+F0312,Paneer - homemade style,Dairy,266.0,18.3,6.1,20.8,0.0
+F0313,Paneer - boiled,Dairy,254.8,18.3,6.1,19.8,0.0
+F0314,Paneer - steamed,Dairy,255.5,18.3,6.1,20.4,0.0
+F0315,Paneer - roasted,Dairy,274.6,18.3,6.1,21.8,0.0
+F0316,Paneer - grilled,Dairy,271.5,18.3,6.1,21.6,0.0
+F0317,Paneer - baked,Dairy,274.3,18.3,6.1,21.4,0.0
+F0318,Paneer - lightly seasoned,Dairy,265.7,18.3,6.1,21.2,0.0
+F0319,Paneer - without added oil,Dairy,247.2,18.3,6.1,17.7,0.0
+F0320,Paneer - with herbs,Dairy,267.3,18.3,6.1,20.8,0.0
+F0321,Paneer - traditional style,Dairy,269.7,18.3,6.1,21.4,0.0
+F0322,Low-fat paneer - plain,Dairy,149.4,18.0,5.0,7.0,0.0
+F0323,Low-fat paneer - homemade style,Dairy,150.0,18.0,5.0,7.0,0.0
+F0324,Low-fat paneer - boiled,Dairy,144.5,18.0,5.0,6.6,0.0
+F0325,Low-fat paneer - steamed,Dairy,146.8,18.0,5.0,6.9,0.0
+F0326,Low-fat paneer - roasted,Dairy,153.8,18.0,5.0,7.4,0.0
+F0327,Low-fat paneer - grilled,Dairy,154.3,18.0,5.0,7.3,0.0
+F0328,Low-fat paneer - baked,Dairy,153.0,18.0,5.0,7.2,0.0
+F0329,Low-fat paneer - lightly seasoned,Dairy,151.7,18.0,5.0,7.1,0.0
+F0330,Low-fat paneer - without added oil,Dairy,141.4,18.0,5.0,6.0,0.0
+F0331,Low-fat paneer - with herbs,Dairy,148.8,18.0,5.0,7.0,0.0
+F0332,Low-fat paneer - traditional style,Dairy,151.9,18.0,5.0,7.2,0.0
+F0333,"Milk, whole - plain",Dairy,60.9,3.2,4.8,3.3,0.0
+F0334,"Milk, whole - homemade style",Dairy,61.6,3.2,4.8,3.3,0.0
+F0335,"Milk, whole - boiled",Dairy,58.7,3.2,4.8,3.1,0.0
+F0336,"Milk, whole - steamed",Dairy,59.7,3.2,4.8,3.2,0.0
+F0337,"Milk, whole - roasted",Dairy,63.2,3.2,4.8,3.5,0.0
+F0338,"Milk, whole - grilled",Dairy,62.2,3.2,4.8,3.4,0.0
+F0339,"Milk, whole - baked",Dairy,63.2,3.2,4.8,3.4,0.0
+F0340,"Milk, whole - lightly seasoned",Dairy,61.0,3.2,4.8,3.4,0.0
+F0341,"Milk, whole - without added oil",Dairy,56.9,3.2,4.8,2.8,0.0
+F0342,"Milk, whole - with herbs",Dairy,61.4,3.2,4.8,3.3,0.0
+F0343,"Milk, whole - traditional style",Dairy,62.6,3.2,4.8,3.4,0.0
+F0344,"Milk, low-fat - plain",Dairy,49.7,3.4,5.0,2.0,0.0
+F0345,"Milk, low-fat - homemade style",Dairy,50.0,3.4,5.0,2.0,0.0
+F0346,"Milk, low-fat - boiled",Dairy,48.1,3.4,5.0,1.9,0.0
+F0347,"Milk, low-fat - steamed",Dairy,48.9,3.4,5.0,2.0,0.0
+F0348,"Milk, low-fat - roasted",Dairy,51.6,3.4,5.0,2.1,0.0
+F0349,"Milk, low-fat - grilled",Dairy,50.9,3.4,5.0,2.1,0.0
+F0350,"Milk, low-fat - baked",Dairy,51.4,3.4,5.0,2.1,0.0
+F0351,"Milk, low-fat - lightly seasoned",Dairy,50.4,3.4,5.0,2.0,0.0
+F0352,"Milk, low-fat - without added oil",Dairy,47.1,3.4,5.0,1.7,0.0
+F0353,"Milk, low-fat - with herbs",Dairy,50.4,3.4,5.0,2.0,0.0
+F0354,"Milk, low-fat - traditional style",Dairy,51.0,3.4,5.0,2.1,0.0
+F0355,Curd - plain,Dairy,60.7,3.5,4.7,3.3,0.0
+F0356,Curd - homemade style,Dairy,60.7,3.5,4.7,3.3,0.0
+F0357,Curd - boiled,Dairy,58.8,3.5,4.7,3.1,0.0
+F0358,Curd - steamed,Dairy,59.5,3.5,4.7,3.2,0.0
+F0359,Curd - roasted,Dairy,62.3,3.5,4.7,3.5,0.0
+F0360,Curd - grilled,Dairy,61.7,3.5,4.7,3.4,0.0
+F0361,Curd - baked,Dairy,62.9,3.5,4.7,3.4,0.0
+F0362,Curd - lightly seasoned,Dairy,61.2,3.5,4.7,3.4,0.0
+F0363,Curd - without added oil,Dairy,57.7,3.5,4.7,2.8,0.0
+F0364,Curd - with herbs,Dairy,60.8,3.5,4.7,3.3,0.0
+F0365,Curd - traditional style,Dairy,61.8,3.5,4.7,3.4,0.0
+F0366,Buttermilk - plain,Dairy,40.3,3.0,4.0,1.0,0.0
+F0367,Buttermilk - homemade style,Dairy,39.7,3.0,4.0,1.0,0.0
+F0368,Buttermilk - boiled,Dairy,38.2,3.0,4.0,0.9,0.0
+F0369,Buttermilk - steamed,Dairy,38.5,3.0,4.0,1.0,0.0
+F0370,Buttermilk - roasted,Dairy,40.9,3.0,4.0,1.1,0.0
+F0371,Buttermilk - grilled,Dairy,40.4,3.0,4.0,1.0,0.0
+F0372,Buttermilk - baked,Dairy,40.8,3.0,4.0,1.0,0.0
+F0373,Buttermilk - lightly seasoned,Dairy,40.1,3.0,4.0,1.0,0.0
+F0374,Buttermilk - without added oil,Dairy,37.3,3.0,4.0,0.8,0.0
+F0375,Buttermilk - with herbs,Dairy,40.1,3.0,4.0,1.0,0.0
+F0376,Buttermilk - traditional style,Dairy,40.9,3.0,4.0,1.0,0.0
+F0377,"Egg, boiled - plain",Animal Protein,154.7,12.6,1.1,10.6,0.0
+F0378,"Egg, boiled - homemade style",Animal Protein,154.4,12.6,1.1,10.6,0.0
+F0379,"Egg, boiled - boiled",Animal Protein,148.8,12.6,1.1,10.1,0.0
+F0380,"Egg, boiled - steamed",Animal Protein,151.5,12.6,1.1,10.4,0.0
+F0381,"Egg, boiled - roasted",Animal Protein,160.8,12.6,1.1,11.1,0.0
+F0382,"Egg, boiled - grilled",Animal Protein,156.7,12.6,1.1,11.0,0.0
+F0383,"Egg, boiled - baked",Animal Protein,158.6,12.6,1.1,10.9,0.0
+F0384,"Egg, boiled - lightly seasoned",Animal Protein,155.7,12.6,1.1,10.8,0.0
+F0385,"Egg, boiled - without added oil",Animal Protein,145.0,12.6,1.1,9.0,0.0
+F0386,"Egg, boiled - with herbs",Animal Protein,155.2,12.6,1.1,10.6,0.0
+F0387,"Egg, boiled - traditional style",Animal Protein,157.8,12.6,1.1,10.9,0.0
+F0388,"Chicken breast, cooked - plain",Animal Protein,163.5,31.0,0.0,3.6,0.0
+F0389,"Chicken breast, cooked - homemade style",Animal Protein,164.6,31.0,0.0,3.6,0.0
+F0390,"Chicken breast, cooked - boiled",Animal Protein,158.5,31.0,0.0,3.4,0.0
+F0391,"Chicken breast, cooked - steamed",Animal Protein,158.8,31.0,0.0,3.5,0.0
+F0392,"Chicken breast, cooked - roasted",Animal Protein,171.1,31.0,0.0,3.8,0.0
+F0393,"Chicken breast, cooked - grilled",Animal Protein,166.8,31.0,0.0,3.7,0.0
+F0394,"Chicken breast, cooked - baked",Animal Protein,171.4,31.0,0.0,3.7,0.0
+F0395,"Chicken breast, cooked - lightly seasoned",Animal Protein,165.3,31.0,0.0,3.7,0.0
+F0396,"Chicken breast, cooked - without added oil",Animal Protein,156.2,31.0,0.0,3.1,0.0
+F0397,"Chicken breast, cooked - with herbs",Animal Protein,166.3,31.0,0.0,3.6,0.0
+F0398,"Chicken breast, cooked - traditional style",Animal Protein,169.9,31.0,0.0,3.7,0.0
+F0399,Chicken curry - plain,Animal Protein,181.1,15.0,5.0,11.0,1.0
+F0400,Chicken curry - homemade style,Animal Protein,181.0,15.0,5.0,11.0,1.0
+F0401,Chicken curry - boiled,Animal Protein,173.3,15.0,5.0,10.4,1.0
+F0402,Chicken curry - steamed,Animal Protein,175.6,15.0,5.0,10.8,1.0
+F0403,Chicken curry - roasted,Animal Protein,184.0,15.0,5.0,11.6,1.0
+F0404,Chicken curry - grilled,Animal Protein,183.7,15.0,5.0,11.4,1.0
+F0405,Chicken curry - baked,Animal Protein,185.5,15.0,5.0,11.3,1.0
+F0406,Chicken curry - lightly seasoned,Animal Protein,183.1,15.0,5.0,11.2,1.0
+F0407,Chicken curry - without added oil,Animal Protein,169.1,15.0,5.0,9.3,1.0
+F0408,Chicken curry - with herbs,Animal Protein,179.6,15.0,5.0,11.0,1.0
+F0409,Chicken curry - traditional style,Animal Protein,184.1,15.0,5.0,11.3,1.0
+F0410,Fish curry - plain,Animal Protein,159.3,18.0,4.0,8.0,0.5
+F0411,Fish curry - homemade style,Animal Protein,158.8,18.0,4.0,8.0,0.5
+F0412,Fish curry - boiled,Animal Protein,153.5,18.0,4.0,7.6,0.5
+F0413,Fish curry - steamed,Animal Protein,154.9,18.0,4.0,7.8,0.5
+F0414,Fish curry - roasted,Animal Protein,163.9,18.0,4.0,8.4,0.5
+F0415,Fish curry - grilled,Animal Protein,162.8,18.0,4.0,8.3,0.5
+F0416,Fish curry - baked,Animal Protein,164.4,18.0,4.0,8.2,0.5
+F0417,Fish curry - lightly seasoned,Animal Protein,161.0,18.0,4.0,8.2,0.5
+F0418,Fish curry - without added oil,Animal Protein,150.0,18.0,4.0,6.8,0.5
+F0419,Fish curry - with herbs,Animal Protein,160.6,18.0,4.0,8.0,0.5
+F0420,Fish curry - traditional style,Animal Protein,162.5,18.0,4.0,8.2,0.5
+F0421,Grilled fish - plain,Animal Protein,151.3,26.0,0.0,5.0,0.0
+F0422,Grilled fish - homemade style,Animal Protein,151.2,26.0,0.0,5.0,0.0
+F0423,Grilled fish - boiled,Animal Protein,143.9,26.0,0.0,4.8,0.0
+F0424,Grilled fish - steamed,Animal Protein,145.0,26.0,0.0,4.9,0.0
+F0425,Grilled fish - roasted,Animal Protein,154.6,26.0,0.0,5.2,0.0
+F0426,Grilled fish - grilled,Animal Protein,154.1,26.0,0.0,5.2,0.0
+F0427,Grilled fish - baked,Animal Protein,155.0,26.0,0.0,5.2,0.0
+F0428,Grilled fish - lightly seasoned,Animal Protein,152.4,26.0,0.0,5.1,0.0
+F0429,Grilled fish - without added oil,Animal Protein,141.1,26.0,0.0,4.2,0.0
+F0430,Grilled fish - with herbs,Animal Protein,150.4,26.0,0.0,5.0,0.0
+F0431,Grilled fish - traditional style,Animal Protein,152.4,26.0,0.0,5.2,0.0
+F0432,"Soya chunks, cooked - plain",Pulses & Protein,172.8,16.0,10.0,7.0,5.0
+F0433,"Soya chunks, cooked - homemade style",Pulses & Protein,171.0,16.0,10.0,7.0,5.0
+F0434,"Soya chunks, cooked - boiled",Pulses & Protein,165.8,16.0,10.0,6.6,5.0
+F0435,"Soya chunks, cooked - steamed",Pulses & Protein,168.0,16.0,10.0,6.9,5.0
+F0436,"Soya chunks, cooked - roasted",Pulses & Protein,175.9,16.0,10.0,7.4,5.0
+F0437,"Soya chunks, cooked - grilled",Pulses & Protein,175.8,16.0,10.0,7.3,5.0
+F0438,"Soya chunks, cooked - baked",Pulses & Protein,175.7,16.0,10.0,7.2,5.0
+F0439,"Soya chunks, cooked - lightly seasoned",Pulses & Protein,174.5,16.0,10.0,7.1,5.0
+F0440,"Soya chunks, cooked - without added oil",Pulses & Protein,160.3,16.0,10.0,6.0,5.0
+F0441,"Soya chunks, cooked - with herbs",Pulses & Protein,173.5,16.0,10.0,7.0,5.0
+F0442,"Soya chunks, cooked - traditional style",Pulses & Protein,174.2,16.0,10.0,7.2,5.0
+F0443,Tofu - plain,Pulses & Protein,76.7,8.0,1.9,4.8,0.3
+F0444,Tofu - homemade style,Pulses & Protein,76.5,8.0,1.9,4.8,0.3
+F0445,Tofu - boiled,Pulses & Protein,73.1,8.0,1.9,4.6,0.3
+F0446,Tofu - steamed,Pulses & Protein,74.1,8.0,1.9,4.7,0.3
+F0447,Tofu - roasted,Pulses & Protein,78.7,8.0,1.9,5.0,0.3
+F0448,Tofu - grilled,Pulses & Protein,78.2,8.0,1.9,5.0,0.3
+F0449,Tofu - baked,Pulses & Protein,77.9,8.0,1.9,4.9,0.3
+F0450,Tofu - lightly seasoned,Pulses & Protein,76.9,8.0,1.9,4.9,0.3
+F0451,Tofu - without added oil,Pulses & Protein,70.9,8.0,1.9,4.1,0.3
+F0452,Tofu - with herbs,Pulses & Protein,76.2,8.0,1.9,4.8,0.3
+F0453,Tofu - traditional style,Pulses & Protein,77.0,8.0,1.9,4.9,0.3
+F0454,Palak paneer - plain,Dairy,160.2,8.0,7.0,11.0,3.0
+F0455,Palak paneer - homemade style,Dairy,160.2,8.0,7.0,11.0,3.0
+F0456,Palak paneer - boiled,Dairy,153.5,8.0,7.0,10.4,3.0
+F0457,Palak paneer - steamed,Dairy,155.3,8.0,7.0,10.8,3.0
+F0458,Palak paneer - roasted,Dairy,165.7,8.0,7.0,11.6,3.0
+F0459,Palak paneer - grilled,Dairy,164.2,8.0,7.0,11.4,3.0
+F0460,Palak paneer - baked,Dairy,164.8,8.0,7.0,11.3,3.0
+F0461,Palak paneer - lightly seasoned,Dairy,161.9,8.0,7.0,11.2,3.0
+F0462,Palak paneer - without added oil,Dairy,151.7,8.0,7.0,9.3,3.0
+F0463,Palak paneer - with herbs,Dairy,158.8,8.0,7.0,11.0,3.0
+F0464,Palak paneer - traditional style,Dairy,162.0,8.0,7.0,11.3,3.0
+F0465,Mixed vegetable curry - plain,Vegetables,119.0,3.0,12.0,7.0,4.0
+F0466,Mixed vegetable curry - homemade style,Vegetables,120.4,3.0,12.0,7.0,4.0
+F0467,Mixed vegetable curry - boiled,Vegetables,115.0,3.0,12.0,6.6,4.0
+F0468,Mixed vegetable curry - steamed,Vegetables,117.0,3.0,12.0,6.9,4.0
+F0469,Mixed vegetable curry - roasted,Vegetables,124.0,3.0,12.0,7.4,4.0
+F0470,Mixed vegetable curry - grilled,Vegetables,122.0,3.0,12.0,7.3,4.0
+F0471,Mixed vegetable curry - baked,Vegetables,124.6,3.0,12.0,7.2,4.0
+F0472,Mixed vegetable curry - lightly seasoned,Vegetables,121.8,3.0,12.0,7.1,4.0
+F0473,Mixed vegetable curry - without added oil,Vegetables,112.3,3.0,12.0,6.0,4.0
+F0474,Mixed vegetable curry - with herbs,Vegetables,119.7,3.0,12.0,7.0,4.0
+F0475,Mixed vegetable curry - traditional style,Vegetables,121.9,3.0,12.0,7.2,4.0
+F0476,Aloo sabzi - plain,Other Foods,129.1,2.5,18.0,5.0,2.5
+F0477,Aloo sabzi - homemade style,Other Foods,129.1,2.5,18.0,5.0,2.5
+F0478,Aloo sabzi - boiled,Other Foods,125.9,2.5,18.0,4.8,2.5
+F0479,Aloo sabzi - steamed,Other Foods,125.9,2.5,18.0,4.9,2.5
+F0480,Aloo sabzi - roasted,Other Foods,133.6,2.5,18.0,5.2,2.5
+F0481,Aloo sabzi - grilled,Other Foods,133.2,2.5,18.0,5.2,2.5
+F0482,Aloo sabzi - baked,Other Foods,134.0,2.5,18.0,5.2,2.5
+F0483,Aloo sabzi - lightly seasoned,Other Foods,132.4,2.5,18.0,5.1,2.5
+F0484,Aloo sabzi - without added oil,Other Foods,122.9,2.5,18.0,4.2,2.5
+F0485,Aloo sabzi - with herbs,Other Foods,129.9,2.5,18.0,5.0,2.5
+F0486,Aloo sabzi - traditional style,Other Foods,132.3,2.5,18.0,5.2,2.5
+F0487,Bhindi - plain,Other Foods,33.3,1.9,7.5,0.2,3.2
+F0488,Bhindi - homemade style,Other Foods,33.1,1.9,7.5,0.2,3.2
+F0489,Bhindi - boiled,Other Foods,32.0,1.9,7.5,0.2,3.2
+F0490,Bhindi - steamed,Other Foods,31.8,1.9,7.5,0.2,3.2
+F0491,Bhindi - roasted,,34.2,1.9,7.5,0.2,3.2
+F0492,Bhindi - grilled,Other Foods,33.8,1.9,7.5,0.2,3.2
+F0493,Bhindi - baked,Other Foods,33.7,1.9,7.5,0.2,3.2
+F0494,Bhindi - lightly seasoned,Other Foods,33.4,1.9,7.5,0.2,3.2
+F0495,Bhindi - without added oil,Other Foods,31.1,1.9,7.5,0.2,3.2
+F0496,Bhindi - with herbs,Other Foods,32.7,1.9,7.5,0.2,3.2
+F0497,Bhindi - traditional style,Other Foods,33.6,1.9,7.5,0.2,3.2
+F0498,Baingan bharta - plain,Other Foods,90.6,2.0,10.0,5.0,4.0
+F0499,Baingan bharta - homemade style,Other Foods,89.6,2.0,10.0,5.0,4.0
+F0500,Baingan bharta - boiled,Other Foods,86.3,2.0,10.0,4.8,4.0
+F0501,Baingan bharta - steamed,Other Foods,87.2,2.0,10.0,4.9,4.0
+F0502,Baingan bharta - roasted,Other Foods,92.3,2.0,10.0,5.2,4.0
+F0503,Baingan bharta - grilled,Other Foods,92.6,2.0,10.0,5.2,4.0
+F0504,Baingan bharta - baked,Other Foods,93.2,2.0,10.0,5.2,4.0
+F0505,Baingan bharta - lightly seasoned,Other Foods,90.2,2.0,10.0,5.1,4.0
+F0506,Baingan bharta - without added oil,Other Foods,85.4,2.0,10.0,4.2,4.0
+F0507,Baingan bharta - with herbs,Other Foods,90.7,2.0,10.0,5.0,4.0
+F0508,Baingan bharta - traditional style,Other Foods,91.4,2.0,10.0,5.2,4.0
+F0509,Dal makhani - plain,Pulses & Protein,151.0,6.0,18.0,6.0,5.0
+F0510,Dal makhani - homemade style,Pulses & Protein,148.8,6.0,18.0,6.0,5.0
+F0511,Dal makhani - boiled,Pulses & Protein,145.4,6.0,18.0,5.7,5.0
+F0512,Dal makhani - steamed,Pulses & Protein,146.0,6.0,18.0,5.9,5.0
+F0513,Dal makhani - roasted,Pulses & Protein,155.0,6.0,18.0,6.3,5.0
+F0514,Dal makhani - grilled,Pulses & Protein,151.7,6.0,18.0,6.2,5.0
+F0515,Dal makhani - baked,Pulses & Protein,155.7,6.0,18.0,6.2,5.0
+F0516,Dal makhani - lightly seasoned,Pulses & Protein,150.1,6.0,18.0,6.1,5.0
+F0517,Dal makhani - without added oil,Pulses & Protein,140.3,6.0,18.0,5.1,5.0
+F0518,Dal makhani - with herbs,Pulses & Protein,148.9,6.0,18.0,6.0,5.0
+F0519,Dal makhani - traditional style,Pulses & Protein,153.8,6.0,18.0,6.2,5.0
+F0520,Vegetable pulao - plain,Rice & Grains,169.0,4.0,25.0,6.0,2.5
+F0521,Vegetable pulao - homemade style,Rice & Grains,171.4,4.0,25.0,6.0,2.5
+F0522,Vegetable pulao - boiled,Rice & Grains,163.7,4.0,25.0,5.7,2.5
+F0523,Vegetable pulao - steamed,Rice & Grains,163.4,4.0,25.0,5.9,2.5
+F0524,Vegetable pulao - roasted,Rice & Grains,173.4,4.0,25.0,6.3,2.5
+F0525,Vegetable pulao - grilled,Rice & Grains,171.8,4.0,25.0,6.2,2.5
+F0526,Vegetable pulao - baked,Rice & Grains,175.5,4.0,25.0,6.2,2.5
+F0527,Vegetable pulao - lightly seasoned,Rice & Grains,172.7,4.0,25.0,6.1,2.5
+F0528,Vegetable pulao - without added oil,Rice & Grains,159.0,4.0,25.0,5.1,2.5
+F0529,Vegetable pulao - with herbs,Rice & Grains,171.2,4.0,25.0,6.0,2.5
+F0530,Vegetable pulao - traditional style,Rice & Grains,171.9,4.0,25.0,6.2,2.5
+F0531,"Biryani, chicken - plain",Rice & Grains,201.2,10.0,25.0,7.0,1.5
+F0532,"Biryani, chicken - homemade style",Rice & Grains,201.7,10.0,25.0,7.0,1.5
+F0533,"Biryani, chicken - boiled",Rice & Grains,193.0,10.0,25.0,6.6,1.5
+F0534,"Biryani, chicken - steamed",Rice & Grains,194.8,10.0,25.0,6.9,1.5
+F0535,"Biryani, chicken - roasted",Rice & Grains,207.4,10.0,25.0,7.4,1.5
+F0536,"Biryani, chicken - grilled",Rice & Grains,202.1,10.0,25.0,7.3,1.5
+F0537,"Biryani, chicken - baked",Rice & Grains,204.8,10.0,25.0,7.2,1.5
+F0538,"Biryani, chicken - lightly seasoned",Rice & Grains,200.5,10.0,25.0,7.1,1.5
+F0539,"Biryani, chicken - without added oil",Rice & Grains,188.0,10.0,25.0,6.0,1.5
+F0540,"Biryani, chicken - with herbs",Rice & Grains,201.0,10.0,25.0,7.0,1.5
+F0541,"Biryani, chicken - traditional style",Rice & Grains,204.5,10.0,25.0,7.2,1.5
+F0542,"Biryani, vegetable - plain",Rice & Grains,181.3,4.0,27.0,6.0,2.5
+F0543,"Biryani, vegetable - homemade style",Rice & Grains,178.8,4.0,27.0,6.0,2.5
+F0544,"Biryani, vegetable - boiled",Rice & Grains,173.6,4.0,27.0,5.7,2.5
+F0545,"Biryani, vegetable - steamed",Rice & Grains,173.5,4.0,27.0,5.9,2.5
+F0546,"Biryani, vegetable - roasted",Rice & Grains,184.5,4.0,27.0,6.3,2.5
+F0547,"Biryani, vegetable - grilled",Rice & Grains,184.4,4.0,27.0,6.2,2.5
+F0548,"Biryani, vegetable - baked",Rice & Grains,187.2,4.0,27.0,6.2,2.5
+F0549,"Biryani, vegetable - lightly seasoned",Rice & Grains,182.2,4.0,27.0,6.1,2.5
+F0550,"Biryani, vegetable - without added oil",Rice & Grains,167.7,4.0,27.0,5.1,2.5
+F0551,"Biryani, vegetable - with herbs",Rice & Grains,180.4,4.0,27.0,6.0,2.5
+F0552,"Biryani, vegetable - traditional style",Rice & Grains,181.9,4.0,27.0,6.2,2.5
+F0553,Khichdi - plain,Rice & Grains,141.1,4.5,23.0,3.0,3.0
+F0554,Khichdi - homemade style,Rice & Grains,140.6,4.5,23.0,3.0,3.0
+F0555,Khichdi - boiled,Rice & Grains,133.5,4.5,23.0,2.8,3.0
+F0556,Khichdi - steamed,Rice & Grains,134.7,4.5,23.0,2.9,3.0
+F0557,Khichdi - roasted,Rice & Grains,143.3,4.5,23.0,3.2,3.0
+F0558,Khichdi - grilled,Rice & Grains,144.2,4.5,23.0,3.1,3.0
+F0559,Khichdi - baked,Rice & Grains,144.1,4.5,23.0,3.1,3.0
+F0560,Khichdi - lightly seasoned,Rice & Grains,142.2,4.5,23.0,3.1,3.0
+F0561,Khichdi - without added oil,Rice & Grains,132.0,4.5,23.0,2.5,3.0
+F0562,Khichdi - with herbs,Rice & Grains,140.2,4.5,23.0,3.0,3.0
+F0563,Khichdi - traditional style,Rice & Grains,141.8,4.5,23.0,3.1,3.0
+F0564,Sambar - plain,Other Foods,75.7,3.5,11.0,2.0,3.0
+F0565,Sambar - homemade style,Other Foods,74.7,3.5,11.0,2.0,3.0
+F0566,Sambar - boiled,Other Foods,72.1,3.5,11.0,1.9,3.0
+F0567,Sambar - steamed,Other Foods,73.0,3.5,11.0,2.0,3.0
+F0568,Sambar - roasted,Other Foods,77.5,3.5,11.0,2.1,3.0
+F0569,Sambar - grilled,Other Foods,77.2,3.5,11.0,2.1,3.0
+F0570,Sambar - baked,Other Foods,76.7,3.5,11.0,2.1,3.0
+F0571,Sambar - lightly seasoned,Other Foods,75.8,3.5,11.0,2.0,3.0
+F0572,Sambar - without added oil,Other Foods,70.4,3.5,11.0,1.7,3.0
+F0573,Sambar - with herbs,Other Foods,75.0,3.5,11.0,2.0,3.0
+F0574,Sambar - traditional style,Other Foods,75.9,3.5,11.0,2.1,3.0
+F0575,Rasam - plain,Other Foods,39.7,2.0,6.0,1.0,1.0
+F0576,Rasam - homemade style,Other Foods,39.8,2.0,6.0,1.0,1.0
+F0577,Rasam - boiled,Other Foods,38.3,2.0,6.0,0.9,1.0
+F0578,Rasam - steamed,Other Foods,38.7,2.0,6.0,1.0,1.0
+F0579,Rasam - roasted,Other Foods,41.3,2.0,6.0,1.1,1.0
+F0580,Rasam - grilled,Other Foods,40.9,2.0,6.0,1.0,1.0
+F0581,Rasam - baked,Other Foods,41.1,2.0,6.0,1.0,1.0
+F0582,Rasam - lightly seasoned,Other Foods,40.3,2.0,6.0,1.0,1.0
+F0583,Rasam - without added oil,Other Foods,37.4,2.0,6.0,0.8,1.0
+F0584,Rasam - with herbs,Other Foods,40.1,2.0,6.0,1.0,1.0
+F0585,Rasam - traditional style,Other Foods,40.7,2.0,6.0,1.0,1.0
+F0586,Vada - plain,Other Foods,287.3,7.0,32.0,15.0,4.0
+F0587,Vada - homemade style,Other Foods,289.5,7.0,32.0,15.0,4.0
+F0588,Vada - boiled,Other Foods,278.3,7.0,32.0,14.2,4.0
+F0589,Vada - steamed,Other Foods,279.8,7.0,32.0,14.7,4.0
+F0590,Vada - roasted,Other Foods,299.1,7.0,32.0,15.8,4.0
+F0591,Vada - grilled,Other Foods,296.2,7.0,32.0,15.6,4.0
+F0592,Vada - baked,Other Foods,299.9,7.0,32.0,15.5,4.0
+F0593,Vada - lightly seasoned,Other Foods,293.8,7.0,32.0,15.3,4.0
+F0594,Vada - without added oil,Other Foods,273.4,7.0,32.0,12.8,4.0
+F0595,Vada - with herbs,Other Foods,288.9,7.0,32.0,15.0,4.0
+F0596,Vada - traditional style,Other Foods,297.5,7.0,32.0,15.5,4.0
+F0597,Pav bhaji - plain,Other Foods,180.2,4.0,24.0,7.0,4.0
+F0598,Pav bhaji - homemade style,Other Foods,179.8,4.0,24.0,7.0,4.0
+F0599,Pav bhaji - boiled,Other Foods,173.2,4.0,24.0,6.6,4.0
+F0600,Pav bhaji - steamed,Other Foods,174.1,4.0,24.0,6.9,4.0
+F0601,Pav bhaji - roasted,Other Foods,185.4,4.0,24.0,7.4,4.0
+F0602,Pav bhaji - grilled,Other Foods,184.5,4.0,24.0,7.3,4.0
+F0603,Pav bhaji - baked,Other Foods,186.8,4.0,24.0,7.2,4.0
+F0604,Pav bhaji - lightly seasoned,Other Foods,183.3,4.0,24.0,7.1,4.0
+F0605,Pav bhaji - without added oil,Other Foods,169.2,4.0,24.0,6.0,4.0
+F0606,Pav bhaji - with herbs,Other Foods,180.1,4.0,24.0,7.0,4.0
+F0607,Pav bhaji - traditional style,Other Foods,184.7,4.0,24.0,7.2,4.0
+F0608,Samosa - plain,Other Foods,261.0,5.0,32.0,13.0,3.0
+F0609,Samosa - homemade style,Other Foods,263.8,5.0,32.0,13.0,3.0
+F0610,Samosa - boiled,Other Foods,251.5,5.0,32.0,12.3,3.0
+F0611,Samosa - steamed,Other Foods,252.2,5.0,32.0,12.7,3.0
+F0612,Samosa - roasted,Other Foods,267.6,5.0,32.0,13.7,3.0
+F0613,Samosa - grilled,Other Foods,269.1,5.0,32.0,13.5,3.0
+F0614,Samosa - baked,Other Foods,267.5,5.0,32.0,13.4,3.0
+F0615,Samosa - lightly seasoned,Other Foods,263.5,5.0,32.0,13.3,3.0
+F0616,Samosa - without added oil,Other Foods,245.5,5.0,32.0,11.0,3.0
+F0617,Samosa - with herbs,Other Foods,260.3,5.0,32.0,13.0,3.0
+F0618,Samosa - traditional style,Other Foods,266.2,5.0,32.0,13.4,3.0
+F0619,Kachori - plain,Other Foods,331.6,7.0,35.0,18.0,3.0
+F0620,Kachori - homemade style,Other Foods,326.8,7.0,35.0,18.0,3.0
+F0621,Kachori - boiled,Other Foods,318.9,7.0,35.0,17.1,3.0
+F0622,Kachori - steamed,Other Foods,322.4,7.0,35.0,17.6,3.0
+F0623,Kachori - roasted,Other Foods,339.0,7.0,35.0,18.9,3.0
+F0624,Kachori - grilled,Other Foods,334.3,7.0,35.0,18.7,3.0
+F0625,Kachori - baked,Other Foods,340.6,7.0,35.0,18.5,3.0
+F0626,Kachori - lightly seasoned,Other Foods,330.8,7.0,35.0,18.4,3.0
+F0627,Kachori - without added oil,Other Foods,309.4,7.0,35.0,15.3,3.0
+F0628,Kachori - with herbs,Other Foods,333.0,7.0,35.0,18.0,3.0
+F0629,Kachori - traditional style,Other Foods,339.9,7.0,35.0,18.5,3.0
+F0630,Dhokla - plain,Other Foods,160.9,6.0,25.0,3.5,2.0
+F0631,Dhokla - homemade style,Other Foods,159.4,6.0,25.0,3.5,2.0
+F0632,Dhokla - boiled,Other Foods,154.2,6.0,25.0,3.3,2.0
+F0633,Dhokla - steamed,Other Foods,155.8,6.0,25.0,3.4,2.0
+F0634,Dhokla - roasted,Other Foods,164.4,6.0,25.0,3.7,2.0
+F0635,Dhokla - grilled,Other Foods,163.7,6.0,25.0,3.6,2.0
+F0636,Dhokla - baked,Other Foods,163.2,6.0,25.0,3.6,2.0
+F0637,Dhokla - lightly seasoned,Other Foods,160.7,6.0,25.0,3.6,2.0
+F0638,Dhokla - without added oil,Other Foods,150.5,6.0,25.0,3.0,2.0
+F0639,Dhokla - with herbs,Other Foods,158.9,6.0,25.0,3.5,2.0
+F0640,Dhokla - traditional style,Other Foods,162.1,6.0,25.0,3.6,2.0
+F0641,Thepla - plain,Other Foods,292.0,8.0,45.0,8.0,5.0
+F0642,Thepla - homemade style,Other Foods,292.8,8.0,45.0,8.0,5.0
+F0643,Thepla - boiled,Other Foods,278.7,8.0,45.0,7.6,5.0
+F0644,Thepla - steamed,Other Foods,283.2,8.0,45.0,7.8,5.0
+F0645,Thepla - roasted,Other Foods,301.6,8.0,45.0,8.4,5.0
+F0646,Thepla - grilled,Other Foods,293.7,8.0,45.0,8.3,5.0
+F0647,Thepla - baked,Other Foods,298.4,8.0,45.0,8.2,5.0
+F0648,Thepla - lightly seasoned,Other Foods,292.3,8.0,45.0,8.2,5.0
+F0649,Thepla - without added oil,Other Foods,270.3,8.0,45.0,6.8,5.0
+F0650,Thepla - with herbs,Other Foods,291.5,8.0,45.0,8.0,5.0
+F0651,Thepla - traditional style,Other Foods,295.4,8.0,45.0,8.2,5.0
+F0652,Sprouts - plain,Other Foods,84.9,8.0,14.0,1.0,5.0
+F0653,Sprouts - homemade style,Other Foods,84.4,8.0,14.0,1.0,5.0
+F0654,Sprouts - boiled,Other Foods,81.1,8.0,14.0,0.9,
+F0655,Sprouts - steamed,Other Foods,83.1,8.0,14.0,1.0,5.0
+F0656,Sprouts - roasted,Other Foods,86.8,8.0,14.0,1.1,5.0
+F0657,Sprouts - grilled,Other Foods,86.2,8.0,14.0,1.0,5.0
+F0658,Sprouts - baked,Other Foods,87.2,8.0,14.0,1.0,5.0
+F0659,Sprouts - lightly seasoned,Other Foods,85.8,8.0,14.0,1.0,5.0
+F0660,Sprouts - without added oil,Other Foods,80.0,8.0,14.0,0.8,5.0
+F0661,Sprouts - with herbs,Other Foods,85.0,8.0,14.0,1.0,5.0
+F0662,Sprouts - traditional style,Other Foods,86.0,8.0,14.0,1.0,5.0
+F0663,Peanuts - plain,Pulses & Protein,564.1,25.8,16.1,49.2,8.5
+F0664,Peanuts - homemade style,Pulses & Protein,570.9,25.8,16.1,49.2,8.5
+F0665,Peanuts - boiled,Pulses & Protein,545.8,25.8,16.1,46.7,8.5
+F0666,Peanuts - steamed,Pulses & Protein,551.6,25.8,16.1,48.2,8.5
+F0667,Peanuts - roasted,Pulses & Protein,586.0,25.8,16.1,51.7,8.5
+F0668,Peanuts - grilled,Pulses & Protein,581.4,25.8,16.1,51.2,8.5
+F0669,Peanuts - baked,Pulses & Protein,578.8,25.8,16.1,50.7,8.5
+F0670,Peanuts - lightly seasoned,Pulses & Protein,571.1,25.8,16.1,50.2,8.5
+F0671,Peanuts - without added oil,Pulses & Protein,533.4,25.8,16.1,41.8,8.5
+F0672,Peanuts - with herbs,Pulses & Protein,565.2,25.8,16.1,49.2,8.5
+F0673,Peanuts - traditional style,Pulses & Protein,582.3,25.8,16.1,50.7,8.5
+F0674,Almonds - plain,Nuts & Seeds,578.8,21.2,21.6,49.9,12.5
+F0675,Almonds - homemade style,Nuts & Seeds,582.1,21.2,21.6,49.9,12.5
+F0676,Almonds - boiled,Nuts & Seeds,559.8,21.2,21.6,47.4,12.5
+F0677,Almonds - steamed,Nuts & Seeds,561.7,21.2,21.6,48.9,12.5
+F0678,Almonds - roasted,Nuts & Seeds,601.3,21.2,21.6,52.4,12.5
+F0679,Almonds - grilled,Nuts & Seeds,591.6,21.2,21.6,51.9,12.5
+F0680,Almonds - baked,Nuts & Seeds,600.5,21.2,21.6,51.4,12.5
+F0681,Almonds - lightly seasoned,Nuts & Seeds,582.9,21.2,21.6,50.9,12.5
+F0682,Almonds - without added oil,Nuts & Seeds,544.2,21.2,21.6,42.4,12.5
+F0683,Almonds - with herbs,Nuts & Seeds,579.4,21.2,21.6,49.9,12.5
+F0684,Almonds - traditional style,Nuts & Seeds,585.9,21.2,21.6,51.4,12.5
+F0685,Cashews - plain,Nuts & Seeds,551.9,18.2,30.2,43.9,3.3
+F0686,Cashews - homemade style,Nuts & Seeds,557.6,18.2,30.2,43.9,3.3
+F0687,Cashews - boiled,Nuts & Seeds,532.3,18.2,30.2,41.7,3.3
+F0688,Cashews - steamed,Nuts & Seeds,533.0,18.2,30.2,43.0,3.3
+F0689,Cashews - roasted,Nuts & Seeds,567.8,18.2,30.2,46.1,3.3
+F0690,Cashews - grilled,Nuts & Seeds,560.6,18.2,30.2,45.7,3.3
+F0691,Cashews - baked,Nuts & Seeds,564.2,18.2,30.2,45.2,3.3
+F0692,Cashews - lightly seasoned,Nuts & Seeds,563.3,18.2,30.2,44.8,3.3
+F0693,Cashews - without added oil,Nuts & Seeds,519.3,18.2,30.2,37.3,3.3
+F0694,Cashews - with herbs,Nuts & Seeds,550.9,18.2,30.2,43.9,3.3
+F0695,Cashews - traditional style,Nuts & Seeds,565.2,18.2,30.2,45.2,3.3
+F0696,Walnuts - plain,Nuts & Seeds,647.6,15.2,13.7,65.2,6.7
+F0697,Walnuts - homemade style,Nuts & Seeds,651.1,15.2,13.7,65.2,6.7
+F0698,Walnuts - boiled,Nuts & Seeds,630.4,15.2,13.7,61.9,6.7
+F0699,Walnuts - steamed,Nuts & Seeds,636.1,15.2,13.7,63.9,6.7
+F0700,Walnuts - roasted,Nuts & Seeds,680.1,15.2,13.7,68.5,6.7
+F0701,Walnuts - grilled,Nuts & Seeds,668.7,15.2,13.7,67.8,6.7
+F0702,Walnuts - baked,Nuts & Seeds,673.3,15.2,13.7,67.2,6.7
+F0703,Walnuts - lightly seasoned,Nuts & Seeds,664.0,15.2,13.7,66.5,6.7
+F0704,Walnuts - without added oil,Nuts & Seeds,619.7,15.2,13.7,55.4,6.7
+F0705,Walnuts - with herbs,Nuts & Seeds,656.9,15.2,13.7,65.2,6.7
+F0706,Walnuts - traditional style,Nuts & Seeds,673.3,15.2,13.7,67.2,6.7
+F0707,Banana - plain,Fruits,89.5,1.1,22.8,0.3,2.6
+F0708,Banana - homemade style,Fruits,89.7,1.1,22.8,0.3,2.6
+F0709,Banana - boiled,Fruits,84.8,1.1,22.8,0.3,2.6
+F0710,Banana - steamed,Fruits,86.7,1.1,22.8,0.3,2.6
+F0711,Banana - roasted,Fruits,91.6,1.1,22.8,0.3,2.6
+F0712,Banana - grilled,Fruits,90.9,1.1,22.8,0.3,2.6
+F0713,Banana - baked,Fruits,92.0,1.1,22.8,0.3,2.6
+F0714,Banana - lightly seasoned,Fruits,90.7,1.1,22.8,0.3,2.6
+F0715,Banana - without added oil,Fruits,84.5,1.1,22.8,0.3,2.6
+F0716,Banana - with herbs,Fruits,88.6,1.1,22.8,0.3,2.6
+F0717,Banana - traditional style,Fruits,91.2,1.1,22.8,0.3,2.6
+F0718,Apple - plain,Fruits,52.3,0.3,13.8,0.2,2.4
+F0719,Apple - homemade style,Fruits,51.8,0.3,13.8,0.2,2.4
+F0720,Apple - boiled,Fruits,49.5,0.3,13.8,0.2,2.4
+F0721,Apple - steamed,Fruits,50.0,0.3,13.8,0.2,2.4
+F0722,Apple - roasted,Fruits,53.9,0.3,13.8,0.2,2.4
+F0723,Apple - grilled,Fruits,53.0,0.3,13.8,0.2,2.4
+F0724,Apple - baked,Fruits,54.1,0.3,13.8,0.2,2.4
+F0725,Apple - lightly seasoned,Fruits,52.5,0.3,13.8,0.2,2.4
+F0726,Apple - without added oil,Fruits,49.3,0.3,13.8,0.2,2.4
+F0727,Apple - with herbs,Fruits,51.9,0.3,13.8,0.2,2.4
+F0728,Apple - traditional style,Fruits,53.4,0.3,13.8,0.2,2.4
+F0729,Mango - plain,Fruits,59.5,0.8,15.0,0.4,1.6
+F0730,Mango - homemade style,Fruits,60.1,0.8,15.0,0.4,1.6
+F0731,Mango - boiled,Fruits,57.9,0.8,15.0,0.4,1.6
+F0732,Mango - steamed,Fruits,58.7,0.8,15.0,0.4,1.6
+F0733,Mango - roasted,Fruits,62.2,0.8,15.0,0.4,1.6
+F0734,Mango - grilled,Fruits,60.6,0.8,15.0,0.4,1.6
+F0735,Mango - baked,Fruits,61.6,0.8,15.0,0.4,1.6
+F0736,Mango - lightly seasoned,Fruits,60.1,0.8,15.0,0.4,1.6
+F0737,Mango - without added oil,Fruits,56.0,0.8,15.0,0.3,1.6
+F0738,Mango - with herbs,Fruits,60.2,0.8,15.0,0.4,1.6
+F0739,Mango - traditional style,Fruits,61.5,0.8,15.0,0.4,1.6
+F0740,Orange - plain,Fruits,47.3,0.9,11.8,0.1,2.4
+F0741,Orange - homemade style,Fruits,47.3,0.9,11.8,0.1,2.4
+F0742,Orange - boiled,Fruits,45.3,0.9,11.8,0.1,2.4
+F0743,Orange - steamed,Fruits,45.9,0.9,11.8,0.1,2.4
+F0744,Orange - roasted,Fruits,48.0,0.9,11.8,0.1,2.4
+F0745,Orange - grilled,Fruits,47.7,0.9,11.8,0.1,2.4
+F0746,Orange - baked,Fruits,48.5,0.9,11.8,0.1,2.4
+F0747,Orange - lightly seasoned,Fruits,47.8,0.9,11.8,0.1,2.4
+F0748,Orange - without added oil,Fruits,43.7,0.9,11.8,0.1,2.4
+F0749,Orange - with herbs,Fruits,47.0,0.9,11.8,0.1,2.4
+F0750,Orange - traditional style,Fruits,48.1,0.9,11.8,0.1,2.4
+F0751,Papaya - plain,Fruits,42.6,0.5,10.8,0.3,1.7
+F0752,Papaya - homemade style,Fruits,42.9,0.5,10.8,0.3,1.7
+F0753,Papaya - boiled,Fruits,41.6,0.5,10.8,0.3,1.7
+F0754,Papaya - steamed,Fruits,41.9,0.5,10.8,0.3,1.7
+F0755,Papaya - roasted,Fruits,44.1,0.5,10.8,0.3,1.7
+F0756,Papaya - grilled,Fruits,44.2,0.5,10.8,0.3,1.7
+F0757,Papaya - baked,Fruits,44.2,0.5,10.8,0.3,1.7
+F0758,Papaya - lightly seasoned,Fruits,43.7,0.5,10.8,0.3,1.7
+F0759,Papaya - without added oil,Fruits,40.3,,10.8,0.3,1.7
+F0760,Papaya - with herbs,Fruits,43.1,0.5,10.8,0.3,1.7
+F0761,Papaya - traditional style,Fruits,43.8,0.5,10.8,0.3,1.7
+F0762,Guava - plain,Fruits,67.7,2.6,14.3,1.0,5.4
+F0763,Guava - homemade style,Fruits,68.5,2.6,14.3,1.0,5.4
+F0764,Guava - boiled,Fruits,64.9,2.6,14.3,0.9,5.4
+F0765,Guava - steamed,Fruits,65.4,2.6,14.3,1.0,5.4
+F0766,Guava - roasted,Fruits,69.8,2.6,14.3,1.1,5.4
+F0767,Guava - grilled,Fruits,69.7,2.6,14.3,1.0,5.4
+F0768,Guava - baked,Fruits,70.5,2.6,14.3,1.0,5.4
+F0769,Guava - lightly seasoned,Fruits,69.4,2.6,14.3,1.0,5.4
+F0770,Guava - without added oil,Fruits,63.7,2.6,14.3,0.8,5.4
+F0771,Guava - with herbs,Fruits,67.9,2.6,14.3,1.0,5.4
+F0772,Guava - traditional style,Fruits,68.9,2.6,14.3,1.0,5.4
+F0773,Watermelon - plain,Fruits,30.0,0.6,7.6,0.2,0.4
+F0774,Watermelon - homemade style,Fruits,30.3,0.6,7.6,0.2,0.4
+F0775,Watermelon - boiled,Fruits,28.9,0.6,7.6,0.2,0.4
+F0776,Watermelon - steamed,Fruits,29.2,0.6,7.6,0.2,0.4
+F0777,Watermelon - roasted,Fruits,30.8,0.6,7.6,0.2,0.4
+F0778,Watermelon - grilled,Fruits,30.9,0.6,7.6,0.2,0.4
+F0779,Watermelon - baked,Fruits,30.9,0.6,7.6,0.2,0.4
+F0780,Watermelon - lightly seasoned,Fruits,30.1,0.6,7.6,0.2,0.4
+F0781,Watermelon - without added oil,Fruits,28.1,0.6,7.6,0.2,0.4
+F0782,Watermelon - with herbs,Fruits,29.7,0.6,7.6,0.2,0.4
+F0783,Watermelon - traditional style,Fruits,30.4,0.6,7.6,0.2,0.4
+F0784,Pomegranate - plain,Other Foods,82.2,1.7,18.7,1.2,4.0
+F0785,Pomegranate - homemade style,Other Foods,82.9,1.7,18.7,1.2,4.0
+F0786,Pomegranate - boiled,Other Foods,79.9,1.7,18.7,1.1,4.0
+F0787,Pomegranate - steamed,Other Foods,80.3,1.7,18.7,1.2,4.0
+F0788,Pomegranate - roasted,Other Foods,85.4,1.7,18.7,1.3,4.0
+F0789,Pomegranate - grilled,Other Foods,85.4,1.7,18.7,1.2,4.0
+F0790,Pomegranate - baked,Other Foods,85.9,1.7,18.7,1.2,4.0
+F0791,Pomegranate - lightly seasoned,Other Foods,83.9,1.7,18.7,1.2,4.0
+F0792,Pomegranate - without added oil,Other Foods,77.7,1.7,18.7,1.0,4.0
+F0793,Pomegranate - with herbs,Other Foods,83.7,1.7,18.7,1.2,4.0
+F0794,Pomegranate - traditional style,Other Foods,84.2,1.7,18.7,1.2,4.0
+F0795,Dates - plain,Other Foods,281.0,2.5,75.0,0.4,8.0
+F0796,Dates - homemade style,Other Foods,284.3,2.5,75.0,0.4,8.0
+F0797,Dates - boiled,Other Foods,270.9,2.5,75.0,0.4,8.0
+F0798,Dates - steamed,Other Foods,274.9,2.5,75.0,0.4,8.0
+F0799,Dates - roasted,Other Foods,291.0,2.5,75.0,0.4,8.0
+F0800,Dates - grilled,Other Foods,288.5,2.5,75.0,0.4,8.0
+F0801,Dates - baked,Other Foods,289.3,2.5,75.0,0.4,8.0
+F0802,Dates - lightly seasoned,Other Foods,283.3,2.5,75.0,0.4,8.0
+F0803,Dates - without added oil,Other Foods,264.1,2.5,75.0,0.3,8.0
+F0804,Dates - with herbs,Other Foods,280.1,2.5,75.0,0.4,8.0
+F0805,,Other Foods,289.8,2.5,75.0,0.4,8.0
+F0806,"Coconut, fresh - plain",Nuts & Seeds,352.5,3.3,15.2,33.5,9.0
+F0807,"Coconut, fresh - homemade style",Nuts & Seeds,354.4,3.3,15.2,33.5,9.0
+F0808,"Coconut, fresh - boiled",Nuts & Seeds,341.8,3.3,15.2,31.8,9.0
+F0809,"Coconut, fresh - steamed",Nuts & Seeds,345.3,3.3,15.2,32.8,9.0
+F0810,"Coconut, fresh - roasted",Nuts & Seeds,364.2,3.3,15.2,35.2,9.0
+F0811,"Coconut, fresh - grilled",Nuts & Seeds,360.9,3.3,15.2,34.8,9.0
+F0812,"Coconut, fresh - baked",Nuts & Seeds,368.2,3.3,15.2,34.5,9.0
+F0813,"Coconut, fresh - lightly seasoned",Nuts & Seeds,358.8,3.3,15.2,34.2,9.0
+F0814,"Coconut, fresh - without added oil",Nuts & Seeds,334.9,3.3,15.2,28.5,9.0
+F0815,"Coconut, fresh - with herbs",Nuts & Seeds,356.9,3.3,15.2,33.5,9.0
+F0816,"Coconut, fresh - traditional style",Nuts & Seeds,363.2,3.3,15.2,34.5,9.0
+F0817,"Potato, boiled - plain",Vegetables,86.5,1.9,20.1,0.1,1.8
+F0818,"Potato, boiled - homemade style",Vegetables,87.1,1.9,20.1,0.1,1.8
+F0819,"Potato, boiled - boiled",Vegetables,82.9,1.9,20.1,0.1,1.8
+F0820,"Potato, boiled - steamed",Vegetables,84.6,1.9,20.1,0.1,1.8
+F0821,"Potato, boiled - roasted",Vegetables,90.4,1.9,20.1,,1.8
+F0822,"Potato, boiled - grilled",Vegetables,88.8,1.9,20.1,0.1,1.8
+F0823,"Potato, boiled - baked",Vegetables,89.5,1.9,20.1,0.1,1.8
+F0824,"Potato, boiled - lightly seasoned",Vegetables,87.1,1.9,20.1,0.1,1.8
+F0825,"Potato, boiled - without added oil",Vegetables,82.5,1.9,20.1,0.1,1.8
+F0826,"Potato, boiled - with herbs",Vegetables,86.3,1.9,20.1,0.1,1.8
+F0827,"Potato, boiled - traditional style",Vegetables,87.9,1.9,20.1,0.1,1.8
+F0828,"Sweet potato, boiled - plain",Vegetables,75.6,1.4,17.7,0.1,2.5
+F0829,"Sweet potato, boiled - homemade style",Vegetables,75.3,1.4,17.7,0.1,2.5
+F0830,"Sweet potato, boiled - boiled",Vegetables,72.9,1.4,17.7,0.1,2.5
+F0831,"Sweet potato, boiled - steamed",Vegetables,73.7,1.4,17.7,0.1,2.5
+F0832,"Sweet potato, boiled - roasted",Vegetables,78.0,1.4,17.7,0.1,2.5
+F0833,"Sweet potato, boiled - grilled",Vegetables,76.8,1.4,17.7,0.1,2.5
+F0834,"Sweet potato, boiled - baked",Vegetables,77.7,1.4,17.7,0.1,2.5
+F0835,"Sweet potato, boiled - lightly seasoned",Vegetables,76.6,1.4,17.7,0.1,2.5
+F0836,"Sweet potato, boiled - without added oil",Vegetables,70.8,1.4,17.7,0.1,2.5
+F0837,"Sweet potato, boiled - with herbs",Vegetables,76.3,1.4,17.7,0.1,2.5
+F0838,"Sweet potato, boiled - traditional style",Vegetables,77.1,1.4,17.7,0.1,2.5
+F0839,Carrot - plain,Vegetables,40.8,0.9,9.6,0.2,2.8
+F0840,Carrot - homemade style,Vegetables,40.9,0.9,9.6,0.2,2.8
+F0841,Carrot - boiled,Vegetables,39.3,0.9,9.6,0.2,2.8
+F0842,Carrot - steamed,Vegetables,39.4,0.9,9.6,0.2,2.8
+F0843,Carrot - roasted,Vegetables,41.9,0.9,9.6,0.2,2.8
+F0844,Carrot - grilled,Vegetables,42.1,0.9,9.6,0.2,2.8
+F0845,Carrot - baked,Vegetables,41.8,0.9,9.6,0.2,2.8
+F0846,Carrot - lightly seasoned,Vegetables,41.4,0.9,9.6,0.2,2.8
+F0847,Carrot - without added oil,Vegetables,38.5,0.9,9.6,0.2,2.8
+F0848,Carrot - with herbs,Vegetables,40.9,0.9,9.6,0.2,2.8
+F0849,Carrot - traditional style,Vegetables,41.8,0.9,9.6,0.2,2.8
+F0850,Cucumber - plain,Vegetables,15.1,0.7,3.6,0.1,0.5
+F0851,Cucumber - homemade style,Vegetables,15.1,0.7,3.6,0.1,0.5
+F0852,Cucumber - boiled,Vegetables,14.3,0.7,3.6,0.1,0.5
+F0853,Cucumber - steamed,Vegetables,14.5,0.7,3.6,0.1,0.5
+F0854,Cucumber - roasted,Vegetables,15.4,0.7,3.6,0.1,0.5
+F0855,Cucumber - grilled,Vegetables,15.3,0.7,3.6,0.1,0.5
+F0856,Cucumber - baked,Vegetables,15.5,0.7,3.6,0.1,0.5
+F0857,Cucumber - lightly seasoned,Vegetables,15.1,0.7,3.6,0.1,0.5
+F0858,Cucumber - without added oil,Vegetables,14.1,0.7,3.6,0.1,0.5
+F0859,Cucumber - with herbs,Vegetables,15.1,0.7,3.6,0.1,0.5
+F0860,Cucumber - traditional style,Vegetables,15.2,0.7,3.6,0.1,0.5
+F0861,Tomato - plain,Vegetables,18.0,0.9,3.9,0.2,1.2
+F0862,Tomato - homemade style,Vegetables,18.1,0.9,3.9,0.2,1.2
+F0863,Tomato - boiled,Vegetables,17.2,0.9,3.9,0.2,1.2
+F0864,Tomato - steamed,Vegetables,17.3,0.9,3.9,0.2,1.2
+F0865,Tomato - roasted,Vegetables,18.4,0.9,3.9,0.2,1.2
+F0866,Tomato - grilled,Vegetables,18.5,0.9,3.9,0.2,1.2
+F0867,Tomato - baked,Vegetables,18.4,0.9,3.9,0.2,1.2
+F0868,Tomato - lightly seasoned,Vegetables,18.1,0.9,3.9,0.2,1.2
+F0869,Tomato - without added oil,Vegetables,16.8,0.9,3.9,0.2,1.2
+F0870,Tomato - with herbs,Vegetables,17.9,0.9,3.9,0.2,1.2
+F0871,Tomato - traditional style,Vegetables,18.4,0.9,3.9,0.2,1.2
+F0872,Spinach - plain,Vegetables,22.9,2.9,3.6,0.4,2.2
+F0873,Spinach - homemade style,Vegetables,23.0,2.9,3.6,0.4,2.2
+F0874,Spinach - boiled,Vegetables,22.1,2.9,3.6,0.4,2.2
+F0875,Spinach - steamed,Vegetables,22.5,2.9,3.6,0.4,2.2
+F0876,Spinach - roasted,Vegetables,23.5,2.9,3.6,0.4,2.2
+F0877,Spinach - grilled,Vegetables,23.6,2.9,3.6,0.4,2.2
+F0878,Spinach - baked,Vegetables,23.7,2.9,3.6,0.4,2.2
+F0879,Spinach - lightly seasoned,Vegetables,23.1,2.9,3.6,0.4,2.2
+F0880,Spinach - without added oil,Vegetables,21.7,2.9,3.6,0.3,2.2
+F0881,Spinach - with herbs,Vegetables,23.2,2.9,3.6,0.4,2.2
+F0882,Spinach - traditional style,Vegetables,23.3,2.9,3.6,0.4,2.2
+F0883,Broccoli - plain,Vegetables,34.3,2.8,6.6,0.4,2.6
+F0884,Broccoli - homemade style,Vegetables,34.0,2.8,6.6,0.4,2.6
+F0885,Broccoli - boiled,Vegetables,32.7,2.8,6.6,0.4,2.6
+F0886,Broccoli - steamed,Vegetables,33.3,2.8,6.6,0.4,2.6
+F0887,Broccoli - roasted,Vegetables,34.9,2.8,6.6,0.4,2.6
+F0888,Broccoli - grilled,Vegetables,34.9,2.8,6.6,0.4,2.6
+F0889,Broccoli - baked,Vegetables,34.9,2.8,6.6,0.4,2.6
+F0890,Broccoli - lightly seasoned,Vegetables,34.5,2.8,6.6,0.4,2.6
+F0891,Broccoli - without added oil,Vegetables,32.0,2.8,6.6,0.3,2.6
+F0892,Broccoli - with herbs,Vegetables,33.8,2.8,6.6,0.4,2.6
+F0893,Broccoli - traditional style,Vegetables,34.6,2.8,6.6,0.4,2.6
+F0894,Cauliflower - plain,Vegetables,24.9,1.9,5.0,0.3,2.0
+F0895,Cauliflower - homemade style,Vegetables,24.8,1.9,5.0,0.3,2.0
+F0896,Cauliflower - boiled,Vegetables,23.8,1.9,5.0,0.3,2.0
+F0897,Cauliflower - steamed,Vegetables,24.2,1.9,5.0,0.3,2.0
+F0898,Cauliflower - roasted,Vegetables,25.5,1.9,5.0,0.3,2.0
+F0899,Cauliflower - grilled,Vegetables,25.3,1.9,5.0,0.3,2.0
+F0900,Cauliflower - baked,Vegetables,25.9,1.9,5.0,0.3,2.0
+F0901,Cauliflower - lightly seasoned,Vegetables,25.4,1.9,5.0,0.3,2.0
+F0902,Cauliflower - without added oil,Vegetables,23.6,1.9,5.0,0.3,2.0
+F0903,Cauliflower - with herbs,Vegetables,24.9,1.9,5.0,0.3,2.0
+F0904,Cauliflower - traditional style,Vegetables,25.7,1.9,5.0,0.3,2.0
+F0905,Green peas - plain,Pulses & Protein,81.2,5.4,14.5,0.4,5.7
+F0906,Green peas - homemade style,Pulses & Protein,80.4,5.4,14.5,0.4,5.7
+F0907,Green peas - boiled,Pulses & Protein,77.2,5.4,14.5,0.4,5.7
+F0908,Green peas - steamed,Pulses & Protein,78.9,5.4,14.5,0.4,5.7
+F0909,Green peas - roasted,Pulses & Protein,82.9,5.4,14.5,0.4,5.7
+F0910,Green peas - grilled,Pulses & Protein,82.6,5.4,14.5,0.4,5.7
+F0911,Green peas - baked,Pulses & Protein,84.3,5.4,14.5,0.4,5.7
+F0912,Green peas - lightly seasoned,Pulses & Protein,81.0,5.4,14.5,0.4,5.7
+F0913,Green peas - without added oil,Pulses & Protein,75.4,5.4,14.5,0.3,5.7
+F0914,Green peas - with herbs,Pulses & Protein,81.8,5.4,14.5,0.4,5.7
+F0915,Green peas - traditional style,Pulses & Protein,82.8,5.4,14.5,0.4,5.7
+F0916,"Lassi, plain - plain",Other Foods,69.5,3.5,6.0,3.0,0.0
+F0917,"Lassi, plain - homemade style",Other Foods,70.6,3.5,6.0,3.0,0.0
+F0918,"Lassi, plain - boiled",Other Foods,67.7,3.5,6.0,2.8,0.0
+F0919,"Lassi, plain - steamed",Other Foods,67.9,3.5,6.0,2.9,0.0
+F0920,"Lassi, plain - roasted",Other Foods,72.3,3.5,6.0,3.2,0.0
+F0921,"Lassi, plain - grilled",Other Foods,71.1,3.5,6.0,3.1,0.0
+F0922,"Lassi, plain - baked",Other Foods,71.5,3.5,6.0,3.1,0.0
+F0923,"Lassi, plain - lightly seasoned",Other Foods,70.8,3.5,6.0,3.1,0.0
+F0924,"Lassi, plain - without added oil",Other Foods,65.5,3.5,6.0,2.5,0.0
+F0925,"Lassi, plain - with herbs",Other Foods,70.2,3.5,6.0,3.0,0.0
+F0926,"Lassi, plain - traditional style",Other Foods,71.9,3.5,6.0,3.1,0.0
+F0927,Tea with milk - plain,Dairy,44.6,1.5,6.0,1.5,0.0
+F0928,Tea with milk - homemade style,Dairy,45.1,1.5,6.0,1.5,0.0
+F0929,Tea with milk - boiled,Dairy,43.0,1.5,6.0,1.4,0.0
+F0930,Tea with milk - steamed,Dairy,44.0,1.5,6.0,1.5,0.0
+F0931,Tea with milk - roasted,Dairy,46.1,1.5,6.0,1.6,0.0
+F0932,Tea with milk - grilled,Dairy,46.0,1.5,6.0,1.6,0.0
+F0933,Tea with milk - baked,Dairy,46.4,1.5,6.0,1.5,0.0
+F0934,Tea with milk - lightly seasoned,Dairy,45.4,1.5,6.0,1.5,0.0
+F0935,Tea with milk - without added oil,Dairy,42.5,1.5,6.0,1.3,0.0
+F0936,Tea with milk - with herbs,Dairy,45.2,1.5,6.0,1.5,0.0
+F0937,Tea with milk - traditional style,Dairy,46.0,1.5,6.0,1.5,0.0
+F0938,Coffee with milk - plain,Dairy,55.3,2.0,6.0,2.0,0.0
+F0939,Coffee with milk - homemade style,Dairy,55.5,2.0,6.0,2.0,0.0
+F0940,Coffee with milk - boiled,Dairy,52.7,2.0,6.0,1.9,0.0
+F0941,Coffee with milk - steamed,Dairy,53.4,2.0,6.0,2.0,0.0
+F0942,Coffee with milk - roasted,Dairy,56.1,2.0,6.0,2.1,0.0
+F0943,Coffee with milk - grilled,Dairy,56.4,2.0,6.0,2.1,0.0
+F0944,Coffee with milk - baked,Dairy,56.7,2.0,6.0,2.1,0.0
+F0945,Coffee with milk - lightly seasoned,Dairy,55.4,2.0,6.0,2.0,0.0
+F0946,Coffee with milk - without added oil,Dairy,51.3,2.0,6.0,1.7,0.0
+F0947,Coffee with milk - with herbs,Dairy,55.4,2.0,6.0,2.0,0.0
+F0948,Coffee with milk - traditional style,Dairy,56.0,2.0,6.0,2.1,0.0
+F0949,Fruit juice - plain,Fruits,50.2,0.5,12.0,0.1,0.2
+F0950,Fruit juice - homemade style,Fruits,49.6,0.5,12.0,0.1,0.2
+F0951,Fruit juice - boiled,Fruits,48.4,0.5,12.0,0.1,0.2
+F0952,Fruit juice - steamed,Fruits,48.2,0.5,12.0,0.1,0.2
+F0953,Fruit juice - roasted,Fruits,51.2,0.5,12.0,0.1,0.2
+F0954,Fruit juice - grilled,Fruits,51.4,0.5,12.0,0.1,0.2
+F0955,Fruit juice - baked,Fruits,51.9,0.5,12.0,0.1,0.2
+F0956,Fruit juice - lightly seasoned,Fruits,50.2,0.5,12.0,0.1,0.2
+F0957,Fruit juice - without added oil,Fruits,47.0,0.5,12.0,0.1,0.2
+F0958,Fruit juice - with herbs,Fruits,50.2,0.5,12.0,0.1,0.2
+F0959,Fruit juice - traditional style,Fruits,51.4,0.5,12.0,0.1,0.2
+F0960,Roasted makhana - plain,Other Foods,349.2,9.7,77.0,0.1,7.0
+F0961,Roasted makhana - homemade style,Other Foods,350.1,9.7,77.0,0.1,7.0
+F0962,Roasted makhana - boiled,Other Foods,337.6,9.7,77.0,0.1,7.0
+F0963,Roasted makhana - steamed,Other Foods,341.1,9.7,77.0,0.1,7.0
+F0964,Roasted makhana - roasted,Other Foods,362.5,9.7,77.0,0.1,7.0
+F0965,Roasted makhana - grilled,Other Foods,357.5,9.7,77.0,0.1,7.0
+F0966,Roasted makhana - baked,Other Foods,357.6,9.7,77.0,0.1,7.0
+F0967,Roasted makhana - lightly seasoned,Other Foods,356.4,9.7,77.0,0.1,7.0
+F0968,Roasted makhana - without added oil,Other Foods,331.4,9.7,77.0,0.1,7.0
+F0969,Roasted makhana - with herbs,Other Foods,352.1,9.7,77.0,0.1,7.0
+F0970,Roasted makhana - traditional style,Other Foods,354.1,9.7,77.0,0.1,7.0
+F0971,"Popcorn, air-popped - plain",Other Foods,384.7,12.9,77.8,4.5,14.5
+F0972,"Popcorn, air-popped - homemade style",Other Foods,388.9,12.9,77.8,4.5,14.5
+F0973,"Popcorn, air-popped - boiled",Other Foods,368.0,12.9,77.8,4.3,14.5
+F0974,"Popcorn, air-popped - steamed",Other Foods,379.0,12.9,77.8,4.4,14.5
+F0975,"Popcorn, air-popped - roasted",Other Foods,397.6,12.9,77.8,4.7,14.5
+F0976,"Popcorn, air-popped - grilled",Other Foods,396.5,12.9,77.8,4.7,14.5
+F0977,"Popcorn, air-popped - baked",Other Foods,401.7,12.9,77.8,4.6,14.5
+F0978,"Popcorn, air-popped - lightly seasoned",Other Foods,390.0,12.9,77.8,4.6,14.5
+F0979,"Popcorn, air-popped - without added oil",Other Foods,362.5,12.9,77.8,3.8,14.5
+F0980,"Popcorn, air-popped - with herbs",Other Foods,387.8,12.9,77.8,4.5,14.5
+F0981,"Popcorn, air-popped - traditional style",Other Foods,395.4,12.9,77.8,4.6,14.5
+F0982,Dark chocolate - plain,Sweets & Desserts,596.9,7.8,45.9,42.6,10.9
+F0983,Dark chocolate - homemade style,Sweets & Desserts,599.2,7.8,45.9,42.6,10.9
+F0984,Dark chocolate - boiled,Sweets & Desserts,579.1,7.8,45.9,40.5,10.9
+F0985,Dark chocolate - steamed,Sweets & Desserts,579.7,7.8,45.9,41.7,10.9
+F0986,Dark chocolate - roasted,Sweets & Desserts,612.2,7.8,45.9,44.7,10.9
+F0987,Dark chocolate - grilled,Sweets & Desserts,608.5,7.8,45.9,44.3,10.9
+F0988,Dark chocolate - baked,Sweets & Desserts,614.6,7.8,45.9,43.9,10.9
+F0989,Dark chocolate - lightly seasoned,Sweets & Desserts,599.5,7.8,45.9,43.5,10.9
+F0990,Dark chocolate - without added oil,Sweets & Desserts,558.3,7.8,45.9,36.2,10.9
+F0991,Dark chocolate - with herbs,Sweets & Desserts,600.2,7.8,45.9,42.6,10.9
+F0992,Dark chocolate - traditional style,Sweets & Desserts,608.0,7.8,45.9,43.9,10.9
+F0993,Gulab jamun - plain,Other Foods,322.9,4.0,45.0,14.0,1.0
+F0994,Gulab jamun - homemade style,Other Foods,318.4,4.0,45.0,14.0,1.0
+F0995,Gulab jamun - boiled,Other Foods,304.7,4.0,45.0,13.3,1.0
+F0996,Gulab jamun - steamed,Other Foods,312.0,4.0,45.0,13.7,1.0
+F0997,Gulab jamun - roasted,Other Foods,332.1,4.0,45.0,14.7,1.0
+F0998,Gulab jamun - grilled,Other Foods,325.0,4.0,45.0,14.6,1.0
+F0999,Gulab jamun - baked,Other Foods,327.6,4.0,45.0,14.4,1.0
+F1000,Gulab jamun - lightly seasoned,Other Foods,321.2,4.0,45.0,14.3,1.0
+F1001,Gulab jamun - without added oil,Other Foods,300.9,4.0,45.0,11.9,1.0
+F1002,Gulab jamun - with herbs,Other Foods,319.8,4.0,45.0,14.0,1.0
+F1003,Gulab jamun - traditional style,Other Foods,324.8,4.0,45.0,14.4,1.0
+F1004,Jalebi - plain,Other Foods,366.6,2.0,70.0,10.0,1.0
+F1005,Jalebi - homemade style,Other Foods,369.9,2.0,70.0,10.0,1.0
+F1006,Jalebi - boiled,Other Foods,358.5,2.0,70.0,9.5,1.0
+F1007,Jalebi - steamed,Other Foods,360.0,2.0,70.0,9.8,1.0
+F1008,Jalebi - roasted,Other Foods,381.1,2.0,70.0,10.5,1.0
+F1009,Jalebi - grilled,Other Foods,374.5,2.0,70.0,10.4,1.0
+F1010,Jalebi - baked,Other Foods,379.2,2.0,70.0,10.3,1.0
+F1011,Jalebi - lightly seasoned,Other Foods,372.2,2.0,70.0,10.2,1.0
+F1012,Jalebi - without added oil,Other Foods,349.6,2.0,70.0,8.5,1.0
+F1013,Jalebi - with herbs,Other Foods,372.8,2.0,70.0,10.0,1.0
+F1014,Jalebi - traditional style,Other Foods,380.4,2.0,70.0,10.3,1.0
+F1015,Kheer - plain,Other Foods,151.5,3.5,22.0,5.0,0.5
+F1016,Kheer - homemade style,Other Foods,151.4,3.5,22.0,5.0,0.5
+F1017,Kheer - boiled,Other Foods,145.3,3.5,22.0,4.8,0.5
+F1018,Kheer - steamed,Other Foods,144.3,3.5,22.0,4.9,0.5
+F1019,Kheer - roasted,Other Foods,153.4,3.5,22.0,5.2,0.5
+F1020,Kheer - grilled,Other Foods,152.4,3.5,22.0,5.2,0.5
+F1021,Kheer - baked,Other Foods,154.7,3.5,22.0,5.2,0.5
+F1022,Kheer - lightly seasoned,Other Foods,150.3,3.5,22.0,5.1,0.5
+F1023,Kheer - without added oil,Other Foods,142.0,3.5,22.0,4.2,0.5
+F1024,Kheer - with herbs,Other Foods,150.4,3.5,22.0,5.0,0.5
+F1025,Kheer - traditional style,Other Foods,153.1,3.5,22.0,5.2,0.5
+F1026,Ice cream - plain,Dairy,205.6,3.5,24.0,11.0,0.0
+F1027,Ice cream - homemade style,Dairy,206.0,3.5,24.0,11.0,0.0
+F1028,Ice cream - boiled,Dairy,197.4,3.5,24.0,10.4,0.0
+F1029,Ice cream - steamed,Dairy,202.2,3.5,24.0,10.8,0.0
+F1030,Ice cream - roasted,Dairy,213.6,3.5,24.0,11.6,0.0
+F1031,Ice cream - grilled,Dairy,212.1,3.5,24.0,11.4,0.0
+F1032,Ice cream - baked,Dairy,212.3,3.5,24.0,11.3,0.0
+F1033,Ice cream - lightly seasoned,Dairy,208.5,3.5,24.0,11.2,0.0
+F1034,Ice cream - without added oil,Dairy,194.2,3.5,24.0,9.3,0.0
+F1035,Ice cream - with herbs,Dairy,208.1,3.5,24.0,11.0,0.0
+F1036,Ice cream - traditional style,Dairy,212.3,3.5,24.0,11.3,0.0
+F1037,"Biscuits, plain - plain",Sweets & Desserts,477.2,6.0,68.0,20.0,3.0
+F1038,"Biscuits, plain - homemade style",Sweets & Desserts,484.2,6.0,68.0,20.0,3.0
+F1039,"Biscuits, plain - boiled",Sweets & Desserts,457.3,6.0,68.0,19.0,3.0
+F1040,"Biscuits, plain - steamed",Sweets & Desserts,469.3,6.0,68.0,19.6,3.0
+F1041,"Biscuits, plain - roasted",Sweets & Desserts,490.4,6.0,68.0,21.0,3.0
+F1042,"Biscuits, plain - grilled",Sweets & Desserts,487.3,6.0,68.0,20.8,3.0
+F1043,"Biscuits, plain - baked",Sweets & Desserts,497.8,6.0,68.0,20.6,3.0
+F1044,"Biscuits, plain - lightly seasoned",Sweets & Desserts,481.7,6.0,68.0,20.4,3.0
+F1045,"Biscuits, plain - without added oil",Sweets & Desserts,450.4,6.0,68.0,17.0,3.0
+F1046,"Biscuits, plain - with herbs",Sweets & Desserts,479.5,6.0,68.0,20.0,3.0
+F1047,"Biscuits, plain - traditional style",Sweets & Desserts,487.1,6.0,68.0,20.6,3.0
+F1048,"Bread, white - plain",Grains & Bread,267.1,8.9,49.0,3.2,2.7
+F1049,"Bread, white - homemade style",Grains & Bread,267.9,8.9,49.0,3.2,2.7
+F1050,"Bread, white - boiled",Grains & Bread,257.3,8.9,49.0,3.0,2.7
+F1051,"Bread, white - steamed",Grains & Bread,257.2,8.9,49.0,3.1,2.7
+F1052,"Bread, white - roasted",Grains & Bread,274.1,8.9,49.0,3.4,2.7
+F1053,"Bread, white - grilled",Grains & Bread,270.0,8.9,49.0,3.3,2.7
+F1054,"Bread, white - baked",Grains & Bread,272.6,8.9,49.0,3.3,2.7
+F1055,"Bread, white - lightly seasoned",Grains & Bread,266.8,8.9,49.0,3.3,2.7
+F1056,"Bread, white - without added oil",Grains & Bread,252.2,8.9,49.0,2.7,2.7
+F1057,"Bread, white - with herbs",Grains & Bread,268.1,8.9,49.0,3.2,2.7
+F1058,"Bread, white - traditional style",Grains & Bread,272.8,8.9,49.0,3.3,2.7
+F1059,"Oats, dry - plain",Grains & Bread,389.1,16.9,66.3,6.9,10.6
+F1060,"Oats, dry - homemade style",Grains & Bread,388.9,16.9,66.3,6.9,10.6
+F1061,"Oats, dry - boiled",Grains & Bread,373.7,16.9,66.3,6.6,10.6
+F1062,"Oats, dry - steamed",Grains & Bread,377.6,16.9,66.3,6.8,10.6
+F1063,"Oats, dry - roasted",Grains & Bread,400.1,16.9,66.3,7.2,10.6
+F1064,"Oats, dry - grilled",Grains & Bread,393.9,16.9,66.3,7.2,10.6
+F1065,"Oats, dry - baked",Grains & Bread,397.7,16.9,66.3,7.1,10.6
+F1066,"Oats, dry - lightly seasoned",Grains & Bread,396.4,16.9,66.3,7.0,10.6
+F1067,"Oats, dry - without added oil",Grains & Bread,365.5,16.9,66.3,5.9,10.6
+F1068,"Oats, dry - with herbs",Grains & Bread,392.5,16.9,66.3,6.9,10.6
+F1069,"Oats, dry - traditional style",Grains & Bread,394.1,16.9,66.3,7.1,10.6
+F1070,Cornflakes - plain,Other Foods,357.4,7.5,84.0,0.4,3.0
+F1071,Cornflakes - homemade style,Other Foods,354.9,7.5,84.0,0.4,3.0
+F1072,Cornflakes - boiled,Other Foods,341.0,7.5,84.0,0.4,3.0
+F1073,Cornflakes - steamed,Other Foods,343.0,7.5,84.0,0.4,3.0
+F1074,Cornflakes - roasted,Other Foods,364.9,7.5,84.0,0.4,3.0
+F1075,Cornflakes - grilled,Other Foods,367.2,7.5,84.0,0.4,3.0
+F1076,Cornflakes - baked,Other Foods,366.4,7.5,84.0,0.4,3.0
+F1077,Cornflakes - lightly seasoned,Other Foods,361.3,7.5,84.0,0.4,3.0
+F1078,Cornflakes - without added oil,Other Foods,335.3,7.5,84.0,0.3,3.0
+F1079,Cornflakes - with herbs,Other Foods,356.3,7.5,84.0,0.4,3.0
+F1080,Cornflakes - traditional style,Other Foods,364.4,7.5,84.0,0.4,3.0
+F1081,Muesli - plain,Other Foods,347.8,10.0,65.0,7.0,8.0
+F1082,Muesli - homemade style,Other Foods,353.4,10.0,65.0,7.0,8.0
+F1083,Muesli - boiled,Other Foods,338.1,10.0,65.0,6.6,8.0
+F1084,Muesli - steamed,Other Foods,341.1,10.0,65.0,6.9,8.0
+F1085,Muesli - roasted,Other Foods,360.3,10.0,65.0,7.4,8.0
+F1086,Muesli - grilled,Other Foods,354.5,10.0,65.0,7.3,8.0
+F1087,Muesli - baked,Other Foods,363.5,10.0,65.0,7.2,8.0
+F1088,Muesli - lightly seasoned,Other Foods,352.4,10.0,65.0,7.1,8.0
+F1089,Muesli - without added oil,Other Foods,326.0,10.0,65.0,6.0,8.0
+F1090,Muesli - with herbs,Other Foods,348.9,10.0,65.0,7.0,8.0
+F1091,Muesli - traditional style,Other Foods,359.1,10.0,65.0,7.2,8.0
+F1092,Greek yogurt - plain,Dairy,97.2,9.0,3.9,5.0,0.0
+F1093,Greek yogurt - homemade style,Dairy,97.5,9.0,3.9,5.0,0.0
+F1094,Greek yogurt - boiled,Dairy,93.7,9.0,3.9,4.8,0.0
+F1095,Greek yogurt - steamed,Dairy,93.5,9.0,3.9,4.9,0.0
+F1096,Greek yogurt - roasted,Dairy,100.8,9.0,3.9,5.2,0.0
+F1097,Greek yogurt - grilled,Dairy,98.8,9.0,3.9,5.2,0.0
+F1098,Greek yogurt - baked,Dairy,100.2,9.0,3.9,5.2,0.0
+F1099,Greek yogurt - lightly seasoned,Dairy,97.0,9.0,3.9,5.1,0.0
+F1100,Greek yogurt - without added oil,Dairy,92.1,9.0,3.9,4.2,0.0
+F1101,Spaghetti with tomato basil sauce,Continental - Pasta,180.9,5.8,23.2,4.5,2.2
+F1102,Spaghetti with alfredo sauce,Continental - Pasta,182.4,8.0,21.7,4.9,1.5
+F1103,Spaghetti with pesto sauce,Continental - Pasta,163.2,7.0,21.2,4.5,2.1
+F1104,Spaghetti with arrabbiata sauce,Continental - Pasta,176.9,6.3,25.7,5.6,1.5
+F1105,Spaghetti with carbonara sauce,Continental - Pasta,187.8,7.5,23.7,4.4,2.5
+F1106,Spaghetti with four cheese sauce,Continental - Pasta,168.1,6.0,21.8,5.6,2.1
+F1107,Spaghetti with mushroom cream sauce,Continental - Pasta,187.9,7.6,25.3,5.9,1.9
+F1108,Spaghetti with spinach cream sauce,Continental - Pasta,177.2,7.8,25.9,5.7,2.1
+F1109,Spaghetti with roasted pepper sauce,Continental - Pasta,183.6,5.9,22.8,4.6,1.6
+F1110,Spaghetti with lemon garlic sauce,Continental - Pasta,163.8,6.0,23.2,5.2,1.9
+F1111,Spaghetti with olive and caper sauce,Continental - Pasta,169.5,6.3,23.1,5.8,2.1
+F1112,Spaghetti with sun-dried tomato sauce,Continental - Pasta,179.6,6.2,26.8,4.4,1.9
+F1113,Spaghetti with pink sauce sauce,Continental - Pasta,195.6,7.4,25.5,5.3,2.3
+F1114,Spaghetti with primavera vegetables sauce,Continental - Pasta,186.6,6.3,21.3,4.7,1.8
+F1115,Spaghetti with chicken cream sauce,Continental - Pasta,162.9,8.1,28.0,4.7,2.2
+F1116,Spaghetti with seafood sauce,Continental - Pasta,170.6,8.0,24.7,4.6,1.7
+F1117,Penne with tomato basil sauce,Continental - Pasta,177.6,6.4,25.7,5.7,1.9
+F1118,Penne with alfredo sauce,Continental - Pasta,163.2,8.3,25.1,4.3,1.5
+F1119,Penne with pesto sauce,Continental - Pasta,158.6,7.3,27.3,4.9,1.6
+F1120,Penne with arrabbiata sauce,Continental - Pasta,170.0,8.3,25.2,5.8,2.4
+F1121,Penne with carbonara sauce,Continental - Pasta,154.5,7.6,26.5,5.1,1.8
+F1122,Penne with four cheese sauce,Continental - Pasta,180.9,6.0,24.5,4.9,2.5
+F1123,Penne with mushroom cream sauce,Continental - Pasta,190.8,6.4,25.0,4.4,2.4
+F1124,Penne with spinach cream sauce,Continental - Pasta,190.6,6.5,26.1,5.2,1.7
+F1125,Penne with roasted pepper sauce,Continental - Pasta,186.0,7.1,27.2,5.1,1.5
+F1126,Penne with lemon garlic sauce,Continental - Pasta,167.6,5.8,28.4,5.7,2.3
+F1127,Penne with olive and caper sauce,Continental - Pasta,166.9,5.9,28.0,5.8,1.6
+F1128,Penne with sun-dried tomato sauce,Continental - Pasta,174.4,5.9,27.1,5.5,1.6
+F1129,Penne with pink sauce sauce,Continental - Pasta,174.0,7.1,23.1,5.7,1.9
+F1130,Penne with primavera vegetables sauce,Continental - Pasta,162.9,7.1,26.8,4.5,1.8
+F1131,Penne with chicken cream sauce,Continental - Pasta,195.8,7.4,24.5,5.0,1.6
+F1132,Penne with seafood sauce,Continental - Pasta,163.4,6.6,25.7,4.5,1.7
+F1133,Fettuccine with tomato basil sauce,Continental - Pasta,157.0,7.3,22.8,5.7,2.4
+F1134,Fettuccine with alfredo sauce,Continental - Pasta,157.0,6.3,26.4,4.5,1.6
+F1135,Fettuccine with pesto sauce,Continental - Pasta,193.3,7.2,24.8,5.5,2.3
+F1136,Fettuccine with arrabbiata sauce,Continental - Pasta,162.0,6.0,24.4,4.9,2.0
+F1137,Fettuccine with carbonara sauce,Continental - Pasta,184.6,7.4,28.9,4.3,1.9
+F1138,Fettuccine with four cheese sauce,Continental - Pasta,168.3,7.9,23.0,4.4,1.9
+F1139,Fettuccine with mushroom cream sauce,Continental - Pasta,171.7,6.4,23.0,5.8,1.9
+F1140,Fettuccine with spinach cream sauce,Continental - Pasta,190.2,7.1,21.4,5.9,2.3
+F1141,Fettuccine with roasted pepper sauce,Continental - Pasta,194.7,8.1,27.8,4.4,2.0
+F1142,Fettuccine with lemon garlic sauce,Continental - Pasta,163.0,6.8,21.5,4.8,2.5
+F1143,Fettuccine with olive and caper sauce,Continental - Pasta,165.1,7.7,24.6,4.9,2.5
+F1144,Fettuccine with sun-dried tomato sauce,Continental - Pasta,195.8,7.1,26.7,4.4,1.8
+F1145,Fettuccine with pink sauce sauce,Continental - Pasta,194.7,7.2,25.3,5.4,1.6
+F1146,Fettuccine with primavera vegetables sauce,Continental - Pasta,178.5,7.0,27.8,4.4,2.5
+F1147,Fettuccine with chicken cream sauce,Continental - Pasta,157.4,6.2,25.8,5.3,1.7
+F1148,Fettuccine with seafood sauce,Continental - Pasta,159.0,8.0,23.0,5.2,2.1
+F1149,Fusilli with tomato basil sauce,Continental - Pasta,171.6,7.2,25.2,5.8,1.7
+F1150,Fusilli with alfredo sauce,Continental - Pasta,184.1,6.3,24.2,5.3,1.8
+F1151,Fusilli with pesto sauce,Continental - Pasta,167.3,7.6,21.6,4.9,2.5
+F1152,Fusilli with arrabbiata sauce,Continental - Pasta,195.8,5.9,22.7,4.6,2.4
+F1153,Fusilli with carbonara sauce,Continental - Pasta,191.0,8.0,24.0,4.4,2.3
+F1154,Fusilli with four cheese sauce,Continental - Pasta,183.5,7.3,28.9,5.3,1.5
+F1155,Fusilli with mushroom cream sauce,Continental - Pasta,188.3,6.5,26.3,5.8,1.6
+F1156,Fusilli with spinach cream sauce,Continental - Pasta,158.8,6.0,25.4,4.6,2.1
+F1157,Fusilli with roasted pepper sauce,Continental - Pasta,184.1,6.3,26.1,4.6,2.0
+F1158,Fusilli with lemon garlic sauce,Continental - Pasta,192.0,7.9,21.7,4.9,1.8
+F1159,Fusilli with olive and caper sauce,Continental - Pasta,154.1,7.7,26.1,4.6,2.2
+F1160,Fusilli with sun-dried tomato sauce,Continental - Pasta,177.2,6.8,21.1,4.2,2.4
+F1161,Fusilli with pink sauce sauce,Continental - Pasta,192.0,7.1,27.7,5.1,1.6
+F1162,Fusilli with primavera vegetables sauce,Continental - Pasta,159.4,6.5,28.2,5.5,2.4
+F1163,Fusilli with chicken cream sauce,Continental - Pasta,191.8,6.3,23.0,4.3,2.3
+F1164,Fusilli with seafood sauce,Continental - Pasta,191.1,6.8,26.0,4.4,2.4
+F1165,Macaroni with tomato basil sauce,Continental - Pasta,190.3,8.2,27.5,5.7,1.5
+F1166,Macaroni with alfredo sauce,Continental - Pasta,184.9,6.6,28.4,5.5,2.4
+F1167,Macaroni with pesto sauce,Continental - Pasta,188.1,6.4,27.3,4.3,2.4
+F1168,Macaroni with arrabbiata sauce,Continental - Pasta,190.1,6.3,27.5,4.9,1.8
+F1169,Macaroni with carbonara sauce,Continental - Pasta,187.4,6.3,21.2,4.4,1.8
+F1170,Macaroni with four cheese sauce,Continental - Pasta,190.3,8.2,23.2,5.3,1.9
+F1171,Macaroni with mushroom cream sauce,Continental - Pasta,195.2,7.1,28.5,4.3,2.5
+F1172,Macaroni with spinach cream sauce,Continental - Pasta,161.5,8.2,23.1,4.3,1.9
+F1173,Macaroni with roasted pepper sauce,Continental - Pasta,184.6,6.5,25.8,5.0,1.9
+F1174,Macaroni with lemon garlic sauce,Continental - Pasta,178.2,6.4,26.7,4.1,2.4
+F1175,Macaroni with olive and caper sauce,Continental - Pasta,176.6,7.6,26.9,5.3,1.9
+F1176,Macaroni with sun-dried tomato sauce,Continental - Pasta,156.9,7.4,23.6,4.7,2.3
+F1177,Macaroni with pink sauce sauce,Continental - Pasta,184.2,6.5,23.5,4.8,1.9
+F1178,Macaroni with primavera vegetables sauce,Continental - Pasta,166.4,6.1,24.4,5.8,2.2
+F1179,Macaroni with chicken cream sauce,Continental - Pasta,191.9,7.3,23.4,5.1,1.5
+F1180,Macaroni with seafood sauce,Continental - Pasta,166.1,6.8,25.6,5.3,2.0
+F1181,Linguine with tomato basil sauce,Continental - Pasta,172.6,6.3,24.8,5.7,2.3
+F1182,Linguine with alfredo sauce,Continental - Pasta,161.1,6.0,25.1,5.2,1.8
+F1183,Linguine with pesto sauce,Continental - Pasta,188.4,7.6,26.4,4.5,1.7
+F1184,Linguine with arrabbiata sauce,Continental - Pasta,155.0,6.4,24.8,5.6,1.6
+F1185,Linguine with carbonara sauce,Continental - Pasta,171.4,7.3,22.6,5.4,2.0
+F1186,Linguine with four cheese sauce,Continental - Pasta,164.2,7.4,21.0,5.5,2.3
+F1187,Linguine with mushroom cream sauce,Continental - Pasta,158.5,6.8,22.4,5.8,2.0
+F1188,Linguine with spinach cream sauce,Continental - Pasta,156.1,6.4,27.8,4.9,2.3
+F1189,Linguine with roasted pepper sauce,Continental - Pasta,182.0,8.2,25.8,5.8,2.4
+F1190,Linguine with lemon garlic sauce,Continental - Pasta,179.7,7.6,25.0,5.6,2.0
+F1191,Linguine with olive and caper sauce,Continental - Pasta,191.7,7.6,24.8,4.6,1.7
+F1192,Linguine with sun-dried tomato sauce,Continental - Pasta,180.8,7.7,25.2,5.2,1.8
+F1193,Linguine with pink sauce sauce,Continental - Pasta,157.3,6.5,23.2,4.7,2.0
+F1194,Linguine with primavera vegetables sauce,Continental - Pasta,159.8,6.3,26.6,5.4,1.6
+F1195,Linguine with chicken cream sauce,Continental - Pasta,171.1,7.1,24.3,4.5,1.9
+F1196,Linguine with seafood sauce,Continental - Pasta,192.0,7.2,26.6,5.6,2.3
+F1197,Ravioli with tomato basil sauce,Continental - Pasta,170.0,5.8,23.8,5.5,2.4
+F1198,Ravioli with alfredo sauce,Continental - Pasta,194.0,6.8,27.0,5.1,2.1
+F1199,Ravioli with pesto sauce,Continental - Pasta,163.3,6.3,24.5,4.2,1.8
+F1200,Ravioli with arrabbiata sauce,Continental - Pasta,182.5,6.8,22.3,4.9,1.6
+F1201,Ravioli with carbonara sauce,Continental - Pasta,180.1,5.8,24.2,5.1,1.5
+F1202,Ravioli with four cheese sauce,Continental - Pasta,181.0,6.1,24.7,4.2,1.9
+F1203,Ravioli with mushroom cream sauce,Continental - Pasta,162.9,6.6,27.1,4.8,2.3
+F1204,Ravioli with spinach cream sauce,Continental - Pasta,188.9,6.4,21.7,4.1,2.0
+F1205,Ravioli with roasted pepper sauce,Continental - Pasta,196.0,6.6,26.2,5.5,2.2
+F1206,Ravioli with lemon garlic sauce,Continental - Pasta,185.7,8.1,22.6,4.1,1.7
+F1207,Ravioli with olive and caper sauce,Continental - Pasta,159.3,7.4,25.5,4.5,2.2
+F1208,Ravioli with sun-dried tomato sauce,Continental - Pasta,186.2,6.2,25.9,5.4,1.6
+F1209,Ravioli with pink sauce sauce,Continental - Pasta,188.4,8.2,21.9,4.1,1.8
+F1210,Ravioli with primavera vegetables sauce,Continental - Pasta,182.4,8.2,24.2,5.4,1.6
+F1211,Ravioli with chicken cream sauce,Continental - Pasta,183.0,7.3,21.8,5.5,2.4
+F1212,Ravioli with seafood sauce,Continental - Pasta,179.2,6.0,28.9,5.5,1.8
+F1213,Lasagna with tomato basil sauce,Continental - Pasta,172.0,6.7,25.0,4.7,2.3
+F1214,Lasagna with alfredo sauce,Continental - Pasta,188.5,6.0,28.7,5.2,2.3
+F1215,Lasagna with pesto sauce,Continental - Pasta,183.7,6.8,26.9,5.8,1.8
+F1216,Lasagna with arrabbiata sauce,Continental - Pasta,187.9,7.1,24.9,4.9,2.2
+F1217,Lasagna with carbonara sauce,Continental - Pasta,165.3,7.9,27.6,4.3,2.4
+F1218,Lasagna with four cheese sauce,Continental - Pasta,164.2,6.9,25.9,4.8,1.5
+F1219,Lasagna with mushroom cream sauce,Continental - Pasta,189.7,6.2,22.7,5.5,1.8
+F1220,Lasagna with spinach cream sauce,Continental - Pasta,191.0,7.5,23.2,4.1,2.4
+F1221,Lasagna with roasted pepper sauce,Continental - Pasta,157.6,7.6,24.9,5.5,2.2
+F1222,Lasagna with lemon garlic sauce,Continental - Pasta,181.1,7.0,27.3,4.3,1.7
+F1223,Lasagna with olive and caper sauce,Continental - Pasta,183.1,6.5,25.7,5.0,2.0
+F1224,Lasagna with sun-dried tomato sauce,Continental - Pasta,171.9,7.6,23.6,5.4,1.8
+F1225,Lasagna with pink sauce sauce,Continental - Pasta,164.6,6.0,22.5,4.3,2.0
+F1226,Lasagna with primavera vegetables sauce,Continental - Pasta,186.0,6.2,22.7,5.0,2.2
+F1227,Lasagna with chicken cream sauce,Continental - Pasta,195.0,7.1,23.3,4.3,1.7
+F1228,Lasagna with seafood sauce,Continental - Pasta,163.6,6.2,21.1,5.1,1.8
+F1229,Tagliatelle with tomato basil sauce,Continental - Pasta,194.9,7.1,26.6,4.3,2.4
+F1230,Tagliatelle with alfredo sauce,Continental - Pasta,174.6,7.9,25.6,4.9,1.9
+F1231,Tagliatelle with pesto sauce,Continental - Pasta,161.7,5.9,28.5,5.0,2.3
+F1232,Tagliatelle with arrabbiata sauce,Continental - Pasta,170.8,5.9,26.0,4.2,1.6
+F1233,Tagliatelle with carbonara sauce,Continental - Pasta,177.6,6.5,29.0,4.3,2.3
+F1234,Tagliatelle with four cheese sauce,Continental - Pasta,179.5,7.7,22.8,5.0,2.0
+F1235,Tagliatelle with mushroom cream sauce,Continental - Pasta,172.6,7.9,28.9,4.6,2.1
+F1236,Tagliatelle with spinach cream sauce,Continental - Pasta,179.6,7.6,28.6,4.5,1.7
+F1237,Tagliatelle with roasted pepper sauce,Continental - Pasta,181.7,6.1,22.4,4.2,1.5
+F1238,Tagliatelle with lemon garlic sauce,Continental - Pasta,172.9,7.2,23.3,4.5,2.2
+F1239,Tagliatelle with olive and caper sauce,Continental - Pasta,183.5,6.9,26.5,5.8,2.3
+F1240,Tagliatelle with sun-dried tomato sauce,Continental - Pasta,180.3,7.4,28.5,4.9,2.0
+F1241,Tagliatelle with pink sauce sauce,Continental - Pasta,181.2,8.0,27.6,4.2,1.7
+F1242,Tagliatelle with primavera vegetables sauce,Continental - Pasta,166.9,7.6,25.6,4.6,1.6
+F1243,Tagliatelle with chicken cream sauce,Continental - Pasta,182.9,7.5,28.5,5.0,2.0
+F1244,Tagliatelle with seafood sauce,Continental - Pasta,157.4,5.8,24.5,4.7,1.8
+F1245,Gnocchi with tomato basil sauce,Continental - Pasta,157.8,8.2,27.7,5.1,2.5
+F1246,Gnocchi with alfredo sauce,Continental - Pasta,196.0,7.4,23.2,4.2,2.3
+F1247,Gnocchi with pesto sauce,Continental - Pasta,173.8,7.4,28.3,4.4,2.1
+F1248,Gnocchi with arrabbiata sauce,Continental - Pasta,180.7,7.0,21.7,4.7,1.8
+F1249,Gnocchi with carbonara sauce,Continental - Pasta,182.1,7.9,23.6,5.3,1.8
+F1250,Gnocchi with four cheese sauce,Continental - Pasta,193.7,7.8,25.4,4.9,1.8
+F1251,Gnocchi with mushroom cream sauce,Continental - Pasta,167.6,8.2,24.2,5.0,2.5
+F1252,Gnocchi with spinach cream sauce,Continental - Pasta,181.6,7.1,24.3,4.4,1.9
+F1253,Gnocchi with roasted pepper sauce,Continental - Pasta,185.8,7.3,27.1,4.5,2.0
+F1254,Gnocchi with lemon garlic sauce,Continental - Pasta,193.0,6.8,26.6,4.3,2.5
+F1255,Gnocchi with olive and caper sauce,Continental - Pasta,179.6,6.3,22.3,5.1,2.1
+F1256,Gnocchi with sun-dried tomato sauce,Continental - Pasta,157.9,8.2,28.3,4.9,1.6
+F1257,Gnocchi with pink sauce sauce,Continental - Pasta,189.0,7.0,26.7,5.0,1.8
+F1258,Gnocchi with primavera vegetables sauce,Continental - Pasta,189.1,8.2,22.9,5.1,1.9
+F1259,Gnocchi with chicken cream sauce,Continental - Pasta,192.7,7.0,28.0,5.7,1.8
+F1260,Gnocchi with seafood sauce,Continental - Pasta,187.2,6.8,28.5,5.0,2.3
+F1261,Rigatoni with tomato basil sauce,Continental - Pasta,165.9,6.5,25.7,5.9,2.0
+F1262,Rigatoni with alfredo sauce,Continental - Pasta,160.2,7.1,23.8,5.1,2.0
+F1263,Rigatoni with pesto sauce,Continental - Pasta,173.1,6.6,22.5,5.4,2.1
+F1264,Rigatoni with arrabbiata sauce,Continental - Pasta,163.8,7.7,21.3,5.4,2.2
+F1265,Rigatoni with carbonara sauce,Continental - Pasta,188.1,6.7,26.3,5.6,2.5
+F1266,Rigatoni with four cheese sauce,Continental - Pasta,174.8,5.8,25.0,5.2,2.4
+F1267,Rigatoni with mushroom cream sauce,Continental - Pasta,190.7,6.8,25.2,4.9,2.2
+F1268,Rigatoni with spinach cream sauce,Continental - Pasta,171.2,7.4,22.2,4.9,2.5
+F1269,Rigatoni with roasted pepper sauce,Continental - Pasta,168.2,7.5,26.2,5.6,2.4
+F1270,Rigatoni with lemon garlic sauce,Continental - Pasta,190.1,6.7,23.5,5.4,2.3
+F1271,Rigatoni with olive and caper sauce,Continental - Pasta,190.6,5.8,21.5,5.2,2.4
+F1272,Rigatoni with sun-dried tomato sauce,Continental - Pasta,195.9,7.6,24.5,4.3,2.1
+F1273,Rigatoni with pink sauce sauce,Continental - Pasta,190.6,6.9,26.6,5.7,1.5
+F1274,Rigatoni with primavera vegetables sauce,Continental - Pasta,187.4,6.5,24.0,4.4,2.0
+F1275,Rigatoni with chicken cream sauce,Continental - Pasta,177.8,7.7,22.4,4.2,2.4
+F1276,Rigatoni with seafood sauce,Continental - Pasta,180.0,6.3,28.3,4.4,2.0
+F1277,Farfalle with tomato basil sauce,Continental - Pasta,164.7,6.4,21.1,5.5,2.4
+F1278,Farfalle with alfredo sauce,Continental - Pasta,182.5,6.1,24.5,4.7,2.1
+F1279,Farfalle with pesto sauce,Continental - Pasta,180.8,6.8,23.0,5.6,1.7
+F1280,Farfalle with arrabbiata sauce,Continental - Pasta,170.2,7.0,22.9,5.1,2.1
+F1281,Farfalle with carbonara sauce,Continental - Pasta,195.7,6.5,28.8,5.3,1.8
+F1282,Farfalle with four cheese sauce,Continental - Pasta,177.8,7.5,27.0,4.2,2.1
+F1283,Farfalle with mushroom cream sauce,Continental - Pasta,174.9,8.0,23.3,5.5,2.1
+F1284,Farfalle with spinach cream sauce,Continental - Pasta,168.8,7.3,26.0,5.3,2.2
+F1285,Farfalle with roasted pepper sauce,Continental - Pasta,181.7,7.9,26.0,5.7,2.1
+F1286,Farfalle with lemon garlic sauce,Continental - Pasta,167.0,6.9,25.6,5.4,1.6
+F1287,Farfalle with olive and caper sauce,Continental - Pasta,166.4,7.6,22.4,4.3,2.0
+F1288,Farfalle with sun-dried tomato sauce,Continental - Pasta,194.8,7.1,28.3,5.6,1.8
+F1289,Farfalle with pink sauce sauce,Continental - Pasta,188.6,7.0,27.5,5.4,1.8
+F1290,Farfalle with primavera vegetables sauce,Continental - Pasta,158.8,8.2,22.1,5.8,2.4
+F1291,Farfalle with chicken cream sauce,Continental - Pasta,184.4,8.2,28.7,5.5,1.9
+F1292,Farfalle with seafood sauce,Continental - Pasta,187.2,5.8,25.3,4.9,2.2
+F1293,Tortellini with tomato basil sauce,Continental - Pasta,182.2,7.2,27.6,5.8,1.6
+F1294,Tortellini with alfredo sauce,Continental - Pasta,163.8,5.8,28.1,5.1,2.4
+F1295,Tortellini with pesto sauce,Continental - Pasta,163.3,5.9,27.6,5.7,1.8
+F1296,Tortellini with arrabbiata sauce,Continental - Pasta,171.1,6.1,28.6,4.6,2.0
+F1297,Tortellini with carbonara sauce,Continental - Pasta,158.1,8.0,22.1,4.9,2.2
+F1298,Tortellini with four cheese sauce,Continental - Pasta,185.2,8.1,24.4,5.4,1.7
+F1299,Tortellini with mushroom cream sauce,Continental - Pasta,171.4,6.0,24.9,4.8,2.5
+F1300,Tortellini with spinach cream sauce,Continental - Pasta,155.4,6.7,24.5,5.8,2.4
+F1301,Tortellini with roasted pepper sauce,Continental - Pasta,158.2,7.5,25.4,5.9,1.9
+F1302,Tortellini with lemon garlic sauce,Continental - Pasta,170.7,6.2,22.0,5.6,2.0
+F1303,Tortellini with olive and caper sauce,Continental - Pasta,181.8,7.4,25.8,4.1,2.3
+F1304,Tortellini with sun-dried tomato sauce,Continental - Pasta,164.2,6.1,25.5,4.2,2.3
+F1305,Tortellini with pink sauce sauce,Continental - Pasta,162.7,6.3,28.0,4.7,1.6
+F1306,Tortellini with primavera vegetables sauce,Continental - Pasta,191.8,5.7,27.9,4.4,1.6
+F1307,Tortellini with chicken cream sauce,Continental - Pasta,164.5,6.2,26.3,4.1,1.5
+F1308,Tortellini with seafood sauce,Continental - Pasta,187.2,6.3,23.6,4.4,1.6
+F1309,Orzo with tomato basil sauce,Continental - Pasta,185.2,7.1,27.0,5.0,2.3
+F1310,Orzo with alfredo sauce,Continental - Pasta,175.6,6.0,25.0,5.8,1.5
+F1311,Orzo with pesto sauce,Continental - Pasta,186.9,7.9,25.2,4.9,2.5
+F1312,Orzo with arrabbiata sauce,Continental - Pasta,156.6,6.9,24.2,5.3,2.0
+F1313,Orzo with carbonara sauce,Continental - Pasta,192.2,5.9,21.6,5.2,1.6
+F1314,Orzo with four cheese sauce,Continental - Pasta,165.6,7.3,25.4,4.7,2.5
+F1315,Orzo with mushroom cream sauce,Continental - Pasta,176.3,6.9,25.8,4.3,2.2
+F1316,Orzo with spinach cream sauce,Continental - Pasta,189.8,7.4,27.2,5.4,1.7
+F1317,Orzo with roasted pepper sauce,Continental - Pasta,173.0,6.3,23.7,4.9,1.9
+F1318,Orzo with lemon garlic sauce,Continental - Pasta,158.0,6.8,26.3,4.8,1.7
+F1319,Orzo with olive and caper sauce,Continental - Pasta,192.8,5.9,27.7,4.3,1.6
+F1320,Orzo with sun-dried tomato sauce,Continental - Pasta,185.0,7.8,25.5,5.2,2.1
+F1321,Orzo with pink sauce sauce,Continental - Pasta,167.8,6.0,23.8,5.3,2.3
+F1322,Orzo with primavera vegetables sauce,Continental - Pasta,190.5,7.6,28.7,5.2,1.9
+F1323,Orzo with chicken cream sauce,Continental - Pasta,178.3,6.3,26.3,4.5,1.6
+F1324,Orzo with seafood sauce,Continental - Pasta,189.5,6.7,27.1,5.1,2.3
+F1325,Margherita Pizza - thin crust,Continental - Pizza,270.7,12.9,33.1,9.4,2.1
+F1326,Margherita Pizza - classic crust,Continental - Pizza,221.6,12.7,33.2,8.2,1.7
+F1327,Margherita Pizza - whole wheat crust,Continental - Pizza,262.2,10.2,28.5,7.4,2.4
+F1328,Margherita Pizza - deep pan,Continental - Pizza,254.0,10.6,26.6,9.4,1.5
+F1329,Four Cheese Pizza - thin crust,Continental - Pizza,264.8,9.9,29.2,8.5,1.9
+F1330,Four Cheese Pizza - classic crust,Continental - Pizza,263.3,12.1,30.6,7.7,1.6
+F1331,Four Cheese Pizza - whole wheat crust,Continental - Pizza,229.4,11.5,31.7,8.3,2.2
+F1332,Four Cheese Pizza - deep pan,Continental - Pizza,249.1,10.8,27.8,9.8,1.6
+F1333,Vegetable Supreme Pizza - thin crust,Continental - Pizza,245.8,10.1,31.7,9.0,2.2
+F1334,Vegetable Supreme Pizza - classic crust,Continental - Pizza,222.7,10.6,31.0,7.4,1.8
+F1335,Vegetable Supreme Pizza - whole wheat crust,Continental - Pizza,232.7,9.6,27.7,8.4,1.5
+F1336,Vegetable Supreme Pizza - deep pan,Continental - Pizza,264.8,9.7,28.8,9.7,2.0
+F1337,Mushroom and Olive Pizza - thin crust,Continental - Pizza,270.0,12.2,25.9,10.2,1.5
+F1338,Mushroom and Olive Pizza - classic crust,Continental - Pizza,221.1,12.7,33.5,9.2,2.1
+F1339,Mushroom and Olive Pizza - whole wheat crust,Continental - Pizza,262.6,10.7,26.3,7.4,1.8
+F1340,Mushroom and Olive Pizza - deep pan,Continental - Pizza,268.1,11.5,33.2,10.4,1.6
+F1341,Spinach and Feta Pizza - thin crust,Continental - Pizza,270.7,10.0,30.9,9.1,1.9
+F1342,Spinach and Feta Pizza - classic crust,Continental - Pizza,238.6,10.4,28.4,7.9,2.0
+F1343,Spinach and Feta Pizza - whole wheat crust,Continental - Pizza,226.8,11.0,33.9,8.5,2.2
+F1344,Spinach and Feta Pizza - deep pan,Continental - Pizza,269.1,12.2,27.5,7.9,1.7
+F1345,Roasted Pepper Pizza - thin crust,Continental - Pizza,256.1,12.0,31.5,8.0,2.3
+F1346,Roasted Pepper Pizza - classic crust,Continental - Pizza,249.6,12.0,32.5,8.8,2.4
+F1347,Roasted Pepper Pizza - whole wheat crust,Continental - Pizza,253.9,11.5,31.2,10.2,2.1
+F1348,Roasted Pepper Pizza - deep pan,Continental - Pizza,229.1,9.3,29.4,8.4,1.8
+F1349,Chicken and Herb Pizza - thin crust,Continental - Pizza,223.4,11.0,28.2,8.8,1.6
+F1350,Chicken and Herb Pizza - classic crust,Continental - Pizza,269.9,9.3,33.5,10.2,2.1
+F1351,Chicken and Herb Pizza - whole wheat crust,Continental - Pizza,250.4,10.9,30.5,9.9,2.4
+F1352,Chicken and Herb Pizza - deep pan,Continental - Pizza,247.0,12.2,31.5,8.4,2.0
+F1353,BBQ Chicken Pizza - thin crust,Continental - Pizza,229.1,9.3,26.2,10.3,1.8
+F1354,BBQ Chicken Pizza - classic crust,Continental - Pizza,262.9,11.0,26.9,8.2,1.9
+F1355,BBQ Chicken Pizza - whole wheat crust,Continental - Pizza,246.4,11.1,26.7,8.6,1.8
+F1356,BBQ Chicken Pizza - deep pan,Continental - Pizza,244.5,10.4,30.9,9.9,2.1
+F1357,Pepperoni Pizza - thin crust,Continental - Pizza,224.0,9.4,31.7,8.3,2.2
+F1358,Pepperoni Pizza - classic crust,Continental - Pizza,259.4,12.6,33.6,8.5,2.1
+F1359,Pepperoni Pizza - whole wheat crust,Continental - Pizza,228.5,10.4,34.5,9.6,1.9
+F1360,Pepperoni Pizza - deep pan,Continental - Pizza,255.7,12.7,28.2,8.6,2.3
+F1361,Ham and Mushroom Pizza - thin crust,Continental - Pizza,268.8,11.7,33.2,9.8,2.2
+F1362,Ham and Mushroom Pizza - classic crust,Continental - Pizza,251.6,11.6,29.3,8.6,1.9
+F1363,Ham and Mushroom Pizza - whole wheat crust,Continental - Pizza,230.8,9.9,34.3,9.0,1.7
+F1364,Ham and Mushroom Pizza - deep pan,Continental - Pizza,228.3,9.3,33.3,7.7,2.3
+F1365,Tomato Mozzarella Pizza - thin crust,Continental - Pizza,270.1,12.5,25.6,8.5,2.3
+F1366,Tomato Mozzarella Pizza - classic crust,Continental - Pizza,227.9,10.5,26.8,10.1,2.3
+F1367,Tomato Mozzarella Pizza - whole wheat crust,Continental - Pizza,268.5,9.7,29.4,8.7,2.2
+F1368,Tomato Mozzarella Pizza - deep pan,Continental - Pizza,234.3,10.8,27.9,9.8,1.9
+F1369,Pesto Vegetable Pizza - thin crust,Continental - Pizza,252.0,10.2,33.0,8.9,2.3
+F1370,Pesto Vegetable Pizza - classic crust,Continental - Pizza,242.1,12.8,34.7,8.9,1.8
+F1371,Pesto Vegetable Pizza - whole wheat crust,Continental - Pizza,242.9,11.1,34.5,10.0,2.3
+F1372,Pesto Vegetable Pizza - deep pan,Continental - Pizza,228.3,10.0,31.4,10.2,2.1
+F1373,Mediterranean Vegetable Pizza - thin crust,Continental - Pizza,226.2,12.4,33.4,8.3,2.3
+F1374,Mediterranean Vegetable Pizza - classic crust,Continental - Pizza,236.4,12.6,26.6,8.8,2.4
+F1375,Mediterranean Vegetable Pizza - whole wheat crust,Continental - Pizza,233.3,10.8,28.6,7.5,1.6
+F1376,Mediterranean Vegetable Pizza - deep pan,Continental - Pizza,250.1,10.0,34.7,8.6,1.5
+F1377,Garlic Mushroom Pizza - thin crust,Continental - Pizza,275.8,12.3,31.4,9.9,1.6
+F1378,Garlic Mushroom Pizza - classic crust,Continental - Pizza,237.2,12.3,31.9,7.8,2.2
+F1379,Garlic Mushroom Pizza - whole wheat crust,Continental - Pizza,246.9,9.0,26.0,8.2,2.3
+F1380,Garlic Mushroom Pizza - deep pan,Continental - Pizza,252.9,11.9,30.3,7.7,1.8
+F1381,Artichoke and Olive Pizza - thin crust,Continental - Pizza,238.1,9.2,29.2,10.0,2.0
+F1382,Artichoke and Olive Pizza - classic crust,Continental - Pizza,226.7,12.6,30.9,7.4,2.0
+F1383,Artichoke and Olive Pizza - whole wheat crust,Continental - Pizza,234.5,9.6,29.3,9.4,1.7
+F1384,Artichoke and Olive Pizza - deep pan,Continental - Pizza,245.0,11.7,26.0,10.5,1.6
+F1385,Smoked Chicken Pizza - thin crust,Continental - Pizza,251.6,11.0,34.7,9.2,1.9
+F1386,Smoked Chicken Pizza - classic crust,Continental - Pizza,248.2,11.5,34.6,8.2,1.5
+F1387,Smoked Chicken Pizza - whole wheat crust,Continental - Pizza,267.3,10.4,32.2,9.4,2.3
+F1388,Smoked Chicken Pizza - deep pan,Continental - Pizza,264.1,10.3,25.6,9.1,2.3
+F1389,Tomato Basil Soup - classic,Continental - Soup,69.2,3.3,9.9,3.2,2.1
+F1390,Tomato Basil Soup - creamy,Continental - Soup,80.6,2.5,10.9,3.0,1.8
+F1391,Tomato Basil Soup - light,Continental - Soup,66.8,2.7,8.5,3.5,2.0
+F1392,Tomato Basil Soup - with croutons,Continental - Soup,83.8,3.0,9.2,3.3,1.7
+F1393,Tomato Basil Soup - with herbs,Continental - Soup,72.4,3.3,11.2,2.8,1.6
+F1394,Cream of Mushroom Soup - classic,Continental - Soup,72.6,3.4,10.8,3.4,1.9
+F1395,Cream of Mushroom Soup - creamy,Continental - Soup,83.5,3.0,10.0,3.5,2.0
+F1396,Cream of Mushroom Soup - light,Continental - Soup,80.4,3.2,8.7,3.1,2.3
+F1397,Cream of Mushroom Soup - with croutons,Continental - Soup,75.8,2.8,8.7,3.2,1.8
+F1398,Cream of Mushroom Soup - with herbs,Continental - Soup,76.8,2.9,10.6,2.8,1.5
+F1399,French Onion Soup - classic,Continental - Soup,81.7,2.8,11.6,2.8,2.5
+F1400,French Onion Soup - creamy,Continental - Soup,83.1,2.5,10.4,2.9,2.3
+F1401,French Onion Soup - light,Continental - Soup,78.2,3.5,8.9,3.1,2.3
+F1402,French Onion Soup - with croutons,Continental - Soup,66.6,2.5,10.9,2.9,1.9
+F1403,French Onion Soup - with herbs,Continental - Soup,76.2,3.1,10.6,3.5,1.9
+F1404,Minestrone Soup - classic,Continental - Soup,79.7,3.1,10.1,2.9,2.1
+F1405,Minestrone Soup - creamy,Continental - Soup,70.5,2.6,10.8,3.0,1.9
+F1406,Minestrone Soup - light,Continental - Soup,76.1,2.7,9.2,2.9,2.5
+F1407,Minestrone Soup - with croutons,Continental - Soup,71.1,3.4,10.0,2.6,2.4
+F1408,Minestrone Soup - with herbs,Continental - Soup,74.1,3.4,9.8,2.6,2.2
+F1409,Pumpkin Soup - classic,Continental - Soup,81.2,2.8,9.5,2.5,2.0
+F1410,Pumpkin Soup - creamy,Continental - Soup,82.0,3.4,10.7,3.5,2.1
+F1411,Pumpkin Soup - light,Continental - Soup,80.3,3.0,8.8,2.7,1.6
+F1412,Pumpkin Soup - with croutons,Continental - Soup,80.2,2.5,10.2,2.9,2.3
+F1413,Pumpkin Soup - with herbs,Continental - Soup,75.9,3.1,8.7,2.8,2.5
+F1414,Roasted Red Pepper Soup - classic,Continental - Soup,78.9,3.0,10.9,3.3,1.6
+F1415,Roasted Red Pepper Soup - creamy,Continental - Soup,83.5,3.2,9.8,3.2,1.8
+F1416,Roasted Red Pepper Soup - light,Continental - Soup,81.8,3.3,10.4,2.7,2.5
+F1417,Roasted Red Pepper Soup - with croutons,Continental - Soup,73.8,3.4,8.6,2.6,1.7
+F1418,Roasted Red Pepper Soup - with herbs,Continental - Soup,69.0,2.8,10.7,2.8,2.4
+F1419,Potato Leek Soup - classic,Continental - Soup,82.1,3.4,9.2,3.1,2.1
+F1420,Potato Leek Soup - creamy,Continental - Soup,68.3,2.8,10.1,3.0,1.7
+F1421,Potato Leek Soup - light,Continental - Soup,82.9,2.6,10.5,3.2,2.1
+F1422,Potato Leek Soup - with croutons,Continental - Soup,81.2,3.1,11.0,2.5,1.5
+F1423,Potato Leek Soup - with herbs,Continental - Soup,77.5,3.1,10.5,3.3,1.9
+F1424,Broccoli Cheddar Soup - classic,Continental - Soup,77.5,3.0,10.4,2.8,2.5
+F1425,Broccoli Cheddar Soup - creamy,,74.7,3.3,10.6,2.8,1.6
+F1426,Broccoli Cheddar Soup - light,Continental - Soup,67.1,2.9,9.9,2.7,2.1
+F1427,Broccoli Cheddar Soup - with croutons,Continental - Soup,71.6,3.2,10.7,3.4,2.5
+F1428,Broccoli Cheddar Soup - with herbs,Continental - Soup,68.4,2.9,10.2,2.8,2.0
+F1429,Vegetable Consomme - classic,Continental - Soup,70.8,2.7,8.7,2.8,1.9
+F1430,Vegetable Consomme - creamy,Continental - Soup,77.1,2.7,11.2,2.6,1.8
+F1431,Vegetable Consomme - light,Continental - Soup,76.4,2.8,10.8,3.0,2.0
+F1432,Vegetable Consomme - with croutons,Continental - Soup,75.0,2.8,8.5,3.5,2.0
+F1433,Vegetable Consomme - with herbs,Continental - Soup,83.4,2.7,9.5,2.5,2.0
+F1434,Cream of Asparagus Soup - classic,Continental - Soup,81.9,3.2,9.9,3.0,2.3
+F1435,Cream of Asparagus Soup - creamy,Continental - Soup,73.8,3.4,10.7,3.3,1.9
+F1436,Cream of Asparagus Soup - light,Continental - Soup,73.2,3.1,9.0,3.1,1.6
+F1437,Cream of Asparagus Soup - with croutons,Continental - Soup,75.1,3.3,9.3,3.5,2.2
+F1438,Cream of Asparagus Soup - with herbs,Continental - Soup,68.1,3.5,9.7,3.3,1.8
+F1439,Carrot Ginger Soup - classic,Continental - Soup,82.9,3.3,9.0,3.0,2.0
+F1440,Carrot Ginger Soup - creamy,Continental - Soup,66.8,2.6,9.5,3.0,2.0
+F1441,Carrot Ginger Soup - light,Continental - Soup,76.9,3.0,9.4,3.1,1.7
+F1442,Carrot Ginger Soup - with croutons,Continental - Soup,83.8,3.3,9.4,2.8,2.3
+F1443,Carrot Ginger Soup - with herbs,Continental - Soup,75.6,3.2,9.4,3.3,1.9
+F1444,Lentil Vegetable Soup - classic,Continental - Soup,78.1,3.5,10.3,3.3,2.2
+F1445,Lentil Vegetable Soup - creamy,Continental - Soup,78.4,2.5,9.9,3.5,2.3
+F1446,Lentil Vegetable Soup - light,Continental - Soup,80.0,3.1,10.7,3.1,1.7
+F1447,Lentil Vegetable Soup - with croutons,Continental - Soup,77.3,3.1,11.1,2.6,2.2
+F1448,Lentil Vegetable Soup - with herbs,Continental - Soup,66.6,3.5,8.8,2.5,1.8
+F1449,Chicken Noodle Soup - classic,Continental - Soup,68.7,3.2,9.7,3.3,2.4
+F1450,Chicken Noodle Soup - creamy,Continental - Soup,81.7,3.3,8.6,2.6,1.7
+F1451,Chicken Noodle Soup - light,Continental - Soup,71.9,3.2,10.1,2.8,1.7
+F1452,Chicken Noodle Soup - with croutons,Continental - Soup,82.4,2.8,9.5,3.3,2.2
+F1453,Chicken Noodle Soup - with herbs,Continental - Soup,77.6,3.2,10.4,2.7,1.7
+F1454,Chicken and Corn Chowder - classic,Continental - Soup,76.0,2.7,11.5,2.8,1.8
+F1455,Chicken and Corn Chowder - creamy,Continental - Soup,69.7,3.2,9.4,2.8,2.4
+F1456,Chicken and Corn Chowder - light,Continental - Soup,80.3,2.8,8.8,3.2,1.9
+F1457,Chicken and Corn Chowder - with croutons,Continental - Soup,83.6,3.3,11.5,3.3,1.8
+F1458,Chicken and Corn Chowder - with herbs,Continental - Soup,71.2,3.2,9.5,2.9,1.8
+F1459,Seafood Chowder - classic,Continental - Soup,74.6,2.7,10.1,3.5,2.2
+F1460,Seafood Chowder - creamy,Continental - Soup,68.5,3.1,10.3,2.7,2.2
+F1461,Seafood Chowder - light,Continental - Soup,75.6,3.1,8.6,2.9,2.2
+F1462,Seafood Chowder - with croutons,Continental - Soup,67.8,3.3,8.4,3.1,2.4
+F1463,Seafood Chowder - with herbs,Continental - Soup,73.3,3.5,11.2,3.0,1.7
+F1464,Clam Chowder - classic,Continental - Soup,83.4,2.8,10.5,3.4,1.6
+F1465,Clam Chowder - creamy,Continental - Soup,76.3,3.0,10.7,3.5,2.4
+F1466,Clam Chowder - light,Continental - Soup,69.2,3.4,9.0,3.5,2.5
+F1467,Clam Chowder - with croutons,Continental - Soup,73.1,3.0,11.4,3.5,2.4
+F1468,Clam Chowder - with herbs,Continental - Soup,81.8,2.5,10.2,2.6,2.5
+F1469,Spinach Soup - classic,Continental - Soup,71.1,3.5,10.1,3.0,2.4
+F1470,Spinach Soup - creamy,Continental - Soup,81.3,3.0,9.0,2.6,1.7
+F1471,Spinach Soup - light,Continental - Soup,74.3,2.7,9.0,3.3,2.3
+F1472,Spinach Soup - with croutons,Continental - Soup,76.2,3.3,9.0,3.4,2.4
+F1473,Spinach Soup - with herbs,Continental - Soup,80.9,3.0,8.7,3.2,1.7
+F1474,Cauliflower Soup - classic,Continental - Soup,68.5,2.8,9.2,2.7,1.7
+F1475,Cauliflower Soup - creamy,Continental - Soup,79.6,3.5,9.4,3.2,1.5
+F1476,Cauliflower Soup - light,Continental - Soup,77.8,3.2,8.6,2.6,1.8
+F1477,Cauliflower Soup - with croutons,Continental - Soup,73.3,3.0,11.3,3.2,1.8
+F1478,Cauliflower Soup - with herbs,Continental - Soup,68.1,3.4,9.3,3.1,1.7
+F1479,Sweet Corn Soup - classic,Continental - Soup,68.4,2.6,10.8,3.1,1.9
+F1480,Sweet Corn Soup - creamy,Continental - Soup,75.9,3.0,10.1,3.2,1.7
+F1481,Sweet Corn Soup - light,Continental - Soup,70.5,3.3,11.2,2.5,1.9
+F1482,Sweet Corn Soup - with croutons,Continental - Soup,78.7,2.5,10.2,2.5,2.0
+F1483,Sweet Corn Soup - with herbs,Continental - Soup,75.1,3.1,8.9,2.8,2.0
+F1484,Pea and Mint Soup - classic,Continental - Soup,68.1,2.7,10.3,2.6,2.0
+F1485,Pea and Mint Soup - creamy,Continental - Soup,80.6,2.9,10.0,3.0,1.6
+F1486,Pea and Mint Soup - light,Continental - Soup,74.3,3.3,10.7,2.9,2.3
+F1487,Pea and Mint Soup - with croutons,Continental - Soup,79.4,3.1,8.5,2.8,1.6
+F1488,Pea and Mint Soup - with herbs,Continental - Soup,83.9,3.5,8.6,3.5,1.5
+F1489,Caesar Salad with vinaigrette,Continental - Salad,141.8,6.6,13.0,9.4,3.2
+F1490,Caesar Salad with ranch dressing,Continental - Salad,142.2,7.1,11.5,9.1,3.6
+F1491,Caesar Salad with lemon dressing,Continental - Salad,140.7,6.4,12.6,8.1,3.2
+F1492,Caesar Salad with balsamic dressing,Continental - Salad,139.7,5.3,12.1,8.1,3.3
+F1493,Caesar Salad with yogurt dressing,Continental - Salad,135.3,4.9,10.2,7.4,3.3
+F1494,Greek Salad with vinaigrette,Continental - Salad,146.5,6.1,13.2,7.3,2.8
+F1495,Greek Salad with ranch dressing,Continental - Salad,137.2,6.9,12.9,6.9,3.5
+F1496,Greek Salad with lemon dressing,Continental - Salad,142.2,6.6,13.5,6.6,2.6
+F1497,Greek Salad with balsamic dressing,Continental - Salad,131.1,5.0,12.4,8.6,2.3
+F1498,Greek Salad with yogurt dressing,Continental - Salad,153.4,5.8,11.0,7.2,3.5
+F1499,Nicoise Salad with vinaigrette,Continental - Salad,129.6,6.0,11.2,8.9,3.3
+F1500,Nicoise Salad with ranch dressing,Continental - Salad,138.7,6.2,12.7,7.5,2.7
+F1501,Nicoise Salad with lemon dressing,Continental - Salad,132.6,6.3,10.9,7.4,2.3
+F1502,Nicoise Salad with balsamic dressing,Continental - Salad,160.6,6.8,13.6,8.4,2.9
+F1503,Nicoise Salad with yogurt dressing,Continental - Salad,144.8,7.0,13.7,8.5,3.4
+F1504,Cobb Salad with vinaigrette,Continental - Salad,138.7,5.8,10.7,7.6,3.4
+F1505,Cobb Salad with ranch dressing,Continental - Salad,144.1,6.8,11.2,8.6,3.5
+F1506,Cobb Salad with lemon dressing,Continental - Salad,159.4,6.1,13.8,8.2,2.5
+F1507,Cobb Salad with balsamic dressing,Continental - Salad,136.1,5.4,12.6,9.2,3.5
+F1508,Cobb Salad with yogurt dressing,Continental - Salad,130.8,6.5,10.8,7.3,3.3
+F1509,Waldorf Salad with vinaigrette,Continental - Salad,148.6,6.8,10.8,8.8,3.3
+F1510,Waldorf Salad with ranch dressing,Continental - Salad,147.0,6.0,13.4,7.5,3.7
+F1511,Waldorf Salad with lemon dressing,Continental - Salad,128.1,6.9,13.8,6.9,3.7
+F1512,Waldorf Salad with balsamic dressing,Continental - Salad,144.3,5.4,12.4,7.1,3.6
+F1513,Waldorf Salad with yogurt dressing,Continental - Salad,146.8,6.6,11.5,8.1,2.8
+F1514,Caprese Salad with vinaigrette,Continental - Salad,136.7,6.0,12.0,6.8,3.7
+F1515,Caprese Salad with ranch dressing,Continental - Salad,143.9,6.7,13.6,7.6,2.9
+F1516,Caprese Salad with lemon dressing,Continental - Salad,147.2,5.4,10.6,7.3,3.7
+F1517,Caprese Salad with balsamic dressing,Continental - Salad,147.8,5.8,10.7,7.5,2.8
+F1518,,Continental - Salad,156.6,6.0,12.6,8.5,2.6
+F1519,Quinoa Garden Salad with vinaigrette,Continental - Salad,156.2,7.0,12.5,8.0,2.5
+F1520,Quinoa Garden Salad with ranch dressing,Continental - Salad,155.3,5.3,12.8,8.0,3.6
+F1521,Quinoa Garden Salad with lemon dressing,Continental - Salad,146.5,6.3,10.3,6.7,3.5
+F1522,Quinoa Garden Salad with balsamic dressing,Continental - Salad,160.5,6.4,13.0,7.7,3.5
+F1523,Quinoa Garden Salad with yogurt dressing,Continental - Salad,135.7,6.4,10.1,8.0,2.8
+F1524,Roasted Vegetable Salad with vinaigrette,Continental - Salad,149.1,6.4,12.4,8.0,3.0
+F1525,Roasted Vegetable Salad with ranch dressing,Continental - Salad,127.8,6.1,10.1,8.1,2.7
+F1526,Roasted Vegetable Salad with lemon dressing,Continental - Salad,161.6,5.0,13.2,8.5,3.5
+F1527,Roasted Vegetable Salad with balsamic dressing,Continental - Salad,159.3,5.2,10.4,7.0,2.5
+F1528,Roasted Vegetable Salad with yogurt dressing,Continental - Salad,145.9,6.7,11.1,7.7,2.8
+F1529,Spinach Strawberry Salad with vinaigrette,Continental - Salad,141.7,6.1,13.9,7.2,3.3
+F1530,Spinach Strawberry Salad with ranch dressing,Continental - Salad,157.1,6.3,13.4,8.7,2.4
+F1531,Spinach Strawberry Salad with lemon dressing,Continental - Salad,140.8,6.1,10.3,6.6,2.5
+F1532,Spinach Strawberry Salad with balsamic dressing,Continental - Salad,145.0,5.9,13.1,8.2,3.5
+F1533,Spinach Strawberry Salad with yogurt dressing,Continental - Salad,130.9,6.1,10.2,7.2,3.6
+F1534,Pear Walnut Salad with vinaigrette,Continental - Salad,158.5,5.9,10.3,6.8,3.6
+F1535,Pear Walnut Salad with ranch dressing,Continental - Salad,158.9,6.1,10.2,9.2,2.7
+F1536,Pear Walnut Salad with lemon dressing,Continental - Salad,161.1,6.2,13.0,8.6,2.8
+F1537,Pear Walnut Salad with balsamic dressing,Continental - Salad,130.3,5.3,11.0,9.0,2.8
+F1538,Pear Walnut Salad with yogurt dressing,Continental - Salad,158.8,5.6,13.0,7.0,3.7
+F1539,Mediterranean Chickpea Salad with vinaigrette,Continental - Salad,152.8,6.0,13.8,6.7,2.9
+F1540,Mediterranean Chickpea Salad with ranch dressing,Continental - Salad,156.8,5.7,13.0,9.3,2.8
+F1541,Mediterranean Chickpea Salad with lemon dressing,Continental - Salad,154.5,5.0,11.1,9.4,3.0
+F1542,Mediterranean Chickpea Salad with balsamic dressing,Continental - Salad,140.0,7.0,11.7,8.5,3.2
+F1543,Mediterranean Chickpea Salad with yogurt dressing,Continental - Salad,130.6,6.3,13.1,8.6,2.4
+F1544,Pasta Salad with vinaigrette,Continental - Salad,133.0,6.5,12.5,8.7,2.7
+F1545,Pasta Salad with ranch dressing,Continental - Salad,131.3,4.9,11.3,7.6,2.7
+F1546,Pasta Salad with lemon dressing,Continental - Salad,132.2,5.3,11.8,8.2,2.9
+F1547,Pasta Salad with balsamic dressing,Continental - Salad,128.5,5.7,10.4,8.3,2.7
+F1548,Pasta Salad with yogurt dressing,Continental - Salad,141.0,5.6,11.6,6.8,3.6
+F1549,Potato Salad with vinaigrette,Continental - Salad,159.1,7.0,12.3,7.0,2.8
+F1550,Potato Salad with ranch dressing,Continental - Salad,132.4,5.6,12.0,6.7,2.9
+F1551,Potato Salad with lemon dressing,Continental - Salad,142.3,6.0,10.4,7.3,2.6
+F1552,Potato Salad with balsamic dressing,Continental - Salad,149.4,6.2,10.8,6.9,2.7
+F1553,Potato Salad with yogurt dressing,Continental - Salad,160.6,5.6,12.5,8.9,2.7
+F1554,Apple Fennel Salad with vinaigrette,Continental - Salad,139.2,6.7,13.4,9.4,2.5
+F1555,Apple Fennel Salad with ranch dressing,Continental - Salad,138.8,7.0,10.9,7.5,3.7
+F1556,Apple Fennel Salad with lemon dressing,Continental - Salad,161.3,5.5,12.7,8.0,3.1
+F1557,Apple Fennel Salad with balsamic dressing,Continental - Salad,136.0,5.7,13.2,7.7,2.4
+F1558,Apple Fennel Salad with yogurt dressing,Continental - Salad,147.2,6.2,12.2,8.5,3.1
+F1559,Grilled Chicken Salad with vinaigrette,Continental - Salad,160.8,5.9,12.8,7.8,2.7
+F1560,Grilled Chicken Salad with ranch dressing,Continental - Salad,151.7,6.7,13.1,7.7,3.0
+F1561,Grilled Chicken Salad with lemon dressing,Continental - Salad,149.6,5.4,12.6,8.6,3.4
+F1562,Grilled Chicken Salad with balsamic dressing,Continental - Salad,130.2,7.1,11.9,7.7,3.0
+F1563,Grilled Chicken Salad with yogurt dressing,Continental - Salad,159.6,6.4,12.2,8.8,2.8
+F1564,Tuna Bean Salad with vinaigrette,Continental - Salad,158.8,6.1,12.5,6.8,3.4
+F1565,Tuna Bean Salad with ranch dressing,Continental - Salad,150.5,5.7,12.6,6.7,3.7
+F1566,Tuna Bean Salad with lemon dressing,Continental - Salad,151.2,5.8,13.0,9.3,2.9
+F1567,Tuna Bean Salad with balsamic dressing,Continental - Salad,128.0,5.5,12.0,8.1,3.1
+F1568,Tuna Bean Salad with yogurt dressing,Continental - Salad,147.6,5.9,11.6,8.8,3.1
+F1569,Beetroot Goat Cheese Salad with vinaigrette,Continental - Salad,145.0,5.7,10.2,6.9,2.9
+F1570,Beetroot Goat Cheese Salad with ranch dressing,Continental - Salad,161.1,5.2,13.7,7.0,2.7
+F1571,Beetroot Goat Cheese Salad with lemon dressing,Continental - Salad,143.4,5.4,11.9,7.9,2.9
+F1572,Beetroot Goat Cheese Salad with balsamic dressing,Continental - Salad,151.8,5.6,11.2,8.9,2.4
+F1573,Beetroot Goat Cheese Salad with yogurt dressing,Continental - Salad,157.2,6.3,12.7,7.0,3.7
+F1574,Rocket Parmesan Salad with vinaigrette,Continental - Salad,136.1,5.3,10.7,8.2,3.7
+F1575,Rocket Parmesan Salad with ranch dressing,Continental - Salad,135.7,5.8,10.8,8.4,2.9
+F1576,Rocket Parmesan Salad with lemon dressing,Continental - Salad,128.6,6.2,10.8,8.3,2.8
+F1577,Rocket Parmesan Salad with balsamic dressing,Continental - Salad,152.1,5.4,13.0,8.9,2.3
+F1578,Rocket Parmesan Salad with yogurt dressing,Continental - Salad,131.1,6.8,10.8,7.5,2.9
+F1579,Lentil Herb Salad with vinaigrette,Continental - Salad,136.7,6.8,12.1,8.4,3.1
+F1580,Lentil Herb Salad with ranch dressing,Continental - Salad,148.9,6.2,11.4,9.0,3.2
+F1581,Lentil Herb Salad with lemon dressing,Continental - Salad,155.9,6.4,11.2,8.3,2.4
+F1582,Lentil Herb Salad with balsamic dressing,Continental - Salad,132.3,5.2,11.3,7.1,3.3
+F1583,Lentil Herb Salad with yogurt dressing,Continental - Salad,145.4,5.8,10.6,7.7,2.5
+F1584,Avocado Tomato Salad with vinaigrette,Continental - Salad,149.7,6.4,12.6,9.4,3.1
+F1585,Avocado Tomato Salad with ranch dressing,Continental - Salad,144.6,5.2,11.3,7.9,2.3
+F1586,Avocado Tomato Salad with lemon dressing,Continental - Salad,140.1,4.9,10.6,8.9,3.7
+F1587,Avocado Tomato Salad with balsamic dressing,Continental - Salad,145.2,6.0,12.7,7.8,3.5
+F1588,Avocado Tomato Salad with yogurt dressing,Continental - Salad,144.6,5.1,10.2,8.8,2.7
+F1589,Grilled Chicken Breast (grilled),Continental - Main Course,193.9,18.2,10.7,8.9,2.2
+F1590,Grilled Chicken Breast (baked),Continental - Main Course,218.1,18.3,10.5,7.8,2.3
+F1591,Grilled Chicken Breast (herb roasted),Continental - Main Course,220.9,17.1,13.2,7.5,2.2
+F1592,Grilled Chicken Breast (with light sauce),Continental - Main Course,207.3,21.2,10.5,10.1,2.3
+F1593,Grilled Chicken Breast (with vegetables),Continental - Main Course,195.0,21.2,11.8,8.5,2.3
+F1594,Herb Roasted Chicken (grilled),Continental - Main Course,202.0,21.2,13.1,8.1,2.3
+F1595,Herb Roasted Chicken (baked),Continental - Main Course,209.3,17.0,12.8,9.4,1.7
+F1596,Herb Roasted Chicken (herb roasted),Continental - Main Course,187.3,16.1,10.9,7.6,1.9
+F1597,Herb Roasted Chicken (with light sauce),Continental - Main Course,194.2,18.3,11.3,9.7,1.8
+F1598,Herb Roasted Chicken (with vegetables),Continental - Main Course,193.6,20.3,13.9,9.6,1.6
+F1599,Chicken Schnitzel (grilled),Continental - Main Course,227.8,19.9,13.6,10.6,2.4
+F1600,Chicken Schnitzel (baked),Continental - Main Course,186.6,20.4,11.0,9.7,2.3
+F1601,Chicken Schnitzel (herb roasted),Continental - Main Course,217.9,19.1,12.0,9.3,1.8
+F1602,Chicken Schnitzel (with light sauce),Continental - Main Course,200.8,17.7,12.5,10.2,1.6
+F1603,Chicken Schnitzel (with vegetables),Continental - Main Course,205.8,16.6,13.7,8.6,2.5
+F1604,Chicken Cordon Bleu (grilled),Continental - Main Course,196.5,14.8,13.1,9.8,2.2
+F1605,Chicken Cordon Bleu (baked),Continental - Main Course,203.0,19.1,11.5,7.6,2.0
+F1606,Chicken Cordon Bleu (herb roasted),Continental - Main Course,191.1,17.5,10.9,8.3,2.3
+F1607,Chicken Cordon Bleu (with light sauce),Continental - Main Course,197.0,18.5,12.3,9.0,1.8
+F1608,Chicken Cordon Bleu (with vegetables),Continental - Main Course,214.0,15.1,10.5,9.9,2.0
+F1609,Beef Stroganoff (grilled),Continental - Main Course,186.5,20.3,11.8,7.4,2.5
+F1610,Beef Stroganoff (baked),Continental - Main Course,190.4,19.2,10.6,9.5,1.7
+F1611,Beef Stroganoff (herb roasted),Continental - Main Course,226.3,16.5,12.6,8.2,1.9
+F1612,Beef Stroganoff (with light sauce),Continental - Main Course,224.9,15.8,11.6,8.4,2.2
+F1613,Beef Stroganoff (with vegetables),Continental - Main Course,191.9,19.0,12.8,7.4,2.0
+F1614,Beef Meatballs in Tomato Sauce (grilled),Continental - Main Course,186.9,16.2,12.7,7.4,2.2
+F1615,Beef Meatballs in Tomato Sauce (baked),Continental - Main Course,220.6,21.2,11.7,7.8,1.6
+F1616,Beef Meatballs in Tomato Sauce (herb roasted),Continental - Main Course,199.2,19.5,10.5,8.4,2.4
+F1617,Beef Meatballs in Tomato Sauce (with light sauce),Continental - Main Course,187.1,19.8,13.0,7.8,2.5
+F1618,Beef Meatballs in Tomato Sauce (with vegetables),Continental - Main Course,187.4,18.2,10.1,9.5,1.9
+F1619,Roast Beef with Gravy (grilled),Continental - Main Course,215.9,18.8,10.7,8.7,2.2
+F1620,Roast Beef with Gravy (baked),Continental - Main Course,222.7,15.3,10.5,9.8,2.1
+F1621,Roast Beef with Gravy (herb roasted),Continental - Main Course,199.3,21.0,11.3,7.8,1.8
+F1622,Roast Beef with Gravy (with light sauce),Continental - Main Course,184.5,18.3,12.4,9.3,2.3
+F1623,Roast Beef with Gravy (with vegetables),Continental - Main Course,214.4,20.3,12.6,8.4,2.0
+F1624,Beef Shepherd's Pie (grilled),Continental - Main Course,205.5,19.6,11.2,7.6,2.4
+F1625,Beef Shepherd's Pie (baked),Continental - Main Course,227.4,18.0,10.5,9.0,2.1
+F1626,Beef Shepherd's Pie (herb roasted),Continental - Main Course,206.4,21.1,13.9,10.4,1.6
+F1627,Beef Shepherd's Pie (with light sauce),Continental - Main Course,222.8,18.4,11.5,9.6,2.3
+F1628,Beef Shepherd's Pie (with vegetables),Continental - Main Course,227.4,19.8,10.1,7.6,1.8
+F1629,Beef Lasagna (grilled),Continental - Main Course,182.4,15.2,13.1,9.0,2.1
+F1630,Beef Lasagna (baked),Continental - Main Course,205.1,17.5,12.8,7.6,2.0
+F1631,Beef Lasagna (herb roasted),Continental - Main Course,210.7,16.6,11.3,9.0,1.7
+F1632,Beef Lasagna (with light sauce),Continental - Main Course,220.2,18.2,11.6,9.4,2.3
+F1633,Beef Lasagna (with vegetables),Continental - Main Course,213.9,15.2,12.8,9.7,2.3
+F1634,Pork Tenderloin (grilled),Continental - Main Course,183.2,15.3,11.7,8.8,2.1
+F1635,Pork Tenderloin (baked),Continental - Main Course,195.6,19.6,12.9,7.8,2.2
+F1636,Pork Tenderloin (herb roasted),Continental - Main Course,214.9,15.8,13.7,9.1,2.3
+F1637,,Continental - Main Course,215.9,15.8,10.6,9.9,1.8
+F1638,Pork Tenderloin (with vegetables),Continental - Main Course,224.0,19.8,10.2,10.0,1.8
+F1639,Roast Pork with Apple (grilled),Continental - Main Course,183.5,19.4,12.3,7.6,2.0
+F1640,Roast Pork with Apple (baked),Continental - Main Course,198.1,18.0,12.3,8.6,1.8
+F1641,Roast Pork with Apple (herb roasted),Continental - Main Course,185.5,18.5,12.9,8.1,2.0
+F1642,Roast Pork with Apple (with light sauce),Continental - Main Course,182.6,20.4,11.0,8.9,1.9
+F1643,Roast Pork with Apple (with vegetables),Continental - Main Course,187.8,20.8,13.4,9.2,2.4
+F1644,Lamb Chops with Rosemary (grilled),Continental - Main Course,216.8,17.5,11.3,8.7,2.2
+F1645,Lamb Chops with Rosemary (baked),Continental - Main Course,193.7,15.3,11.5,9.0,2.4
+F1646,Lamb Chops with Rosemary (herb roasted),Continental - Main Course,189.2,20.0,13.8,10.5,1.6
+F1647,Lamb Chops with Rosemary (with light sauce),Continental - Main Course,203.3,16.6,13.3,8.4,2.1
+F1648,Lamb Chops with Rosemary (with vegetables),Continental - Main Course,180.8,16.1,12.2,8.4,2.1
+F1649,Baked Salmon (grilled),Continental - Main Course,203.2,18.6,12.0,9.9,1.7
+F1650,Baked Salmon (baked),Continental - Main Course,224.7,19.7,11.0,7.4,1.9
+F1651,Baked Salmon (herb roasted),Continental - Main Course,191.9,17.0,13.3,10.2,2.5
+F1652,Baked Salmon (with light sauce),Continental - Main Course,180.5,19.0,13.3,9.7,1.6
+F1653,Baked Salmon (with vegetables),Continental - Main Course,206.5,16.3,12.0,7.6,2.5
+F1654,Lemon Butter Fish (grilled),Continental - Main Course,215.4,15.4,13.6,10.3,2.0
+F1655,Lemon Butter Fish (baked),Continental - Main Course,214.9,17.2,13.8,7.7,1.6
+F1656,Lemon Butter Fish (herb roasted),Continental - Main Course,187.0,20.1,10.4,9.2,1.9
+F1657,Lemon Butter Fish (with light sauce),Continental - Main Course,227.8,16.3,11.1,8.4,2.3
+F1658,Lemon Butter Fish (with vegetables),Continental - Main Course,214.9,19.5,11.3,8.3,1.6
+F1659,Grilled Sea Bass (grilled),Continental - Main Course,190.4,19.8,12.3,7.9,1.7
+F1660,Grilled Sea Bass (baked),Continental - Main Course,203.3,17.4,12.1,10.5,1.7
+F1661,Grilled Sea Bass (herb roasted),Continental - Main Course,195.6,16.5,10.5,7.9,2.2
+F1662,Grilled Sea Bass (with light sauce),Continental - Main Course,221.1,19.3,10.2,10.1,1.8
+F1663,Grilled Sea Bass (with vegetables),Continental - Main Course,184.9,16.4,11.4,9.0,2.2
+F1664,Baked Cod with Herbs (grilled),Continental - Main Course,193.2,21.2,10.2,8.7,2.0
+F1665,Baked Cod with Herbs (baked),Continental - Main Course,217.2,16.4,11.9,10.0,1.6
+F1666,Baked Cod with Herbs (herb roasted),Continental - Main Course,181.0,20.1,13.9,7.8,2.3
+F1667,Baked Cod with Herbs (with light sauce),Continental - Main Course,198.7,18.8,12.6,9.3,1.8
+F1668,Baked Cod with Herbs (with vegetables),Continental - Main Course,220.4,14.9,10.3,10.3,1.9
+F1669,Garlic Butter Prawns (grilled),Continental - Main Course,186.7,20.6,13.3,8.5,1.5
+F1670,Garlic Butter Prawns (baked),Continental - Main Course,203.1,15.8,12.3,10.0,1.9
+F1671,Garlic Butter Prawns (herb roasted),Continental - Main Course,181.9,19.2,10.7,8.1,1.7
+F1672,Garlic Butter Prawns (with light sauce),Continental - Main Course,194.2,20.5,10.2,9.4,1.7
+F1673,Garlic Butter Prawns (with vegetables),Continental - Main Course,194.9,17.4,12.2,7.6,1.8
+F1674,Seafood Paella (grilled),Continental - Main Course,187.2,16.1,13.5,9.1,2.1
+F1675,Seafood Paella (baked),Continental - Main Course,219.9,19.9,13.9,9.9,1.9
+F1676,Seafood Paella (herb roasted),Continental - Main Course,207.2,17.9,13.6,9.0,1.9
+F1677,Seafood Paella (with light sauce),Continental - Main Course,189.2,16.8,10.9,10.3,2.3
+F1678,Seafood Paella (with vegetables),Continental - Main Course,183.3,21.2,12.1,9.9,2.5
+F1679,Mushroom Risotto (grilled),Continental - Main Course,228.3,15.4,12.6,8.2,2.3
+F1680,Mushroom Risotto (baked),Continental - Main Course,225.5,15.1,13.9,8.1,2.3
+F1681,Mushroom Risotto (herb roasted),Continental - Main Course,219.6,17.1,13.3,10.1,1.7
+F1682,Mushroom Risotto (with light sauce),Continental - Main Course,209.6,20.0,12.8,10.3,1.5
+F1683,Mushroom Risotto (with vegetables),Continental - Main Course,214.9,20.9,12.2,9.2,1.7
+F1684,Spinach Ricotta Cannelloni (grilled),Continental - Main Course,229.0,20.5,12.0,8.4,2.0
+F1685,Spinach Ricotta Cannelloni (baked),Continental - Main Course,184.8,16.3,10.9,9.1,1.5
+F1686,Spinach Ricotta Cannelloni (herb roasted),Continental - Main Course,225.6,16.1,10.6,9.7,2.4
+F1687,Spinach Ricotta Cannelloni (with light sauce),Continental - Main Course,221.9,16.9,10.2,9.3,2.4
+F1688,Spinach Ricotta Cannelloni (with vegetables),Continental - Main Course,218.5,20.2,13.4,10.5,1.9
+F1689,Eggplant Parmesan (grilled),Continental - Main Course,226.7,17.3,10.5,8.4,1.6
+F1690,Eggplant Parmesan (baked),Continental - Main Course,188.1,20.9,13.1,10.5,2.1
+F1691,Eggplant Parmesan (herb roasted),Continental - Main Course,189.0,21.0,12.7,10.4,2.3
+F1692,Eggplant Parmesan (with light sauce),Continental - Main Course,191.4,18.6,10.8,8.4,2.2
+F1693,Eggplant Parmesan (with vegetables),Continental - Main Course,186.7,19.5,13.7,10.5,1.9
+F1694,Vegetable Ratatouille (grilled),Continental - Main Course,229.3,21.0,10.2,9.3,2.4
+F1695,Vegetable Ratatouille (baked),Continental - Main Course,228.0,16.2,12.3,10.4,1.6
+F1696,Vegetable Ratatouille (herb roasted),Continental - Main Course,217.1,16.3,13.9,7.9,2.4
+F1697,Vegetable Ratatouille (with light sauce),Continental - Main Course,184.8,19.4,12.5,10.3,1.9
+F1698,Vegetable Ratatouille (with vegetables),Continental - Main Course,193.4,16.4,10.3,8.2,1.6
+F1699,,Continental - Main Course,180.5,17.3,12.9,10.5,2.4
+F1700,Stuffed Bell Peppers (baked),Continental - Main Course,204.7,17.2,12.2,7.7,2.0
+F1701,Stuffed Bell Peppers (herb roasted),Continental - Main Course,222.9,19.0,12.7,7.9,1.6
+F1702,Stuffed Bell Peppers (with light sauce),Continental - Main Course,222.0,16.7,11.3,10.5,1.6
+F1703,Stuffed Bell Peppers (with vegetables),Continental - Main Course,188.8,17.2,12.9,9.2,2.4
+F1704,Vegetable Wellington (grilled),Continental - Main Course,185.0,18.6,12.4,8.9,1.5
+F1705,Vegetable Wellington (baked),Continental - Main Course,226.8,15.8,13.5,7.9,1.6
+F1706,Vegetable Wellington (herb roasted),Continental - Main Course,190.5,16.0,12.8,9.7,2.2
+F1707,Vegetable Wellington (with light sauce),Continental - Main Course,193.5,16.6,11.0,7.5,2.1
+F1708,Vegetable Wellington (with vegetables),Continental - Main Course,221.7,15.8,11.5,8.8,1.8
+F1709,Mushroom Stroganoff (grilled),Continental - Main Course,213.0,18.6,10.8,7.5,1.7
+F1710,Mushroom Stroganoff (baked),Continental - Main Course,194.8,15.3,13.3,8.4,1.9
+F1711,Mushroom Stroganoff (herb roasted),Continental - Main Course,204.5,19.0,10.4,9.1,1.7
+F1712,Mushroom Stroganoff (with light sauce),Continental - Main Course,224.0,17.2,11.8,8.2,2.0
+F1713,Mushroom Stroganoff (with vegetables),Continental - Main Course,191.5,16.5,10.3,9.8,2.2
+F1714,Lentil Shepherd's Pie (grilled),Continental - Main Course,184.6,17.0,12.2,10.5,2.1
+F1715,Lentil Shepherd's Pie (baked),Continental - Main Course,207.6,20.2,13.2,8.7,2.0
+F1716,Lentil Shepherd's Pie (herb roasted),Continental - Main Course,223.1,17.8,13.5,8.9,1.6
+F1717,Lentil Shepherd's Pie (with light sauce),Continental - Main Course,224.8,19.4,12.0,10.3,2.3
+F1718,Lentil Shepherd's Pie (with vegetables),Continental - Main Course,213.7,18.8,10.5,9.8,1.7
+F1719,Baked Aubergine with Tomato (grilled),Continental - Main Course,228.8,21.1,13.2,7.8,1.9
+F1720,Baked Aubergine with Tomato (baked),Continental - Main Course,229.0,17.6,13.9,9.4,2.3
+F1721,Baked Aubergine with Tomato (herb roasted),Continental - Main Course,193.1,20.7,13.6,7.6,1.9
+F1722,Baked Aubergine with Tomato (with light sauce),Continental - Main Course,199.9,16.9,11.1,8.9,2.4
+F1723,Baked Aubergine with Tomato (with vegetables),Continental - Main Course,219.1,18.8,12.1,8.7,1.9
+F1724,Spinach Feta Pie (grilled),Continental - Main Course,187.7,18.6,13.0,10.4,2.4
+F1725,Spinach Feta Pie (baked),Continental - Main Course,208.1,15.4,11.2,9.1,1.8
+F1726,Spinach Feta Pie (herb roasted),Continental - Main Course,200.6,17.2,11.9,9.4,1.5
+F1727,Spinach Feta Pie (with light sauce),Continental - Main Course,194.0,15.7,12.4,9.6,1.5
+F1728,Spinach Feta Pie (with vegetables),Continental - Main Course,224.2,16.9,11.0,9.8,2.4
+F1729,Cheese Souffle (grilled),Continental - Main Course,224.5,14.9,13.2,8.4,1.8
+F1730,Cheese Souffle (baked),Continental - Main Course,204.6,19.3,10.5,10.2,1.6
+F1731,Cheese Souffle (herb roasted),Continental - Main Course,228.3,17.6,13.3,8.3,1.9
+F1732,Cheese Souffle (with light sauce),Continental - Main Course,212.2,16.0,10.9,10.0,2.2
+F1733,Cheese Souffle (with vegetables),Continental - Main Course,217.8,20.4,13.2,9.0,1.7
+F1734,Vegetable Quiche (grilled),Continental - Main Course,195.7,18.0,10.6,10.1,2.4
+F1735,Vegetable Quiche (baked),Continental - Main Course,181.8,16.0,13.3,10.1,1.7
+F1736,Vegetable Quiche (herb roasted),Continental - Main Course,202.9,20.7,12.8,8.3,2.3
+F1737,Vegetable Quiche (with light sauce),Continental - Main Course,205.3,18.9,10.6,7.5,1.9
+F1738,Vegetable Quiche (with vegetables),Continental - Main Course,209.6,15.9,13.4,9.3,1.8
+F1739,Chicken Pot Pie (grilled),Continental - Main Course,188.4,20.6,13.0,9.6,1.8
+F1740,Chicken Pot Pie (baked),Continental - Main Course,199.4,15.8,12.3,10.5,2.4
+F1741,Chicken Pot Pie (herb roasted),Continental - Main Course,212.3,19.2,11.1,8.7,1.5
+F1742,Chicken Pot Pie (with light sauce),Continental - Main Course,218.8,19.7,10.1,10.3,2.1
+F1743,Chicken Pot Pie (with vegetables),Continental - Main Course,210.0,14.8,11.0,10.0,1.8
+F1744,Turkey Meatloaf (grilled),Continental - Main Course,228.0,18.9,11.7,8.6,1.8
+F1745,Turkey Meatloaf (baked),Continental - Main Course,192.8,17.8,12.7,10.1,1.9
+F1746,Turkey Meatloaf (herb roasted),Continental - Main Course,185.4,18.1,12.6,10.1,1.9
+F1747,Turkey Meatloaf (with light sauce),Continental - Main Course,212.2,18.7,,7.7,1.6
+F1748,Turkey Meatloaf (with vegetables),Continental - Main Course,229.0,18.9,13.4,8.2,2.2
+F1749,Club Sandwich on sourdough,Continental - Sandwich,268.1,11.1,24.0,9.9,3.6
+F1750,Club Sandwich on whole wheat bread,Continental - Sandwich,263.0,13.3,27.9,9.5,3.3
+F1751,Club Sandwich on ciabatta,Continental - Sandwich,258.0,12.7,31.3,8.2,2.9
+F1752,Club Sandwich on rye bread,Continental - Sandwich,238.4,10.0,28.8,9.2,2.5
+F1753,Grilled Cheese Sandwich on sourdough,Continental - Sandwich,258.3,10.8,27.3,9.9,3.6
+F1754,Grilled Cheese Sandwich on whole wheat bread,Continental - Sandwich,255.1,12.0,30.0,10.1,3.6
+F1755,Grilled Cheese Sandwich on ciabatta,Continental - Sandwich,226.3,10.3,23.8,8.2,3.5
+F1756,Grilled Cheese Sandwich on rye bread,Continental - Sandwich,260.5,10.6,28.6,8.5,2.4
+F1757,Tuna Melt on sourdough,Continental - Sandwich,236.5,13.1,25.3,9.9,2.7
+F1758,Tuna Melt on whole wheat bread,Continental - Sandwich,230.9,11.1,30.0,8.9,3.5
+F1759,Tuna Melt on ciabatta,Continental - Sandwich,249.9,13.9,23.3,10.3,3.0
+F1760,Tuna Melt on rye bread,Continental - Sandwich,266.6,11.5,25.3,7.6,3.5
+F1761,Chicken Panini on sourdough,Continental - Sandwich,223.7,10.7,26.2,9.2,3.6
+F1762,Chicken Panini on whole wheat bread,Continental - Sandwich,242.5,11.2,28.9,9.9,3.0
+F1763,Chicken Panini on ciabatta,Continental - Sandwich,252.7,10.6,28.2,7.4,2.7
+F1764,Chicken Panini on rye bread,Continental - Sandwich,260.4,10.6,29.3,9.0,3.4
+F1765,Caprese Panini on sourdough,Continental - Sandwich,220.8,12.5,28.2,8.7,3.7
+F1766,Caprese Panini on whole wheat bread,Continental - Sandwich,238.1,10.0,24.4,8.6,2.3
+F1767,Caprese Panini on ciabatta,Continental - Sandwich,234.5,13.4,24.3,9.6,3.2
+F1768,Caprese Panini on rye bread,Continental - Sandwich,230.2,12.8,25.7,7.8,2.8
+F1769,Roast Beef Sandwich on sourdough,Continental - Sandwich,250.2,10.6,29.8,8.3,2.7
+F1770,Roast Beef Sandwich on whole wheat bread,Continental - Sandwich,258.4,12.4,25.6,10.3,3.7
+F1771,Roast Beef Sandwich on ciabatta,Continental - Sandwich,235.8,13.7,25.8,8.0,3.7
+F1772,Roast Beef Sandwich on rye bread,Continental - Sandwich,269.6,11.6,24.7,9.7,2.4
+F1773,Egg Salad Sandwich on sourdough,Continental - Sandwich,258.8,12.4,24.1,8.6,3.2
+F1774,Egg Salad Sandwich on whole wheat bread,Continental - Sandwich,217.8,13.6,24.9,9.1,2.3
+F1775,Egg Salad Sandwich on ciabatta,Continental - Sandwich,274.1,12.7,28.3,7.4,3.3
+F1776,Egg Salad Sandwich on rye bread,Continental - Sandwich,240.1,11.5,27.4,8.9,2.5
+F1777,BLT Sandwich on sourdough,Continental - Sandwich,256.5,12.6,25.3,9.5,3.2
+F1778,BLT Sandwich on whole wheat bread,Continental - Sandwich,231.5,12.5,23.9,10.1,2.4
+F1779,BLT Sandwich on ciabatta,Continental - Sandwich,257.9,10.3,23.7,7.7,2.5
+F1780,BLT Sandwich on rye bread,Continental - Sandwich,227.3,11.0,27.2,8.0,3.3
+F1781,Turkey Avocado Sandwich on sourdough,Continental - Sandwich,233.0,10.0,27.0,8.1,3.6
+F1782,Turkey Avocado Sandwich on whole wheat bread,Continental - Sandwich,235.0,9.9,28.5,10.3,3.5
+F1783,Turkey Avocado Sandwich on ciabatta,Continental - Sandwich,254.9,10.5,23.5,9.0,3.3
+F1784,Turkey Avocado Sandwich on rye bread,Continental - Sandwich,221.6,10.9,24.7,10.6,2.7
+F1785,Mushroom Swiss Burger on sourdough,Continental - Sandwich,242.9,10.3,24.2,7.5,2.7
+F1786,Mushroom Swiss Burger on whole wheat bread,Continental - Sandwich,262.7,11.2,29.1,7.7,3.4
+F1787,Mushroom Swiss Burger on ciabatta,Continental - Sandwich,218.3,13.5,28.4,7.9,2.8
+F1788,Mushroom Swiss Burger on rye bread,Continental - Sandwich,241.3,12.5,30.3,7.7,3.5
+F1789,Classic Beef Burger on sourdough,Continental - Sandwich,226.4,11.6,31.0,8.3,2.8
+F1790,Classic Beef Burger on whole wheat bread,Continental - Sandwich,265.6,13.3,28.3,10.0,2.4
+F1791,Classic Beef Burger on ciabatta,Continental - Sandwich,256.5,10.1,30.8,7.9,2.9
+F1792,Classic Beef Burger on rye bread,Continental - Sandwich,250.3,13.3,28.5,8.0,2.8
+F1793,Chicken Burger on sourdough,Continental - Sandwich,236.7,10.0,28.6,10.1,3.7
+F1794,Chicken Burger on whole wheat bread,Continental - Sandwich,223.3,13.8,23.7,8.7,2.3
+F1795,Chicken Burger on ciabatta,Continental - Sandwich,231.0,11.2,28.8,9.6,3.4
+F1796,Chicken Burger on rye bread,Continental - Sandwich,249.5,12.3,31.1,9.6,2.8
+F1797,Falafel Pita on sourdough,Continental - Sandwich,246.4,12.9,23.5,9.5,2.6
+F1798,Falafel Pita on whole wheat bread,Continental - Sandwich,235.9,12.8,26.0,10.1,3.1
+F1799,Falafel Pita on ciabatta,Continental - Sandwich,273.7,10.1,28.2,7.9,3.5
+F1800,Falafel Pita on rye bread,Continental - Sandwich,265.7,13.6,23.3,9.0,2.6
+F1801,Tuna Salad Wrap on sourdough,Continental - Sandwich,272.6,10.1,24.6,9.5,2.9
+F1802,Tuna Salad Wrap on whole wheat bread,Continental - Sandwich,229.4,11.8,29.6,8.8,3.5
+F1803,Tuna Salad Wrap on ciabatta,Continental - Sandwich,241.9,10.4,27.0,9.5,2.4
+F1804,Tuna Salad Wrap on rye bread,Continental - Sandwich,239.8,12.2,22.7,7.7,3.2
+F1805,Grilled Vegetable Wrap on sourdough,Continental - Sandwich,252.0,11.2,27.1,8.1,3.3
+F1806,Grilled Vegetable Wrap on whole wheat bread,Continental - Sandwich,271.5,11.4,23.1,8.1,2.9
+F1807,Grilled Vegetable Wrap on ciabatta,Continental - Sandwich,248.5,12.5,26.8,9.5,3.3
+F1808,Grilled Vegetable Wrap on rye bread,Continental - Sandwich,222.3,13.1,24.6,8.5,3.5
+F1809,Chicken Caesar Wrap on sourdough,Continental - Sandwich,272.3,11.1,27.2,9.7,2.3
+F1810,Chicken Caesar Wrap on whole wheat bread,Continental - Sandwich,225.3,10.4,28.9,9.7,2.4
+F1811,Chicken Caesar Wrap on ciabatta,Continental - Sandwich,251.5,10.7,30.7,8.7,2.9
+F1812,Chicken Caesar Wrap on rye bread,Continental - Sandwich,261.5,12.9,23.6,8.7,3.6
+F1813,Ham and Cheese Toastie on sourdough,Continental - Sandwich,264.8,12.4,29.4,8.8,3.2
+F1814,Ham and Cheese Toastie on whole wheat bread,Continental - Sandwich,271.8,10.4,27.0,9.1,2.3
+F1815,Ham and Cheese Toastie on ciabatta,Continental - Sandwich,270.6,13.5,26.9,9.0,3.6
+F1816,Ham and Cheese Toastie on rye bread,Continental - Sandwich,226.0,12.3,29.0,7.8,2.8
+F1817,Smoked Salmon Bagel on sourdough,Continental - Sandwich,250.9,13.7,27.0,8.6,3.7
+F1818,Smoked Salmon Bagel on whole wheat bread,Continental - Sandwich,269.5,13.1,25.0,10.5,3.7
+F1819,Smoked Salmon Bagel on ciabatta,Continental - Sandwich,242.2,10.4,26.2,9.6,3.4
+F1820,Smoked Salmon Bagel on rye bread,Continental - Sandwich,233.2,12.9,30.1,9.7,3.7
+F1821,Bruschetta with Tomato on sourdough,Continental - Sandwich,252.8,10.7,28.1,8.3,2.8
+F1822,Bruschetta with Tomato on whole wheat bread,Continental - Sandwich,255.1,14.1,28.3,10.5,3.0
+F1823,Bruschetta with Tomato on ciabatta,Continental - Sandwich,256.4,11.2,23.7,8.5,3.0
+F1824,Bruschetta with Tomato on rye bread,Continental - Sandwich,249.2,12.7,26.3,9.8,3.5
+F1825,Garlic Bread with Cheese on sourdough,Continental - Sandwich,232.4,13.5,29.7,9.1,2.3
+F1826,Garlic Bread with Cheese on whole wheat bread,Continental - Sandwich,224.1,12.7,24.4,9.8,2.5
+F1827,Garlic Bread with Cheese on ciabatta,Continental - Sandwich,232.5,10.9,29.9,9.6,2.7
+F1828,Garlic Bread with Cheese on rye bread,Continental - Sandwich,259.9,10.0,29.7,7.7,3.6
+F1829,Garlic Mashed Potatoes - classic,Continental - Side Dish,163.9,4.5,21.6,7.2,2.6
+F1830,Garlic Mashed Potatoes - with herbs,Continental - Side Dish,165.6,4.4,18.6,7.4,3.6
+F1831,Garlic Mashed Potatoes - with garlic,Continental - Side Dish,150.8,4.7,23.0,6.5,3.1
+F1832,Garlic Mashed Potatoes - with parmesan,Continental - Side Dish,136.9,3.6,20.8,7.7,3.6
+F1833,Garlic Mashed Potatoes - lightly seasoned,Continental - Side Dish,167.3,4.6,21.3,7.4,3.4
+F1834,Roasted Baby Potatoes - classic,Continental - Side Dish,156.7,4.1,21.8,8.2,2.7
+F1835,Roasted Baby Potatoes - with herbs,Continental - Side Dish,143.0,4.3,18.0,6.2,3.0
+F1836,Roasted Baby Potatoes - with garlic,Continental - Side Dish,150.4,3.9,20.4,6.1,3.1
+F1837,Roasted Baby Potatoes - with parmesan,Continental - Side Dish,145.9,3.8,21.3,6.1,2.5
+F1838,Roasted Baby Potatoes - lightly seasoned,Continental - Side Dish,148.4,3.4,22.8,7.3,3.2
+F1839,Potato Gratin - classic,Continental - Side Dish,154.6,4.1,19.1,7.7,2.7
+F1840,Potato Gratin - with herbs,Continental - Side Dish,144.6,3.5,17.2,7.0,2.9
+F1841,Potato Gratin - with garlic,Continental - Side Dish,156.4,3.4,18.2,6.3,2.7
+F1842,Potato Gratin - with parmesan,Continental - Side Dish,149.8,3.6,21.6,7.1,3.7
+F1843,Potato Gratin - lightly seasoned,Continental - Side Dish,167.0,4.7,16.9,7.4,2.9
+F1844,French Fries - classic,Continental - Side Dish,170.0,4.2,20.8,8.2,3.3
+F1845,French Fries - with herbs,Continental - Side Dish,148.3,4.6,22.8,6.7,3.1
+F1846,French Fries - with garlic,Continental - Side Dish,146.9,4.6,22.1,6.7,3.5
+F1847,French Fries - with parmesan,Continental - Side Dish,153.0,3.3,22.5,6.2,3.0
+F1848,French Fries - lightly seasoned,Continental - Side Dish,171.7,3.5,22.9,7.1,2.3
+F1849,Sweet Potato Fries - classic,Continental - Side Dish,138.8,4.2,21.8,7.9,2.9
+F1850,Sweet Potato Fries - with herbs,Continental - Side Dish,140.3,4.1,21.3,8.2,3.4
+F1851,Sweet Potato Fries - with garlic,Continental - Side Dish,160.5,4.6,21.6,6.1,2.9
+F1852,Sweet Potato Fries - with parmesan,Continental - Side Dish,148.7,3.4,17.1,7.7,3.1
+F1853,Sweet Potato Fries - lightly seasoned,Continental - Side Dish,157.8,3.6,18.5,6.7,3.2
+F1854,Creamed Spinach - classic,Continental - Side Dish,152.5,3.3,21.1,7.1,3.2
+F1855,Creamed Spinach - with herbs,Continental - Side Dish,159.4,4.4,20.5,7.5,2.4
+F1856,Creamed Spinach - with garlic,Continental - Side Dish,170.9,3.4,21.8,6.5,2.4
+F1857,Creamed Spinach - with parmesan,Continental - Side Dish,164.9,3.9,19.3,7.4,3.0
+F1858,Creamed Spinach - lightly seasoned,Continental - Side Dish,156.2,3.5,19.3,7.7,3.1
+F1859,Sauteed Green Beans - classic,Continental - Side Dish,172.1,3.5,21.1,8.0,3.4
+F1860,Sauteed Green Beans - with herbs,Continental - Side Dish,163.5,3.8,22.9,7.1,3.1
+F1861,Sauteed Green Beans - with garlic,Continental - Side Dish,141.0,3.3,20.6,7.1,3.7
+F1862,Sauteed Green Beans - with parmesan,Continental - Side Dish,147.7,4.4,22.6,6.6,2.9
+F1863,Sauteed Green Beans - lightly seasoned,Continental - Side Dish,160.4,4.0,17.8,6.3,3.5
+F1864,Roasted Brussels Sprouts - classic,Continental - Side Dish,143.6,3.5,21.9,7.9,3.5
+F1865,Roasted Brussels Sprouts - with herbs,Continental - Side Dish,171.1,4.7,19.8,7.1,2.7
+F1866,Roasted Brussels Sprouts - with garlic,Continental - Side Dish,138.9,3.4,21.4,7.0,2.7
+F1867,Roasted Brussels Sprouts - with parmesan,Continental - Side Dish,141.2,4.2,17.4,7.3,3.6
+F1868,Roasted Brussels Sprouts - lightly seasoned,Continental - Side Dish,148.2,3.9,20.7,6.5,3.1
+F1869,Grilled Asparagus - classic,Continental - Side Dish,157.4,3.8,18.8,6.8,2.3
+F1870,Grilled Asparagus - with herbs,Continental - Side Dish,145.6,3.6,21.5,6.8,3.5
+F1871,Grilled Asparagus - with garlic,Continental - Side Dish,141.4,4.3,22.4,6.9,2.8
+F1872,Grilled Asparagus - with parmesan,Continental - Side Dish,147.8,4.1,17.9,7.3,3.5
+F1873,Grilled Asparagus - lightly seasoned,Continental - Side Dish,168.3,3.5,20.2,6.4,3.6
+F1874,Buttered Peas - classic,Continental - Side Dish,139.2,3.4,16.9,7.0,2.3
+F1875,Buttered Peas - with herbs,Continental - Side Dish,158.0,3.9,20.6,8.0,3.1
+F1876,Buttered Peas - with garlic,Continental - Side Dish,156.6,4.7,19.8,7.7,2.8
+F1877,Buttered Peas - with parmesan,Continental - Side Dish,144.7,4.4,21.5,6.5,2.9
+F1878,Buttered Peas - lightly seasoned,Continental - Side Dish,155.4,3.9,20.0,7.4,3.5
+F1879,Glazed Carrots - classic,Continental - Side Dish,166.4,4.2,17.9,7.0,2.9
+F1880,Glazed Carrots - with herbs,Continental - Side Dish,143.1,4.6,21.0,8.2,3.4
+F1881,Glazed Carrots - with garlic,Continental - Side Dish,154.4,3.8,18.2,7.0,2.3
+F1882,Glazed Carrots - with parmesan,Continental - Side Dish,150.1,3.3,18.1,8.0,2.8
+F1883,Glazed Carrots - lightly seasoned,Continental - Side Dish,153.9,3.9,17.1,8.2,2.7
+F1884,Roasted Root Vegetables - classic,Continental - Side Dish,162.6,4.0,22.1,7.8,2.6
+F1885,Roasted Root Vegetables - with herbs,Continental - Side Dish,156.6,3.5,21.0,6.7,3.2
+F1886,Roasted Root Vegetables - with garlic,Continental - Side Dish,167.5,4.0,19.2,8.0,3.0
+F1887,Roasted Root Vegetables - with parmesan,Continental - Side Dish,149.5,4.5,19.9,7.0,3.2
+F1888,Roasted Root Vegetables - lightly seasoned,Continental - Side Dish,155.1,3.5,17.9,5.9,3.2
+F1889,Macaroni and Cheese - classic,Continental - Side Dish,144.3,3.5,19.1,7.5,2.4
+F1890,Macaroni and Cheese - with herbs,Continental - Side Dish,145.0,4.4,21.4,7.0,3.0
+F1891,Macaroni and Cheese - with garlic,Continental - Side Dish,144.2,3.5,22.1,5.8,2.3
+F1892,Macaroni and Cheese - with parmesan,Continental - Side Dish,157.7,3.5,20.8,5.8,3.1
+F1893,Macaroni and Cheese - lightly seasoned,Continental - Side Dish,138.5,3.7,18.0,8.2,3.1
+F1894,Cauliflower Gratin - classic,Continental - Side Dish,157.4,3.3,21.4,7.4,2.7
+F1895,Cauliflower Gratin - with herbs,Continental - Side Dish,139.6,3.9,23.2,7.9,2.5
+F1896,Cauliflower Gratin - with garlic,Continental - Side Dish,167.3,4.1,21.9,7.8,2.5
+F1897,Cauliflower Gratin - with parmesan,Continental - Side Dish,160.9,3.7,21.4,6.6,2.9
+F1898,Cauliflower Gratin - lightly seasoned,Continental - Side Dish,158.4,3.6,19.3,6.0,2.6
+F1899,Herb Couscous - classic,Continental - Side Dish,168.4,4.0,19.5,6.1,2.4
+F1900,Herb Couscous - with herbs,Continental - Side Dish,154.1,4.2,17.0,7.7,3.0
+F1901,Herb Couscous - with garlic,Continental - Side Dish,140.8,4.0,17.6,7.3,3.5
+F1902,Herb Couscous - with parmesan,Continental - Side Dish,169.8,4.4,21.0,7.1,2.8
+F1903,Herb Couscous - lightly seasoned,Continental - Side Dish,138.0,4.0,18.3,7.8,3.4
+F1904,Buttered Polenta - classic,Continental - Side Dish,150.6,4.1,21.5,7.7,3.3
+F1905,Buttered Polenta - with herbs,Continental - Side Dish,140.0,3.5,19.9,6.3,3.5
+F1906,Buttered Polenta - with garlic,Continental - Side Dish,146.9,4.5,19.4,6.2,3.3
+F1907,Buttered Polenta - with parmesan,Continental - Side Dish,165.8,4.1,17.6,5.8,3.2
+F1908,Buttered Polenta - lightly seasoned,Continental - Side Dish,162.0,3.7,19.1,6.1,3.2
+F1909,Risotto Milanese - classic,Continental - Side Dish,145.8,4.5,19.5,6.7,2.7
+F1910,Risotto Milanese - with herbs,Continental - Side Dish,161.7,4.4,19.4,7.7,3.0
+F1911,Risotto Milanese - with garlic,Continental - Side Dish,150.2,4.1,18.4,6.5,2.8
+F1912,Risotto Milanese - with parmesan,Continental - Side Dish,162.6,4.3,22.3,7.4,3.4
+F1913,Risotto Milanese - lightly seasoned,Continental - Side Dish,153.0,4.3,17.8,6.3,2.9
+F1914,Baked Beans - classic,Continental - Side Dish,149.0,4.1,21.3,7.5,2.5
+F1915,Baked Beans - with herbs,Continental - Side Dish,172.3,3.3,17.4,6.1,3.6
+F1916,Baked Beans - with garlic,Continental - Side Dish,152.6,3.4,18.2,5.9,2.3
+F1917,Baked Beans - with parmesan,Continental - Side Dish,150.7,4.7,20.7,7.1,3.3
+F1918,Baked Beans - lightly seasoned,Continental - Side Dish,158.6,4.6,22.0,7.4,2.9
+F1919,Coleslaw - classic,Continental - Side Dish,143.9,4.2,21.9,6.5,2.3
+F1920,Coleslaw - with herbs,Continental - Side Dish,158.7,4.0,18.3,6.2,2.3
+F1921,Coleslaw - with garlic,Continental - Side Dish,145.3,3.3,17.8,8.3,3.4
+F1922,Coleslaw - with parmesan,Continental - Side Dish,149.5,3.8,20.6,7.0,3.4
+F1923,Coleslaw - lightly seasoned,Continental - Side Dish,139.0,3.4,18.6,7.8,3.6
+F1924,Creamy Potato Bake - classic,Continental - Side Dish,149.3,4.7,18.6,7.3,2.5
+F1925,Creamy Potato Bake - with herbs,Continental - Side Dish,171.0,4.1,18.5,6.8,2.4
+F1926,Creamy Potato Bake - with garlic,Continental - Side Dish,139.1,3.7,22.9,7.8,3.7
+F1927,Creamy Potato Bake - with parmesan,Continental - Side Dish,169.0,4.5,20.5,7.5,3.7
+F1928,Creamy Potato Bake - lightly seasoned,Continental - Side Dish,157.3,4.4,21.6,8.2,2.9
+F1929,Scrambled Eggs on Toast - classic,Continental - Breakfast,217.9,10.3,20.4,7.8,2.4
+F1930,Scrambled Eggs on Toast - with herbs,Continental - Breakfast,227.1,11.8,25.4,8.1,2.7
+F1931,Scrambled Eggs on Toast - with cheese,Continental - Breakfast,244.0,10.1,20.2,10.1,2.6
+F1932,Scrambled Eggs on Toast - with vegetables,Continental - Breakfast,198.5,10.6,26.5,7.6,3.6
+F1933,Scrambled Eggs on Toast - whole grain,Continental - Breakfast,218.8,9.5,27.0,8.3,3.7
+F1934,Poached Eggs with Spinach - classic,Continental - Breakfast,229.7,11.5,24.0,8.0,3.4
+F1935,Poached Eggs with Spinach - with herbs,Continental - Breakfast,239.7,8.9,21.7,8.2,3.2
+F1936,Poached Eggs with Spinach - with cheese,Continental - Breakfast,201.8,8.6,27.2,9.6,3.2
+F1937,Poached Eggs with Spinach - with vegetables,Continental - Breakfast,226.0,11.0,24.3,7.5,3.0
+F1938,Poached Eggs with Spinach - whole grain,Continental - Breakfast,226.4,10.0,27.7,10.3,3.6
+F1939,Cheese Omelette - classic,Continental - Breakfast,219.5,11.7,27.2,8.3,2.6
+F1940,Cheese Omelette - with herbs,Continental - Breakfast,224.0,8.4,26.3,8.9,3.1
+F1941,Cheese Omelette - with cheese,Continental - Breakfast,220.1,9.6,25.4,7.9,3.7
+F1942,Cheese Omelette - with vegetables,Continental - Breakfast,230.5,9.9,25.5,7.4,2.6
+F1943,Cheese Omelette - whole grain,Continental - Breakfast,224.3,9.4,24.9,8.2,3.1
+F1944,Mushroom Omelette - classic,Continental - Breakfast,206.1,9.9,24.9,8.6,3.0
+F1945,Mushroom Omelette - with herbs,Continental - Breakfast,204.7,10.7,23.0,10.1,2.7
+F1946,Mushroom Omelette - with cheese,Continental - Breakfast,203.1,8.7,24.6,8.1,2.4
+F1947,Mushroom Omelette - with vegetables,Continental - Breakfast,207.9,9.0,23.5,8.6,2.5
+F1948,Mushroom Omelette - whole grain,Continental - Breakfast,244.2,8.7,26.3,8.0,3.0
+F1949,Eggs Benedict - classic,Continental - Breakfast,246.2,11.3,24.1,9.7,3.4
+F1950,Eggs Benedict - with herbs,Continental - Breakfast,209.4,10.2,24.5,8.7,3.3
+F1951,Eggs Benedict - with cheese,Continental - Breakfast,196.8,11.1,23.8,9.4,2.9
+F1952,Eggs Benedict - with vegetables,Continental - Breakfast,211.3,9.5,24.5,10.4,2.6
+F1953,Eggs Benedict - whole grain,Continental - Breakfast,194.6,8.6,26.8,10.5,2.5
+F1954,Avocado Toast - classic,Continental - Breakfast,224.0,10.5,21.5,9.9,2.8
+F1955,Avocado Toast - with herbs,Continental - Breakfast,229.1,10.0,25.8,10.3,2.8
+F1956,Avocado Toast - with cheese,Continental - Breakfast,208.7,10.5,21.3,7.9,3.5
+F1957,Avocado Toast - with vegetables,Continental - Breakfast,211.4,10.5,24.6,10.1,2.4
+F1958,Avocado Toast - whole grain,Continental - Breakfast,202.2,9.0,22.6,8.3,2.7
+F1959,French Toast - classic,Continental - Breakfast,227.6,9.2,23.6,10.2,2.8
+F1960,French Toast - with herbs,Continental - Breakfast,224.6,11.7,23.3,8.0,2.3
+F1961,French Toast - with cheese,Continental - Breakfast,232.0,10.6,27.4,9.7,2.4
+F1962,French Toast - with vegetables,Continental - Breakfast,202.4,8.6,20.6,10.2,3.1
+F1963,French Toast - whole grain,Continental - Breakfast,195.0,9.6,26.0,7.6,2.6
+F1964,Buttermilk Pancakes - classic,Continental - Breakfast,201.8,10.6,27.0,8.4,2.6
+F1965,Buttermilk Pancakes - with herbs,Continental - Breakfast,208.6,10.5,21.2,10.1,2.3
+F1966,Buttermilk Pancakes - with cheese,Continental - Breakfast,228.6,11.3,22.7,8.9,3.7
+F1967,Buttermilk Pancakes - with vegetables,Continental - Breakfast,222.1,9.2,23.6,10.5,3.3
+F1968,Buttermilk Pancakes - whole grain,Continental - Breakfast,202.9,10.4,25.0,9.4,3.1
+F1969,Blueberry Pancakes - classic,Continental - Breakfast,221.2,10.5,22.5,8.5,3.1
+F1970,Blueberry Pancakes - with herbs,Continental - Breakfast,236.1,9.8,23.0,8.2,2.7
+F1971,Blueberry Pancakes - with cheese,Continental - Breakfast,193.6,11.1,26.7,8.5,3.0
+F1972,Blueberry Pancakes - with vegetables,Continental - Breakfast,194.0,11.5,27.4,8.9,2.3
+F1973,Blueberry Pancakes - whole grain,Continental - Breakfast,216.3,9.3,21.9,7.4,2.8
+F1974,Belgian Waffles - classic,Continental - Breakfast,215.3,10.2,23.2,7.9,3.4
+F1975,Belgian Waffles - with herbs,Continental - Breakfast,214.2,9.6,22.2,8.7,2.6
+F1976,Belgian Waffles - with cheese,Continental - Breakfast,234.0,11.5,26.4,9.6,2.7
+F1977,Belgian Waffles - with vegetables,Continental - Breakfast,232.8,11.1,23.3,10.1,2.5
+F1978,Belgian Waffles - whole grain,Continental - Breakfast,208.9,10.5,24.9,8.3,3.2
+F1979,Granola with Yogurt - classic,Continental - Breakfast,203.5,8.3,20.5,9.1,2.5
+F1980,Granola with Yogurt - with herbs,Continental - Breakfast,199.0,9.2,25.7,9.7,2.6
+F1981,Granola with Yogurt - with cheese,Continental - Breakfast,201.6,10.0,22.8,8.4,3.4
+F1982,Granola with Yogurt - with vegetables,Continental - Breakfast,246.3,9.9,26.2,8.5,3.5
+F1983,Granola with Yogurt - whole grain,Continental - Breakfast,243.8,8.4,26.1,7.6,3.0
+F1984,Baked Oatmeal - classic,Continental - Breakfast,203.7,11.2,26.4,10.1,2.4
+F1985,Baked Oatmeal - with herbs,Continental - Breakfast,234.2,9.1,26.1,8.8,3.4
+F1986,Baked Oatmeal - with cheese,Continental - Breakfast,195.4,9.9,26.1,9.1,3.7
+F1987,Baked Oatmeal - with vegetables,Continental - Breakfast,218.6,10.7,22.6,8.4,3.2
+F1988,Baked Oatmeal - whole grain,Continental - Breakfast,195.8,11.6,24.2,8.2,3.2
+F1989,Spinach Frittata - classic,Continental - Breakfast,204.1,11.4,26.8,8.1,2.4
+F1990,Spinach Frittata - with herbs,Continental - Breakfast,227.0,9.4,21.4,8.3,2.4
+F1991,Spinach Frittata - with cheese,Continental - Breakfast,235.3,8.2,20.5,9.9,3.0
+F1992,Spinach Frittata - with vegetables,Continental - Breakfast,225.1,9.5,20.8,7.9,2.4
+F1993,Spinach Frittata - whole grain,Continental - Breakfast,226.3,11.6,27.8,9.4,2.3
+F1994,Smoked Salmon Omelette - classic,Continental - Breakfast,227.6,10.7,26.2,7.8,2.6
+F1995,Smoked Salmon Omelette - with herbs,Continental - Breakfast,245.4,11.0,26.0,10.0,2.9
+F1996,Smoked Salmon Omelette - with cheese,Continental - Breakfast,203.8,10.7,22.9,7.8,3.6
+F1997,Smoked Salmon Omelette - with vegetables,Continental - Breakfast,219.2,9.8,22.4,9.6,2.5
+F1998,Smoked Salmon Omelette - whole grain,Continental - Breakfast,203.5,9.5,25.8,8.3,3.5
+F1999,Breakfast Hash - classic,Continental - Breakfast,241.9,10.2,20.7,7.9,2.7
+F2000,Breakfast Hash - with herbs,Continental - Breakfast,207.5,9.5,20.2,9.4,2.8
+F2001,"Cola soft drink, regular",Soft Drinks,42.0,0.0,10.6,0.0,0.0
+F2002,"Cola soft drink, zero sugar",Soft Drinks,0.2,0.0,0.0,0.0,0.0
+F2003,"Lemon-lime soda, regular",Soft Drinks,40.0,0.0,10.0,0.0,0.0
+F2004,"Lemon-lime soda, zero sugar",Soft Drinks,0.2,0.0,0.0,0.0,0.0
+F2005,Orange soda,Soft Drinks,45.0,0.0,11.3,0.0,0.0
+F2006,Ginger ale,Soft Drinks,34.0,0.0,8.7,0.0,0.0
+F2007,Root beer,Soft Drinks,41.0,0.0,10.5,0.0,0.0
+F2008,"Tonic water, regular",Soft Drinks,34.0,0.0,8.6,0.0,0.0
+F2009,"Tonic water, diet",Soft Drinks,1.0,0.0,0.2,0.0,0.0
+F2010,Club soda,Soft Drinks,0.0,0.0,0.0,0.0,0.0
+F2011,"Sparkling water, plain",Soft Drinks,0.0,0.0,0.0,0.0,0.0
+F2012,"Sparkling water, lemon flavored",Soft Drinks,1.0,0.0,0.2,0.0,0.0
+F2013,"Sparkling water, berry flavored",Soft Drinks,1.0,0.0,0.2,0.0,0.0
+F2014,"Lemon soda, Indian style",Soft Drinks,38.0,0.0,9.5,0.0,0.0
+F2015,"Orange fizzy drink, low sugar",Soft Drinks,18.0,0.0,4.5,0.0,0.0
+F2016,Cola with caffeine,Soft Drinks,42.0,0.0,10.6,0.0,0.0
+F2017,Cola without caffeine,Soft Drinks,42.0,0.0,10.6,0.0,0.0
+F2018,Cream soda,Soft Drinks,43.0,0.0,10.8,0.0,0.0
+F2019,Grape soda,Soft Drinks,43.0,0.0,10.8,0.0,0.0
+F2020,Strawberry soda,Soft Drinks,42.0,0.0,10.5,0.0,0.0
+F2021,Pineapple soda,Soft Drinks,45.0,0.0,11.2,0.0,0.0
+F2022,Bitter lemon soda,Soft Drinks,38.0,0.0,9.4,0.0,0.0
+F2023,Energy-style soft drink,Soft Drinks,45.0,0.0,11.0,0.0,0.0
+F2024,"Iced tea, lemon sweetened",Soft Drinks,30.0,0.0,7.5,0.0,0.0
+F2025,"Iced tea, peach sweetened",Soft Drinks,31.0,0.0,7.8,0.0,0.0
+F2026,"Lemonade, sweetened",Soft Drinks,40.0,0.0,10.0,0.0,0.0
+F2027,"Lemonade, diet",Soft Drinks,2.0,0.0,0.5,0.0,0.0
+F2028,"Ginger beer, non-alcoholic",Soft Drinks,40.0,0.0,10.0,0.0,0.0
+F2029,"Cola, reduced sugar",Soft Drinks,20.0,0.0,5.0,0.0,0.0
+F2030,"Lime soda, sweetened",Soft Drinks,39.0,0.0,9.8,0.0,0.0
+F0288,"Rajma, cooked - traditional style",Pulses & Protein,129.2,8.7,22.8,0.5,6.4
+F0900,Cauliflower - baked,Vegetables,25.9,1.9,5.0,0.3,2.0
+F0862,Tomato - homemade style,Vegetables,18.1,0.9,3.9,0.2,1.2
+F0650,Thepla - with herbs,Other Foods,291.5,8.0,45.0,8.0,5.0
+F0763,Guava - homemade style,Fruits,68.5,2.6,14.3,1.0,5.4
